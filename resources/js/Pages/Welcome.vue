@@ -10,8 +10,10 @@
             <div class="cont_aura_2"></div>
 
             <div class="cont_error">
-                <img src="/images/BOOK2WASHFIX.png" class="justify-center lg:w-1/4 -m-50 -mt-28">
-                <p class="text-2xl -mt-48">hensemelizationalism</p>
+                <div>
+                <img src="/images/BOOK2WASHFIX.png" class="justify-center lg:w-1/4 -m-50 -mt-28 pb-8 mx-auto my-auto">
+                </div>
+                <p class="-mt-48 pb-4 italic text-sm align-middle md:align-top">Roses a red , violets are blue. you need to shower your car does too.</p>
                 <div v-if="canLogin" class="">
                     <Link v-if="$page.props.auth.user" href="/dashboard" class="text-sm text-gray-700 underline">
                         Dashboard
@@ -60,8 +62,6 @@ body {
 }
 
 .cont_error > img  {
-    margin-left: auto;
-    margin-right: auto;
     left:-100%;
     transition: all 0.5s;
 }
@@ -71,7 +71,7 @@ body {
     font-family: 'Lato', sans-serif;
     font-weight: 300;
     /* margin-top: -10vw; */
-    letter-spacing: 5px;
+    letter-spacing: 2px;
     color:#9294AE;
     position: relative;
     left:100%;
