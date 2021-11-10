@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\VehicleController;
+use App\Http\Controllers\ViewCarwashController;
 use Illuminate\Foundation\Application;
 use Illuminate\Support\Facades\Route;
 use Inertia\Inertia;
@@ -26,6 +27,7 @@ Route::get('/', function () {
 });
 
 Route::get('/vehicles',[VehicleController::class, 'index']);
+Route::get('/viewcarwash',[ViewCarwashController::class, 'index']);
 
 Route::get('/dashboard', function () {
     return Inertia::render('Dashboard');
