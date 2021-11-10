@@ -18,6 +18,7 @@
         "alpinejs": "^2.7.3",
         "autoprefixer": "^10.2.4",
         "axios": "^0.21",
+        "browser-sync-webpack-plugin": "^2.3.0",
         "laravel-mix": "^6.0.6",
         "lodash": "^4.17.19",
         "postcss": "^8.2.13",
@@ -25,5 +26,8 @@
         "tailwindcss": "^2.1.2",
         "vue": "^3.0.5",
         "vue-loader": "^16.1.2"
+    },
+    "dependencies": {
+        "browser-sync": "^2.27.7"
     }
 }
