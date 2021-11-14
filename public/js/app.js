@@ -21545,6 +21545,232 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
 
 /***/ }),
 
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Admin.vue?vue&type=template&id=67c543f6":
+/*!**********************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Admin.vue?vue&type=template&id=67c543f6 ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* binding */ render)
+/* harmony export */ });
+/* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
+
+var _hoisted_1 = {
+  "x-data": "{ sidebarOpen: false }",
+  "class": "flex h-screen bg-gray-200"
+};
+
+var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"flex items-center justify-center mt-8\"><div class=\"flex items-center\"><svg class=\"h-12 w-12\" viewBox=\"0 0 512 512\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M364.61 390.213C304.625 450.196 207.37 450.196 147.386 390.213C117.394 360.22 102.398 320.911 102.398 281.6C102.398 242.291 117.394 202.981 147.386 172.989C147.386 230.4 153.6 281.6 230.4 307.2C230.4 256 256 102.4 294.4 76.7999C320 128 334.618 142.997 364.608 172.989C394.601 202.981 409.597 242.291 409.597 281.6C409.597 320.911 394.601 360.22 364.61 390.213Z\" fill=\"#4C51BF\" stroke=\"#4C51BF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M201.694 387.105C231.686 417.098 280.312 417.098 310.305 387.105C325.301 372.109 332.8 352.456 332.8 332.8C332.8 313.144 325.301 293.491 310.305 278.495C295.309 263.498 288 256 275.2 230.4C256 243.2 243.201 320 243.201 345.6C201.694 345.6 179.2 332.8 179.2 332.8C179.2 352.456 186.698 372.109 201.694 387.105Z\" fill=\"white\"></path></svg><span class=\"text-white text-2xl mx-2 font-semibold\">Book2Wash</span></div></div><nav class=\"mt-10\"><a class=\"flex items-center mt-4 py-2 px-6 bg-gray-700 bg-opacity-25 text-gray-100\" href=\"/\"><svg class=\"h-6 w-6\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M11 3.055A9.001 9.001 0 1020.945 13H11V3.055z\"></path><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M20.488 9H15V3.512A9.025 9.025 0 0120.488 9z\"></path></svg><span class=\"mx-3\">Dashboard</span></a><a class=\"flex items-center mt-4 py-2 px-6 text-gray-500 hover:bg-gray-700 hover:bg-opacity-25 hover:text-gray-100\" href=\"/ui-elements\"><svg class=\"h-6 w-6\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M17 14v6m-3-3h6M6 10h2a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v2a2 2 0 002 2zm10 0h2a2 2 0 002-2V6a2 2 0 00-2-2h-2a2 2 0 00-2 2v2a2 2 0 002 2zM6 20h2a2 2 0 002-2v-2a2 2 0 00-2-2H6a2 2 0 00-2 2v2a2 2 0 002 2z\"></path></svg><span class=\"mx-3\">UI Elements</span></a><a class=\"flex items-center mt-4 py-2 px-6 text-gray-500 hover:bg-gray-700 hover:bg-opacity-25 hover:text-gray-100\" href=\"/tables\"><svg class=\"h-6 w-6\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10\"></path></svg><span class=\"mx-3\">Tables</span></a><a class=\"flex items-center mt-4 py-2 px-6 text-gray-500 hover:bg-gray-700 hover:bg-opacity-25 hover:text-gray-100\" href=\"/forms\"><svg class=\"h-6 w-6\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z\"></path></svg><span class=\"mx-3\">Forms</span></a></nav>", 2);
+
+var _hoisted_4 = [_hoisted_2];
+var _hoisted_5 = {
+  "class": "flex-1 flex flex-col overflow-hidden"
+};
+var _hoisted_6 = {
+  "class": "flex justify-between items-center py-4 px-6 bg-white border-b-4 border-indigo-600"
+};
+var _hoisted_7 = {
+  "class": "flex items-center"
+};
+
+var _hoisted_8 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("svg", {
+  "class": "h-6 w-6",
+  viewBox: "0 0 24 24",
+  fill: "none",
+  xmlns: "http://www.w3.org/2000/svg"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("path", {
+  d: "M4 6H20M4 12H20M4 18H11",
+  stroke: "currentColor",
+  "stroke-width": "2",
+  "stroke-linecap": "round",
+  "stroke-linejoin": "round"
+})], -1
+/* HOISTED */
+);
+
+var _hoisted_9 = [_hoisted_8];
+
+var _hoisted_10 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"relative mx-4 lg:mx-0\"><span class=\"absolute inset-y-0 left-0 pl-3 flex items-center\"><svg class=\"h-5 w-5 text-gray-500\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M21 21L15 15M17 10C17 13.866 13.866 17 10 17C6.13401 17 3 13.866 3 10C3 6.13401 6.13401 3 10 3C13.866 3 17 6.13401 17 10Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></span><input class=\"form-input w-32 sm:w-64 rounded-md pl-10 pr-4 focus:border-indigo-600\" type=\"text\" placeholder=\"Search\"></div>", 1);
+
+var _hoisted_11 = {
+  "class": "flex items-center"
+};
+var _hoisted_12 = {
+  "x-data": "{ notificationOpen: false }",
+  "class": "relative"
+};
+
+var _hoisted_13 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("svg", {
+  "class": "h-6 w-6",
+  viewBox: "0 0 24 24",
+  fill: "none",
+  xmlns: "http://www.w3.org/2000/svg"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("path", {
+  d: "M15 17H20L18.5951 15.5951C18.2141 15.2141 18 14.6973 18 14.1585V11C18 8.38757 16.3304 6.16509 14 5.34142V5C14 3.89543 13.1046 3 12 3C10.8954 3 10 3.89543 10 5V5.34142C7.66962 6.16509 6 8.38757 6 11V14.1585C6 14.6973 5.78595 15.2141 5.40493 15.5951L4 17H9M15 17V18C15 19.6569 13.6569 21 12 21C10.3431 21 9 19.6569 9 18V17M15 17H9",
+  stroke: "currentColor",
+  "stroke-width": "2",
+  "stroke-linecap": "round",
+  "stroke-linejoin": "round"
+})], -1
+/* HOISTED */
+);
+
+var _hoisted_14 = [_hoisted_13];
+
+var _hoisted_15 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "x-show": "notificationOpen",
+  "class": "absolute right-0 mt-2 w-80 bg-white rounded-lg shadow-xl overflow-hidden z-10",
+  style: {
+    "width": "20rem",
+    "display": "none"
+  }
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "#",
+  "class": "flex items-center px-4 py-3 text-gray-600 hover:text-white hover:bg-indigo-600 -mx-2"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  "class": "h-8 w-8 rounded-full object-cover mx-1",
+  src: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+  alt: "avatar"
+}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
+  "class": "text-sm mx-2"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
+  "class": "font-bold",
+  href: "#"
+}, "Sara Salah"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" replied on the "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
+  "class": "font-bold text-indigo-400",
+  href: "#"
+}, "Upload Image"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" artical . 2m ")])]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "#",
+  "class": "flex items-center px-4 py-3 text-gray-600 hover:text-white hover:bg-indigo-600 -mx-2"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  "class": "h-8 w-8 rounded-full object-cover mx-1",
+  src: "https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80",
+  alt: "avatar"
+}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
+  "class": "text-sm mx-2"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
+  "class": "font-bold",
+  href: "#"
+}, "Slick Net"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" start following you . 45m ")])]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "#",
+  "class": "flex items-center px-4 py-3 text-gray-600 hover:text-white hover:bg-indigo-600 -mx-2"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  "class": "h-8 w-8 rounded-full object-cover mx-1",
+  src: "https://images.unsplash.com/photo-1450297350677-623de575f31c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80",
+  alt: "avatar"
+}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
+  "class": "text-sm mx-2"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
+  "class": "font-bold",
+  href: "#"
+}, "Jane Doe"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Like Your reply on "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
+  "class": "font-bold text-indigo-400",
+  href: "#"
+}, "Test with TDD"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" artical . 1h ")])]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "#",
+  "class": "flex items-center px-4 py-3 text-gray-600 hover:text-white hover:bg-indigo-600 -mx-2"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  "class": "h-8 w-8 rounded-full object-cover mx-1",
+  src: "https://images.unsplash.com/photo-1580489944761-15a19d654956?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=398&q=80",
+  alt: "avatar"
+}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", {
+  "class": "text-sm mx-2"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
+  "class": "font-bold",
+  href: "#"
+}, "Abigail Bennett"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" start following you . 3h ")])])], -1
+/* HOISTED */
+);
+
+var _hoisted_16 = {
+  "x-data": "{ dropdownOpen: false }",
+  "class": "relative"
+};
+
+var _hoisted_17 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
+  "class": "h-full w-full object-cover",
+  src: "https://images.unsplash.com/photo-1528892952291-009c663ce843?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=296&q=80",
+  alt: "Your avatar"
+}, null, -1
+/* HOISTED */
+);
+
+var _hoisted_18 = [_hoisted_17];
+
+var _hoisted_19 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "x-show": "dropdownOpen",
+  "class": "absolute right-0 mt-2 w-48 bg-white rounded-md overflow-hidden shadow-xl z-10",
+  style: {
+    "display": "none"
+  }
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "#",
+  "class": "block px-4 py-2 text-sm text-gray-700 hover:bg-indigo-600 hover:text-white"
+}, "Profile"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "#",
+  "class": "block px-4 py-2 text-sm text-gray-700 hover:bg-indigo-600 hover:text-white"
+}, "Products"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "/login",
+  "class": "block px-4 py-2 text-sm text-gray-700 hover:bg-indigo-600 hover:text-white"
+}, "Logout")], -1
+/* HOISTED */
+);
+
+var _hoisted_20 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<main class=\"flex-1 overflow-x-hidden overflow-y-auto bg-gray-200\"><div class=\"container mx-auto px-6 py-8\"><h3 class=\"text-gray-700 text-3xl font-medium\">Dashboard</h3><div class=\"mt-4\"><div class=\"flex flex-wrap -mx-6\"><div class=\"w-full px-6 sm:w-1/2 xl:w-1/3\"><div class=\"flex items-center px-5 py-6 shadow-sm rounded-md bg-white\"><div class=\"p-3 rounded-full bg-indigo-600 bg-opacity-75\"><svg class=\"h-8 w-8 text-white\" viewBox=\"0 0 28 30\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M18.2 9.08889C18.2 11.5373 16.3196 13.5222 14 13.5222C11.6804 13.5222 9.79999 11.5373 9.79999 9.08889C9.79999 6.64043 11.6804 4.65556 14 4.65556C16.3196 4.65556 18.2 6.64043 18.2 9.08889Z\" fill=\"currentColor\"></path><path d=\"M25.2 12.0444C25.2 13.6768 23.9464 15 22.4 15C20.8536 15 19.6 13.6768 19.6 12.0444C19.6 10.4121 20.8536 9.08889 22.4 9.08889C23.9464 9.08889 25.2 10.4121 25.2 12.0444Z\" fill=\"currentColor\"></path><path d=\"M19.6 22.3889C19.6 19.1243 17.0927 16.4778 14 16.4778C10.9072 16.4778 8.39999 19.1243 8.39999 22.3889V26.8222H19.6V22.3889Z\" fill=\"currentColor\"></path><path d=\"M8.39999 12.0444C8.39999 13.6768 7.14639 15 5.59999 15C4.05359 15 2.79999 13.6768 2.79999 12.0444C2.79999 10.4121 4.05359 9.08889 5.59999 9.08889C7.14639 9.08889 8.39999 10.4121 8.39999 12.0444Z\" fill=\"currentColor\"></path><path d=\"M22.4 26.8222V22.3889C22.4 20.8312 22.0195 19.3671 21.351 18.0949C21.6863 18.0039 22.0378 17.9556 22.4 17.9556C24.7197 17.9556 26.6 19.9404 26.6 22.3889V26.8222H22.4Z\" fill=\"currentColor\"></path><path d=\"M6.64896 18.0949C5.98058 19.3671 5.59999 20.8312 5.59999 22.3889V26.8222H1.39999V22.3889C1.39999 19.9404 3.2804 17.9556 5.59999 17.9556C5.96219 17.9556 6.31367 18.0039 6.64896 18.0949Z\" fill=\"currentColor\"></path></svg></div><div class=\"mx-5\"><h4 class=\"text-2xl font-semibold text-gray-700\">8,282</h4><div class=\"text-gray-500\">New Users</div></div></div></div><div class=\"w-full mt-6 px-6 sm:w-1/2 xl:w-1/3 sm:mt-0\"><div class=\"flex items-center px-5 py-6 shadow-sm rounded-md bg-white\"><div class=\"p-3 rounded-full bg-orange-600 bg-opacity-75\"><svg class=\"h-8 w-8 text-white\" viewBox=\"0 0 28 28\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M4.19999 1.4C3.4268 1.4 2.79999 2.02681 2.79999 2.8C2.79999 3.57319 3.4268 4.2 4.19999 4.2H5.9069L6.33468 5.91114C6.33917 5.93092 6.34409 5.95055 6.34941 5.97001L8.24953 13.5705L6.99992 14.8201C5.23602 16.584 6.48528 19.6 8.97981 19.6H21C21.7731 19.6 22.4 18.9732 22.4 18.2C22.4 17.4268 21.7731 16.8 21 16.8H8.97983L10.3798 15.4H19.6C20.1303 15.4 20.615 15.1004 20.8521 14.6261L25.0521 6.22609C25.2691 5.79212 25.246 5.27673 24.991 4.86398C24.7357 4.45123 24.2852 4.2 23.8 4.2H8.79308L8.35818 2.46044C8.20238 1.83722 7.64241 1.4 6.99999 1.4H4.19999Z\" fill=\"currentColor\"></path><path d=\"M22.4 23.1C22.4 24.2598 21.4598 25.2 20.3 25.2C19.1403 25.2 18.2 24.2598 18.2 23.1C18.2 21.9402 19.1403 21 20.3 21C21.4598 21 22.4 21.9402 22.4 23.1Z\" fill=\"currentColor\"></path><path d=\"M9.1 25.2C10.2598 25.2 11.2 24.2598 11.2 23.1C11.2 21.9402 10.2598 21 9.1 21C7.9402 21 7 21.9402 7 23.1C7 24.2598 7.9402 25.2 9.1 25.2Z\" fill=\"currentColor\"></path></svg></div><div class=\"mx-5\"><h4 class=\"text-2xl font-semibold text-gray-700\">200,521</h4><div class=\"text-gray-500\">Total Orders</div></div></div></div><div class=\"w-full mt-6 px-6 sm:w-1/2 xl:w-1/3 xl:mt-0\"><div class=\"flex items-center px-5 py-6 shadow-sm rounded-md bg-white\"><div class=\"p-3 rounded-full bg-pink-600 bg-opacity-75\"><svg class=\"h-8 w-8 text-white\" viewBox=\"0 0 28 28\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6.99998 11.2H21L22.4 23.8H5.59998L6.99998 11.2Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linejoin=\"round\"></path><path d=\"M9.79999 8.4C9.79999 6.08041 11.6804 4.2 14 4.2C16.3196 4.2 18.2 6.08041 18.2 8.4V12.6C18.2 14.9197 16.3196 16.8 14 16.8C11.6804 16.8 9.79999 14.9197 9.79999 12.6V8.4Z\" stroke=\"currentColor\" stroke-width=\"2\"></path></svg></div><div class=\"mx-5\"><h4 class=\"text-2xl font-semibold text-gray-700\">215,542</h4><div class=\"text-gray-500\">Available Products</div></div></div></div></div></div><div class=\"mt-8\"></div><div class=\"flex flex-col mt-8\"><div class=\"-my-2 py-2 overflow-x-auto sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8\"><div class=\"align-middle inline-block min-w-full shadow overflow-hidden sm:rounded-lg border-b border-gray-200\"><table class=\"min-w-full\"><thead><tr><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Car No.Plate</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Car Type</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Status</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Date/Time</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50\"></th></tr></thead><tbody class=\"bg-white\"><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr></tbody></table></div></div></div></div></main>", 1);
+
+function render(_ctx, _cache) {
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("html", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)([_ctx.sidebarOpen ? 'block' : 'hidden', "fixed z-20 inset-0 bg-black opacity-50 transition-opacity lg:hidden"]),
+    onClick: _cache[0] || (_cache[0] = function ($event) {
+      return _ctx.sidebarOpen = false;
+    })
+  }, null, 2
+  /* CLASS */
+  ), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)([_ctx.sidebarOpen ? 'translate-x-0 ease-out' : '-translate-x-full ease-in', "fixed z-30 inset-y-0 left-0 w-64 transition duration-300 transform bg-gray-900 overflow-y-auto lg:translate-x-0 lg:static lg:inset-0"])
+  }, _hoisted_4, 2
+  /* CLASS */
+  ), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_5, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("header", _hoisted_6, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_7, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
+    onClick: _cache[1] || (_cache[1] = function ($event) {
+      return _ctx.sidebarOpen = true;
+    }),
+    "class": "text-gray-500 focus:outline-none lg:hidden"
+  }, _hoisted_9), _hoisted_10]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_11, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_12, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
+    onClick: _cache[2] || (_cache[2] = function ($event) {
+      return _ctx.notificationOpen = !_ctx.notificationOpen;
+    }),
+    "class": "flex mx-4 text-gray-600 focus:outline-none"
+  }, _hoisted_14), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "x-show": "notificationOpen",
+    onClick: _cache[3] || (_cache[3] = function ($event) {
+      return _ctx.notificationOpen = false;
+    }),
+    "class": "fixed inset-0 h-full w-full z-10",
+    style: {
+      "display": "none"
+    }
+  }), _hoisted_15]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_16, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
+    onClick: _cache[4] || (_cache[4] = function ($event) {
+      return _ctx.dropdownOpen = !_ctx.dropdownOpen;
+    }),
+    "class": "relative block h-8 w-8 rounded-full overflow-hidden shadow focus:outline-none"
+  }, _hoisted_18), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "x-show": "dropdownOpen",
+    onClick: _cache[5] || (_cache[5] = function ($event) {
+      return _ctx.dropdownOpen = false;
+    }),
+    "class": "fixed inset-0 h-full w-full z-10",
+    style: {
+      "display": "none"
+    }
+  }), _hoisted_19])])]), _hoisted_20])])])]);
+}
+
+/***/ }),
+
 /***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Auth/ConfirmPassword.vue?vue&type=template&id=475ae21d":
 /*!*************************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Auth/ConfirmPassword.vue?vue&type=template&id=475ae21d ***!
@@ -22314,6 +22540,91 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
 
 /***/ }),
 
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/SuperAdmin.vue?vue&type=template&id=09cdb4fd":
+/*!***************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/SuperAdmin.vue?vue&type=template&id=09cdb4fd ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* binding */ render)
+/* harmony export */ });
+/* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
+
+var _hoisted_1 = {
+  lang: "en"
+};
+
+var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("head", null, null, -1
+/* HOISTED */
+);
+
+var _hoisted_3 = {
+  "class": "bg-blue-200"
+};
+var _hoisted_4 = {
+  "x-data": "{ sidebarOpen: false }",
+  "class": "flex h-screen bg-gray-200"
+};
+
+var _hoisted_5 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"flex items-center justify-center mt-8\"><div class=\"flex items-center\"><svg class=\"h-12 w-12\" viewBox=\"0 0 512 512\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M364.61 390.213C304.625 450.196 207.37 450.196 147.386 390.213C117.394 360.22 102.398 320.911 102.398 281.6C102.398 242.291 117.394 202.981 147.386 172.989C147.386 230.4 153.6 281.6 230.4 307.2C230.4 256 256 102.4 294.4 76.7999C320 128 334.618 142.997 364.608 172.989C394.601 202.981 409.597 242.291 409.597 281.6C409.597 320.911 394.601 360.22 364.61 390.213Z\" fill=\"#4C51BF\" stroke=\"#4C51BF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M201.694 387.105C231.686 417.098 280.312 417.098 310.305 387.105C325.301 372.109 332.8 352.456 332.8 332.8C332.8 313.144 325.301 293.491 310.305 278.495C295.309 263.498 288 256 275.2 230.4C256 243.2 243.201 320 243.201 345.6C201.694 345.6 179.2 332.8 179.2 332.8C179.2 352.456 186.698 372.109 201.694 387.105Z\" fill=\"white\"></path></svg><span class=\"text-white text-2xl mx-2 font-semibold\">Book2Wash</span></div></div><nav class=\"mt-10\"><a class=\"flex items-center mt-4 py-2 px-6 bg-gray-700 bg-opacity-25 text-gray-100\" href=\"/ViewUsers\"><span class=\"mx-3\">View All Users</span></a><a class=\"flex items-center mt-4 py-2 px-6 text-gray-500 hover:bg-gray-700 hover:bg-opacity-25 hover:text-gray-100\" href=\"/ViewAdmins\"><span class=\"mx-3\">View All Admins</span></a></nav>", 2);
+
+var _hoisted_7 = [_hoisted_5];
+var _hoisted_8 = {
+  "class": "flex-1 flex flex-col overflow-hidden"
+};
+var _hoisted_9 = {
+  "class": "flex justify-between items-center py-4 px-6 bg-white border-b-4 border-indigo-600"
+};
+var _hoisted_10 = {
+  "class": "flex items-center"
+};
+
+var _hoisted_11 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("svg", {
+  "class": "h-6 w-6",
+  viewBox: "0 0 24 24",
+  fill: "none",
+  xmlns: "http://www.w3.org/2000/svg"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("path", {
+  d: "M4 6H20M4 12H20M4 18H11",
+  stroke: "currentColor",
+  "stroke-width": "2",
+  "stroke-linecap": "round",
+  "stroke-linejoin": "round"
+})], -1
+/* HOISTED */
+);
+
+var _hoisted_12 = [_hoisted_11];
+
+var _hoisted_13 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"relative mx-4 lg:mx-0\"><span class=\"absolute inset-y-0 left-0 pl-3 flex items-center\"><svg class=\"h-5 w-5 text-gray-500\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M21 21L15 15M17 10C17 13.866 13.866 17 10 17C6.13401 17 3 13.866 3 10C3 6.13401 6.13401 3 10 3C13.866 3 17 6.13401 17 10Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></span><input class=\"form-input w-32 sm:w-64 rounded-md pl-10 pr-4 focus:border-indigo-600\" type=\"text\" placeholder=\"Search\"></div>", 1);
+
+var _hoisted_14 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<main class=\"flex-1 overflow-x-hidden overflow-y-auto bg-gray-200\"><div class=\"container mx-auto px-6 py-8\"><h3 class=\"text-gray-700 text-3xl font-medium\">Super Administrator</h3><div class=\"mt-4\"><div class=\"flex flex-wrap -mx-6\"><div class=\"w-full px-6 sm:w-1/2 xl:w-1/3\"><div class=\"flex items-center px-5 py-6 shadow-sm rounded-md bg-white\"><div class=\"p-3 rounded-full bg-indigo-600 bg-opacity-75\"><svg class=\"h-8 w-8 text-white\" viewBox=\"0 0 28 30\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M18.2 9.08889C18.2 11.5373 16.3196 13.5222 14 13.5222C11.6804 13.5222 9.79999 11.5373 9.79999 9.08889C9.79999 6.64043 11.6804 4.65556 14 4.65556C16.3196 4.65556 18.2 6.64043 18.2 9.08889Z\" fill=\"currentColor\"></path><path d=\"M25.2 12.0444C25.2 13.6768 23.9464 15 22.4 15C20.8536 15 19.6 13.6768 19.6 12.0444C19.6 10.4121 20.8536 9.08889 22.4 9.08889C23.9464 9.08889 25.2 10.4121 25.2 12.0444Z\" fill=\"currentColor\"></path><path d=\"M19.6 22.3889C19.6 19.1243 17.0927 16.4778 14 16.4778C10.9072 16.4778 8.39999 19.1243 8.39999 22.3889V26.8222H19.6V22.3889Z\" fill=\"currentColor\"></path><path d=\"M8.39999 12.0444C8.39999 13.6768 7.14639 15 5.59999 15C4.05359 15 2.79999 13.6768 2.79999 12.0444C2.79999 10.4121 4.05359 9.08889 5.59999 9.08889C7.14639 9.08889 8.39999 10.4121 8.39999 12.0444Z\" fill=\"currentColor\"></path><path d=\"M22.4 26.8222V22.3889C22.4 20.8312 22.0195 19.3671 21.351 18.0949C21.6863 18.0039 22.0378 17.9556 22.4 17.9556C24.7197 17.9556 26.6 19.9404 26.6 22.3889V26.8222H22.4Z\" fill=\"currentColor\"></path><path d=\"M6.64896 18.0949C5.98058 19.3671 5.59999 20.8312 5.59999 22.3889V26.8222H1.39999V22.3889C1.39999 19.9404 3.2804 17.9556 5.59999 17.9556C5.96219 17.9556 6.31367 18.0039 6.64896 18.0949Z\" fill=\"currentColor\"></path></svg></div><div class=\"mx-5\"><h4 class=\"text-2xl font-semibold text-gray-700\">8,282</h4><div class=\"text-gray-500\">Total Users</div></div></div></div><div class=\"w-full mt-6 px-6 ml-6 sm:w-1/2 xl:w-1/3 xl:mt-0\"><div class=\"flex items-center px-5 py-6 shadow-sm rounded-md bg-white\"><div class=\"p-3 rounded-full bg-pink-600 bg-opacity-75\"><svg class=\"h-8 w-8 text-white\" viewBox=\"0 0 28 28\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6.99998 11.2H21L22.4 23.8H5.59998L6.99998 11.2Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linejoin=\"round\"></path><path d=\"M9.79999 8.4C9.79999 6.08041 11.6804 4.2 14 4.2C16.3196 4.2 18.2 6.08041 18.2 8.4V12.6C18.2 14.9197 16.3196 16.8 14 16.8C11.6804 16.8 9.79999 14.9197 9.79999 12.6V8.4Z\" stroke=\"currentColor\" stroke-width=\"2\"></path></svg></div><div class=\"mx-5\"><h4 class=\"text-2xl font-semibold text-gray-700\">542</h4><div class=\"text-gray-500\">Total Admins</div></div></div></div></div></div><div class=\"mt-8\"></div><div class=\"flex flex-col mt-8\"><div class=\"-my-2 py-2 overflow-x-auto sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8\"><div class=\"align-middle inline-block min-w-full shadow overflow-hidden sm:rounded-lg border-b border-gray-200\"><table class=\"min-w-full\"><thead><tr><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Name</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Title</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Status</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Role</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50\"></th></tr></thead><tbody class=\"bg-white\"><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr></tbody></table></div></div></div></div></main>", 1);
+
+function render(_ctx, _cache) {
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("html", _hoisted_1, [_hoisted_2, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("body", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_4, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)([_ctx.sidebarOpen ? 'block' : 'hidden', "fixed z-20 inset-0 bg-black opacity-50 transition-opacity lg:hidden"]),
+    onClick: _cache[0] || (_cache[0] = function ($event) {
+      return _ctx.sidebarOpen = false;
+    })
+  }, null, 2
+  /* CLASS */
+  ), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)([_ctx.sidebarOpen ? 'translate-x-0 ease-out' : '-translate-x-full ease-in', "fixed z-30 inset-y-0 left-0 w-64 transition duration-300 transform bg-gray-900 overflow-y-auto lg:translate-x-0 lg:static lg:inset-0"])
+  }, _hoisted_7, 2
+  /* CLASS */
+  ), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_8, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("header", _hoisted_9, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_10, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
+    onClick: _cache[1] || (_cache[1] = function ($event) {
+      return _ctx.sidebarOpen = true;
+    }),
+    "class": "text-gray-500 focus:outline-none lg:hidden"
+  }, _hoisted_12), _hoisted_13])]), _hoisted_14])])])])]);
+}
+
+/***/ }),
+
 /***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/VehicleList.vue?vue&type=template&id=55bc11d1":
 /*!****************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/VehicleList.vue?vue&type=template&id=55bc11d1 ***!
@@ -22366,6 +22677,176 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
   })], 64
   /* STABLE_FRAGMENT */
   );
+}
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/ViewAdmins.vue?vue&type=template&id=042217f2":
+/*!***************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/ViewAdmins.vue?vue&type=template&id=042217f2 ***!
+  \***************************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* binding */ render)
+/* harmony export */ });
+/* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
+
+var _hoisted_1 = {
+  lang: "en"
+};
+
+var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("head", null, null, -1
+/* HOISTED */
+);
+
+var _hoisted_3 = {
+  "class": "bg-blue-200"
+};
+var _hoisted_4 = {
+  "x-data": "{ sidebarOpen: false }",
+  "class": "flex h-screen bg-gray-200"
+};
+
+var _hoisted_5 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"flex items-center justify-center mt-8\"><div class=\"flex items-center\"><svg class=\"h-12 w-12\" viewBox=\"0 0 512 512\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M364.61 390.213C304.625 450.196 207.37 450.196 147.386 390.213C117.394 360.22 102.398 320.911 102.398 281.6C102.398 242.291 117.394 202.981 147.386 172.989C147.386 230.4 153.6 281.6 230.4 307.2C230.4 256 256 102.4 294.4 76.7999C320 128 334.618 142.997 364.608 172.989C394.601 202.981 409.597 242.291 409.597 281.6C409.597 320.911 394.601 360.22 364.61 390.213Z\" fill=\"#4C51BF\" stroke=\"#4C51BF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M201.694 387.105C231.686 417.098 280.312 417.098 310.305 387.105C325.301 372.109 332.8 352.456 332.8 332.8C332.8 313.144 325.301 293.491 310.305 278.495C295.309 263.498 288 256 275.2 230.4C256 243.2 243.201 320 243.201 345.6C201.694 345.6 179.2 332.8 179.2 332.8C179.2 352.456 186.698 372.109 201.694 387.105Z\" fill=\"white\"></path></svg><span class=\"text-white text-2xl mx-2 font-semibold\">Book2Wash</span></div></div><nav class=\"mt-10\"><a class=\"flex items-center mt-4 py-2 px-6 bg-gray-700 bg-opacity-25 text-gray-100\" href=\"/SuperAdmin\"><svg class=\"h-6 w-6\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M11 3.055A9.001 9.001 0 1020.945 13H11V3.055z\"></path><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M20.488 9H15V3.512A9.025 9.025 0 0120.488 9z\"></path></svg><span class=\"mx-3\">Dashboard</span></a><a class=\"flex items-center mt-4 py-2 px-6 text-gray-500 hover:bg-gray-700 hover:bg-opacity-25 hover:text-gray-100\" href=\"/ViewUsers\"><span class=\"mx-3\">View Users</span></a></nav>", 2);
+
+var _hoisted_7 = [_hoisted_5];
+var _hoisted_8 = {
+  "class": "flex-1 flex flex-col overflow-hidden"
+};
+var _hoisted_9 = {
+  "class": "flex justify-between items-center py-4 px-6 bg-white border-b-4 border-indigo-600"
+};
+var _hoisted_10 = {
+  "class": "flex items-center"
+};
+
+var _hoisted_11 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("svg", {
+  "class": "h-6 w-6",
+  viewBox: "0 0 24 24",
+  fill: "none",
+  xmlns: "http://www.w3.org/2000/svg"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("path", {
+  d: "M4 6H20M4 12H20M4 18H11",
+  stroke: "currentColor",
+  "stroke-width": "2",
+  "stroke-linecap": "round",
+  "stroke-linejoin": "round"
+})], -1
+/* HOISTED */
+);
+
+var _hoisted_12 = [_hoisted_11];
+
+var _hoisted_13 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"relative mx-4 lg:mx-0\"><span class=\"absolute inset-y-0 left-0 pl-3 flex items-center\"><svg class=\"h-5 w-5 text-gray-500\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M21 21L15 15M17 10C17 13.866 13.866 17 10 17C6.13401 17 3 13.866 3 10C3 6.13401 6.13401 3 10 3C13.866 3 17 6.13401 17 10Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></span><input class=\"form-input w-32 sm:w-64 rounded-md pl-10 pr-4 focus:border-indigo-600\" type=\"text\" placeholder=\"Search\"></div>", 1);
+
+var _hoisted_14 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<main class=\"flex-1 overflow-x-hidden overflow-y-auto bg-gray-200\"><div class=\"container mx-auto px-6 py-8\"><h3 class=\"text-gray-700 text-3xl font-medium\">Administrator</h3><div class=\"w-full mt-6 px-6 sm:w-1/2 xl:w-1/3 xl:mt-0\"><div class=\"flex items-center px-5 py-6 shadow-sm rounded-md bg-white\"><div class=\"p-3 rounded-full bg-pink-600 bg-opacity-75\"><svg class=\"h-8 w-8 text-white\" viewBox=\"0 0 28 28\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6.99998 11.2H21L22.4 23.8H5.59998L6.99998 11.2Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linejoin=\"round\"></path><path d=\"M9.79999 8.4C9.79999 6.08041 11.6804 4.2 14 4.2C16.3196 4.2 18.2 6.08041 18.2 8.4V12.6C18.2 14.9197 16.3196 16.8 14 16.8C11.6804 16.8 9.79999 14.9197 9.79999 12.6V8.4Z\" stroke=\"currentColor\" stroke-width=\"2\"></path></svg></div><div class=\"mx-5\"><h4 class=\"text-2xl font-semibold text-gray-700\">542</h4><div class=\"text-gray-500\">Total Admins</div></div></div></div><div class=\"mt-8\"></div><div class=\"flex flex-col mt-8\"><div class=\"-my-2 py-2 overflow-x-auto sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8\"><div class=\"align-middle inline-block min-w-full shadow overflow-hidden sm:rounded-lg border-b border-gray-200\"><table class=\"min-w-full\"><thead><tr><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Name</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Title</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Status</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Role</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50\"></th></tr></thead><tbody class=\"bg-white\"><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr></tbody></table></div></div></div></div></main>", 1);
+
+function render(_ctx, _cache) {
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("html", _hoisted_1, [_hoisted_2, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("body", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_4, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)([_ctx.sidebarOpen ? 'block' : 'hidden', "fixed z-20 inset-0 bg-black opacity-50 transition-opacity lg:hidden"]),
+    onClick: _cache[0] || (_cache[0] = function ($event) {
+      return _ctx.sidebarOpen = false;
+    })
+  }, null, 2
+  /* CLASS */
+  ), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)([_ctx.sidebarOpen ? 'translate-x-0 ease-out' : '-translate-x-full ease-in', "fixed z-30 inset-y-0 left-0 w-64 transition duration-300 transform bg-gray-900 overflow-y-auto lg:translate-x-0 lg:static lg:inset-0"])
+  }, _hoisted_7, 2
+  /* CLASS */
+  ), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_8, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("header", _hoisted_9, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_10, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
+    onClick: _cache[1] || (_cache[1] = function ($event) {
+      return _ctx.sidebarOpen = true;
+    }),
+    "class": "text-gray-500 focus:outline-none lg:hidden"
+  }, _hoisted_12), _hoisted_13])]), _hoisted_14])])])])]);
+}
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/ViewUsers.vue?vue&type=template&id=2482798a":
+/*!**************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/ViewUsers.vue?vue&type=template&id=2482798a ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* binding */ render)
+/* harmony export */ });
+/* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
+
+var _hoisted_1 = {
+  lang: "en"
+};
+
+var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("head", null, null, -1
+/* HOISTED */
+);
+
+var _hoisted_3 = {
+  "class": "bg-blue-200"
+};
+var _hoisted_4 = {
+  "x-data": "{ sidebarOpen: false }",
+  "class": "flex h-screen bg-gray-200"
+};
+
+var _hoisted_5 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"flex items-center justify-center mt-8\"><div class=\"flex items-center\"><svg class=\"h-12 w-12\" viewBox=\"0 0 512 512\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M364.61 390.213C304.625 450.196 207.37 450.196 147.386 390.213C117.394 360.22 102.398 320.911 102.398 281.6C102.398 242.291 117.394 202.981 147.386 172.989C147.386 230.4 153.6 281.6 230.4 307.2C230.4 256 256 102.4 294.4 76.7999C320 128 334.618 142.997 364.608 172.989C394.601 202.981 409.597 242.291 409.597 281.6C409.597 320.911 394.601 360.22 364.61 390.213Z\" fill=\"#4C51BF\" stroke=\"#4C51BF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M201.694 387.105C231.686 417.098 280.312 417.098 310.305 387.105C325.301 372.109 332.8 352.456 332.8 332.8C332.8 313.144 325.301 293.491 310.305 278.495C295.309 263.498 288 256 275.2 230.4C256 243.2 243.201 320 243.201 345.6C201.694 345.6 179.2 332.8 179.2 332.8C179.2 352.456 186.698 372.109 201.694 387.105Z\" fill=\"white\"></path></svg><span class=\"text-white text-2xl mx-2 font-semibold\">Book2Wash</span></div></div><nav class=\"mt-10\"><a class=\"flex items-center mt-4 py-2 px-6 bg-gray-700 bg-opacity-25 text-gray-100\" href=\"/SuperAdmin\"><svg class=\"h-6 w-6\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M11 3.055A9.001 9.001 0 1020.945 13H11V3.055z\"></path><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M20.488 9H15V3.512A9.025 9.025 0 0120.488 9z\"></path></svg><span class=\"mx-3\">Dashboard</span></a><a class=\"flex items-center mt-4 py-2 px-6 text-gray-500 hover:bg-gray-700 hover:bg-opacity-25 hover:text-gray-100\" href=\"/ViewAdmins\"><span class=\"mx-3\">View All Admins</span></a></nav>", 2);
+
+var _hoisted_7 = [_hoisted_5];
+var _hoisted_8 = {
+  "class": "flex-1 flex flex-col overflow-hidden"
+};
+var _hoisted_9 = {
+  "class": "flex justify-between items-center py-4 px-6 bg-white border-b-4 border-indigo-600"
+};
+var _hoisted_10 = {
+  "class": "flex items-center"
+};
+
+var _hoisted_11 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("svg", {
+  "class": "h-6 w-6",
+  viewBox: "0 0 24 24",
+  fill: "none",
+  xmlns: "http://www.w3.org/2000/svg"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("path", {
+  d: "M4 6H20M4 12H20M4 18H11",
+  stroke: "currentColor",
+  "stroke-width": "2",
+  "stroke-linecap": "round",
+  "stroke-linejoin": "round"
+})], -1
+/* HOISTED */
+);
+
+var _hoisted_12 = [_hoisted_11];
+
+var _hoisted_13 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"relative mx-4 lg:mx-0\"><span class=\"absolute inset-y-0 left-0 pl-3 flex items-center\"><svg class=\"h-5 w-5 text-gray-500\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M21 21L15 15M17 10C17 13.866 13.866 17 10 17C6.13401 17 3 13.866 3 10C3 6.13401 6.13401 3 10 3C13.866 3 17 6.13401 17 10Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></span><input class=\"form-input w-32 sm:w-64 rounded-md pl-10 pr-4 focus:border-indigo-600\" type=\"text\" placeholder=\"Search\"></div>", 1);
+
+var _hoisted_14 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<main class=\"flex-1 overflow-x-hidden overflow-y-auto bg-gray-200\"><div class=\"container mx-auto px-6 py-8\"><h3 class=\"text-gray-700 text-3xl font-medium\">Users</h3><div class=\"mt-4\"><div class=\"flex flex-wrap -mx-6\"><div class=\"w-full px-6 sm:w-1/2 xl:w-1/3\"><div class=\"flex items-center px-5 py-6 shadow-sm rounded-md bg-white\"><div class=\"p-3 rounded-full bg-indigo-600 bg-opacity-75\"><svg class=\"h-8 w-8 text-white\" viewBox=\"0 0 28 30\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M18.2 9.08889C18.2 11.5373 16.3196 13.5222 14 13.5222C11.6804 13.5222 9.79999 11.5373 9.79999 9.08889C9.79999 6.64043 11.6804 4.65556 14 4.65556C16.3196 4.65556 18.2 6.64043 18.2 9.08889Z\" fill=\"currentColor\"></path><path d=\"M25.2 12.0444C25.2 13.6768 23.9464 15 22.4 15C20.8536 15 19.6 13.6768 19.6 12.0444C19.6 10.4121 20.8536 9.08889 22.4 9.08889C23.9464 9.08889 25.2 10.4121 25.2 12.0444Z\" fill=\"currentColor\"></path><path d=\"M19.6 22.3889C19.6 19.1243 17.0927 16.4778 14 16.4778C10.9072 16.4778 8.39999 19.1243 8.39999 22.3889V26.8222H19.6V22.3889Z\" fill=\"currentColor\"></path><path d=\"M8.39999 12.0444C8.39999 13.6768 7.14639 15 5.59999 15C4.05359 15 2.79999 13.6768 2.79999 12.0444C2.79999 10.4121 4.05359 9.08889 5.59999 9.08889C7.14639 9.08889 8.39999 10.4121 8.39999 12.0444Z\" fill=\"currentColor\"></path><path d=\"M22.4 26.8222V22.3889C22.4 20.8312 22.0195 19.3671 21.351 18.0949C21.6863 18.0039 22.0378 17.9556 22.4 17.9556C24.7197 17.9556 26.6 19.9404 26.6 22.3889V26.8222H22.4Z\" fill=\"currentColor\"></path><path d=\"M6.64896 18.0949C5.98058 19.3671 5.59999 20.8312 5.59999 22.3889V26.8222H1.39999V22.3889C1.39999 19.9404 3.2804 17.9556 5.59999 17.9556C5.96219 17.9556 6.31367 18.0039 6.64896 18.0949Z\" fill=\"currentColor\"></path></svg></div><div class=\"mx-5\"><h4 class=\"text-2xl font-semibold text-gray-700\">8,282</h4><div class=\"text-gray-500\">Total Users</div></div></div></div></div></div><div class=\"mt-8\"></div><div class=\"flex flex-col mt-8\"><div class=\"-my-2 py-2 overflow-x-auto sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8\"><div class=\"align-middle inline-block min-w-full shadow overflow-hidden sm:rounded-lg border-b border-gray-200\"><table class=\"min-w-full\"><thead><tr><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Name</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Title</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Status</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Role</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50\"></th></tr></thead><tbody class=\"bg-white\"><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr></tbody></table></div></div></div></div></main>", 1);
+
+function render(_ctx, _cache) {
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("html", _hoisted_1, [_hoisted_2, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("body", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_4, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)([_ctx.sidebarOpen ? 'block' : 'hidden', "fixed z-20 inset-0 bg-black opacity-50 transition-opacity lg:hidden"]),
+    onClick: _cache[0] || (_cache[0] = function ($event) {
+      return _ctx.sidebarOpen = false;
+    })
+  }, null, 2
+  /* CLASS */
+  ), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+    "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)([_ctx.sidebarOpen ? 'translate-x-0 ease-out' : '-translate-x-full ease-in', "fixed z-30 inset-y-0 left-0 w-64 transition duration-300 transform bg-gray-900 overflow-y-auto lg:translate-x-0 lg:static lg:inset-0"])
+  }, _hoisted_7, 2
+  /* CLASS */
+  ), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_8, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("header", _hoisted_9, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_10, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
+    onClick: _cache[1] || (_cache[1] = function ($event) {
+      return _ctx.sidebarOpen = true;
+    }),
+    "class": "text-gray-500 focus:outline-none lg:hidden"
+  }, _hoisted_12), _hoisted_13])]), _hoisted_14])])])])]);
 }
 
 /***/ }),
@@ -22680,7 +23161,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n*[data-v-317d1a6e] {\n\n/* background-color: #92BDCA; */\ntext-align:center;\n}\nbody[data-v-317d1a6e] {\n    background-color: #92BDCA;\n}\n.cont_principal[data-v-317d1a6e] {\n    position: absolute;\n    width: 100%;\n    height: 100%;\n    overflow: hidden;\n}\n.cont_error[data-v-317d1a6e] {\n    position: absolute;\n    width: 100%;\n    height: 300px;\n    top: 50%;\n    margin-top:-150px;\n}\n.cont_error > img[data-v-317d1a6e]  {\n    left:-100%;\n    transition: all 0.5s;\n}\n.cont_error > p[data-v-317d1a6e]  {\n    font-family: 'Lato', sans-serif;\n    font-weight: 300;\n    /* margin-top: -10vw; */\n    letter-spacing: 2px;\n    color:#9294AE;\n    position: relative;\n    left:100%;\n    transition: all 0.5s;\n    transition-delay: 0.5s;\n-webkit-transition: all 0.5s;\n-webkit-transition-delay: 0.5s;\n}\n.cont_aura_1[data-v-317d1a6e] {\n    position:absolute;\n    width:300px;\n    height: 120%;\n    top:25px;\n    right: -340px;\n    background-color: #325B68;\n    box-shadow: 0px 0px  60px  20px  rgba(27, 45, 78, 0.5);\n    transition: all 0.5s;\n}\n.cont_aura_2[data-v-317d1a6e] {\n    position:absolute;\n    width:100%;\n    height: 300px;\n    right:-10%;\n    bottom:-301px;\n    background-color: #325B68;\n    box-shadow: 0px 0px  60px  20px  rgba(27, 45, 78, 0.5);\n    z-index:5;\n    transition: all 0.5s;\n-webkit-transition: all 0.5s;\n}\n.cont_error_active > .cont_error > img[data-v-317d1a6e] {\n    left:0%;\n}\n.cont_error_active > .cont_error > p[data-v-317d1a6e] {\n    left:0%;\n}\n.cont_error_active > .cont_aura_2[data-v-317d1a6e] {\n    -webkit-animation-name: animation_error_2-317d1a6e;\n            animation-name: animation_error_2-317d1a6e;\n    -webkit-animation-duration: 4s;\n            animation-duration: 4s;\n    -webkit-animation-timing-function: linear;\n            animation-timing-function: linear;\n    -webkit-animation-iteration-count: infinite;\n            animation-iteration-count: infinite;\n    -webkit-animation-direction: alternate;\n            animation-direction: alternate;\ntransform: rotate(-20deg);\n}\n.cont_error_active > .cont_aura_1[data-v-317d1a6e] {\n    transform: rotate(20deg);\n    right:-170px;\n    -webkit-animation-name: animation_error_1-317d1a6e;\n            animation-name: animation_error_1-317d1a6e;\n    -webkit-animation-duration: 4s;\n            animation-duration: 4s;\n    -webkit-animation-timing-function: linear;\n            animation-timing-function: linear;\n    -webkit-animation-iteration-count: infinite;\n            animation-iteration-count: infinite;\n    -webkit-animation-direction: alternate;\n            animation-direction: alternate;\n}\n@-webkit-keyframes animation_error_1-317d1a6e {\nfrom {\n    transform: rotate(20deg);\n}\nto {\n    transform: rotate(25deg);\n}\n}\n@keyframes animation_error_1-317d1a6e {\nfrom {\n    transform: rotate(20deg);\n}\nto {\n    transform: rotate(25deg);\n}\n}\n@-webkit-keyframes animation_error_2-317d1a6e {\nfrom {\n    transform: rotate(-15deg);\n}\nto {\n    transform: rotate(-20deg);\n}\n}\n@keyframes animation_error_2-317d1a6e {\nfrom {\n    transform: rotate(-15deg);\n}\nto {\n    transform: rotate(-20deg);\n}\n}\n\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n*[data-v-317d1a6e] {\r\n\r\n/* background-color: #92BDCA; */\r\ntext-align:center;\n}\nbody[data-v-317d1a6e] {\r\n    background-color: #92BDCA;\n}\n.cont_principal[data-v-317d1a6e] {\r\n    position: absolute;\r\n    width: 100%;\r\n    height: 100%;\r\n    overflow: hidden;\n}\n.cont_error[data-v-317d1a6e] {\r\n    position: absolute;\r\n    width: 100%;\r\n    height: 300px;\r\n    top: 50%;\r\n    margin-top:-150px;\n}\n.cont_error > img[data-v-317d1a6e]  {\r\n    left:-100%;\r\n    transition: all 0.5s;\n}\n.cont_error > p[data-v-317d1a6e]  {\r\n    font-family: 'Lato', sans-serif;\r\n    font-weight: 300;\r\n    /* margin-top: -10vw; */\r\n    letter-spacing: 2px;\r\n    color:#9294AE;\r\n    position: relative;\r\n    left:100%;\r\n    transition: all 0.5s;\r\n    transition-delay: 0.5s;\r\n-webkit-transition: all 0.5s;\r\n-webkit-transition-delay: 0.5s;\n}\n.cont_aura_1[data-v-317d1a6e] {\r\n    position:absolute;\r\n    width:300px;\r\n    height: 120%;\r\n    top:25px;\r\n    right: -340px;\r\n    background-color: #325B68;\r\n    box-shadow: 0px 0px  60px  20px  rgba(27, 45, 78, 0.5);\r\n    transition: all 0.5s;\n}\n.cont_aura_2[data-v-317d1a6e] {\r\n    position:absolute;\r\n    width:100%;\r\n    height: 300px;\r\n    right:-10%;\r\n    bottom:-301px;\r\n    background-color: #325B68;\r\n    box-shadow: 0px 0px  60px  20px  rgba(27, 45, 78, 0.5);\r\n    z-index:5;\r\n    transition: all 0.5s;\r\n-webkit-transition: all 0.5s;\n}\n.cont_error_active > .cont_error > img[data-v-317d1a6e] {\r\n    left:0%;\n}\n.cont_error_active > .cont_error > p[data-v-317d1a6e] {\r\n    left:0%;\n}\n.cont_error_active > .cont_aura_2[data-v-317d1a6e] {\r\n    -webkit-animation-name: animation_error_2-317d1a6e;\r\n            animation-name: animation_error_2-317d1a6e;\r\n    -webkit-animation-duration: 4s;\r\n            animation-duration: 4s;\r\n    -webkit-animation-timing-function: linear;\r\n            animation-timing-function: linear;\r\n    -webkit-animation-iteration-count: infinite;\r\n            animation-iteration-count: infinite;\r\n    -webkit-animation-direction: alternate;\r\n            animation-direction: alternate;\r\ntransform: rotate(-20deg);\n}\n.cont_error_active > .cont_aura_1[data-v-317d1a6e] {\r\n    transform: rotate(20deg);\r\n    right:-170px;\r\n    -webkit-animation-name: animation_error_1-317d1a6e;\r\n            animation-name: animation_error_1-317d1a6e;\r\n    -webkit-animation-duration: 4s;\r\n            animation-duration: 4s;\r\n    -webkit-animation-timing-function: linear;\r\n            animation-timing-function: linear;\r\n    -webkit-animation-iteration-count: infinite;\r\n            animation-iteration-count: infinite;\r\n    -webkit-animation-direction: alternate;\r\n            animation-direction: alternate;\n}\n@-webkit-keyframes animation_error_1-317d1a6e {\nfrom {\r\n    transform: rotate(20deg);\n}\nto {\r\n    transform: rotate(25deg);\n}\n}\n@keyframes animation_error_1-317d1a6e {\nfrom {\r\n    transform: rotate(20deg);\n}\nto {\r\n    transform: rotate(25deg);\n}\n}\n@-webkit-keyframes animation_error_2-317d1a6e {\nfrom {\r\n    transform: rotate(-15deg);\n}\nto {\r\n    transform: rotate(-20deg);\n}\n}\n@keyframes animation_error_2-317d1a6e {\nfrom {\r\n    transform: rotate(-15deg);\n}\nto {\r\n    transform: rotate(-20deg);\n}\n}\r\n\r\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -46220,6 +46701,32 @@ if (false) {}
 
 /***/ }),
 
+/***/ "./resources/js/Pages/Admin.vue":
+/*!**************************************!*\
+  !*** ./resources/js/Pages/Admin.vue ***!
+  \**************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _Admin_vue_vue_type_template_id_67c543f6__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Admin.vue?vue&type=template&id=67c543f6 */ "./resources/js/Pages/Admin.vue?vue&type=template&id=67c543f6");
+/* harmony import */ var C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+
+const script = {}
+
+;
+const __exports__ = /*#__PURE__*/(0,C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_1__["default"])(script, [['render',_Admin_vue_vue_type_template_id_67c543f6__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Pages/Admin.vue"]])
+/* hot reload */
+if (false) {}
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__exports__);
+
+/***/ }),
+
 /***/ "./resources/js/Pages/Auth/ConfirmPassword.vue":
 /*!*****************************************************!*\
   !*** ./resources/js/Pages/Auth/ConfirmPassword.vue ***!
@@ -46444,6 +46951,32 @@ if (false) {}
 
 /***/ }),
 
+/***/ "./resources/js/Pages/SuperAdmin.vue":
+/*!*******************************************!*\
+  !*** ./resources/js/Pages/SuperAdmin.vue ***!
+  \*******************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _SuperAdmin_vue_vue_type_template_id_09cdb4fd__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./SuperAdmin.vue?vue&type=template&id=09cdb4fd */ "./resources/js/Pages/SuperAdmin.vue?vue&type=template&id=09cdb4fd");
+/* harmony import */ var C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+
+const script = {}
+
+;
+const __exports__ = /*#__PURE__*/(0,C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_1__["default"])(script, [['render',_SuperAdmin_vue_vue_type_template_id_09cdb4fd__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Pages/SuperAdmin.vue"]])
+/* hot reload */
+if (false) {}
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__exports__);
+
+/***/ }),
+
 /***/ "./resources/js/Pages/VehicleList.vue":
 /*!********************************************!*\
   !*** ./resources/js/Pages/VehicleList.vue ***!
@@ -46464,6 +46997,58 @@ __webpack_require__.r(__webpack_exports__);
 
 ;
 const __exports__ = /*#__PURE__*/(0,C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_VehicleList_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_VehicleList_vue_vue_type_template_id_55bc11d1__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Pages/VehicleList.vue"]])
+/* hot reload */
+if (false) {}
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__exports__);
+
+/***/ }),
+
+/***/ "./resources/js/Pages/ViewAdmins.vue":
+/*!*******************************************!*\
+  !*** ./resources/js/Pages/ViewAdmins.vue ***!
+  \*******************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _ViewAdmins_vue_vue_type_template_id_042217f2__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./ViewAdmins.vue?vue&type=template&id=042217f2 */ "./resources/js/Pages/ViewAdmins.vue?vue&type=template&id=042217f2");
+/* harmony import */ var C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+
+const script = {}
+
+;
+const __exports__ = /*#__PURE__*/(0,C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_1__["default"])(script, [['render',_ViewAdmins_vue_vue_type_template_id_042217f2__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Pages/ViewAdmins.vue"]])
+/* hot reload */
+if (false) {}
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__exports__);
+
+/***/ }),
+
+/***/ "./resources/js/Pages/ViewUsers.vue":
+/*!******************************************!*\
+  !*** ./resources/js/Pages/ViewUsers.vue ***!
+  \******************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _ViewUsers_vue_vue_type_template_id_2482798a__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./ViewUsers.vue?vue&type=template&id=2482798a */ "./resources/js/Pages/ViewUsers.vue?vue&type=template&id=2482798a");
+/* harmony import */ var C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+
+const script = {}
+
+;
+const __exports__ = /*#__PURE__*/(0,C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_1__["default"])(script, [['render',_ViewUsers_vue_vue_type_template_id_2482798a__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Pages/ViewUsers.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -47031,6 +47616,22 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./resources/js/Pages/Admin.vue?vue&type=template&id=67c543f6":
+/*!********************************************************************!*\
+  !*** ./resources/js/Pages/Admin.vue?vue&type=template&id=67c543f6 ***!
+  \********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Admin_vue_vue_type_template_id_67c543f6__WEBPACK_IMPORTED_MODULE_0__.render)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Admin_vue_vue_type_template_id_67c543f6__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./Admin.vue?vue&type=template&id=67c543f6 */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Admin.vue?vue&type=template&id=67c543f6");
+
+
+/***/ }),
+
 /***/ "./resources/js/Pages/Auth/ConfirmPassword.vue?vue&type=template&id=475ae21d":
 /*!***********************************************************************************!*\
   !*** ./resources/js/Pages/Auth/ConfirmPassword.vue?vue&type=template&id=475ae21d ***!
@@ -47159,6 +47760,22 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./resources/js/Pages/SuperAdmin.vue?vue&type=template&id=09cdb4fd":
+/*!*************************************************************************!*\
+  !*** ./resources/js/Pages/SuperAdmin.vue?vue&type=template&id=09cdb4fd ***!
+  \*************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_SuperAdmin_vue_vue_type_template_id_09cdb4fd__WEBPACK_IMPORTED_MODULE_0__.render)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_SuperAdmin_vue_vue_type_template_id_09cdb4fd__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./SuperAdmin.vue?vue&type=template&id=09cdb4fd */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/SuperAdmin.vue?vue&type=template&id=09cdb4fd");
+
+
+/***/ }),
+
 /***/ "./resources/js/Pages/VehicleList.vue?vue&type=template&id=55bc11d1":
 /*!**************************************************************************!*\
   !*** ./resources/js/Pages/VehicleList.vue?vue&type=template&id=55bc11d1 ***!
@@ -47171,6 +47788,38 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "render": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_VehicleList_vue_vue_type_template_id_55bc11d1__WEBPACK_IMPORTED_MODULE_0__.render)
 /* harmony export */ });
 /* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_VehicleList_vue_vue_type_template_id_55bc11d1__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./VehicleList.vue?vue&type=template&id=55bc11d1 */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/VehicleList.vue?vue&type=template&id=55bc11d1");
+
+
+/***/ }),
+
+/***/ "./resources/js/Pages/ViewAdmins.vue?vue&type=template&id=042217f2":
+/*!*************************************************************************!*\
+  !*** ./resources/js/Pages/ViewAdmins.vue?vue&type=template&id=042217f2 ***!
+  \*************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_ViewAdmins_vue_vue_type_template_id_042217f2__WEBPACK_IMPORTED_MODULE_0__.render)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_ViewAdmins_vue_vue_type_template_id_042217f2__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./ViewAdmins.vue?vue&type=template&id=042217f2 */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/ViewAdmins.vue?vue&type=template&id=042217f2");
+
+
+/***/ }),
+
+/***/ "./resources/js/Pages/ViewUsers.vue?vue&type=template&id=2482798a":
+/*!************************************************************************!*\
+  !*** ./resources/js/Pages/ViewUsers.vue?vue&type=template&id=2482798a ***!
+  \************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_ViewUsers_vue_vue_type_template_id_2482798a__WEBPACK_IMPORTED_MODULE_0__.render)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_ViewUsers_vue_vue_type_template_id_2482798a__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./ViewUsers.vue?vue&type=template&id=2482798a */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/ViewUsers.vue?vue&type=template&id=2482798a");
 
 
 /***/ }),
@@ -47440,6 +48089,7 @@ function compileToFunction(template, options) {
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 var map = {
+	"./Admin.vue": "./resources/js/Pages/Admin.vue",
 	"./Auth/ConfirmPassword.vue": "./resources/js/Pages/Auth/ConfirmPassword.vue",
 	"./Auth/ForgotPassword.vue": "./resources/js/Pages/Auth/ForgotPassword.vue",
 	"./Auth/Login.vue": "./resources/js/Pages/Auth/Login.vue",
@@ -47448,7 +48098,10 @@ var map = {
 	"./Auth/VerifyEmail.vue": "./resources/js/Pages/Auth/VerifyEmail.vue",
 	"./Dashboard.vue": "./resources/js/Pages/Dashboard.vue",
 	"./Search.vue": "./resources/js/Pages/Search.vue",
+	"./SuperAdmin.vue": "./resources/js/Pages/SuperAdmin.vue",
 	"./VehicleList.vue": "./resources/js/Pages/VehicleList.vue",
+	"./ViewAdmins.vue": "./resources/js/Pages/ViewAdmins.vue",
+	"./ViewUsers.vue": "./resources/js/Pages/ViewUsers.vue",
 	"./Welcome.vue": "./resources/js/Pages/Welcome.vue"
 };
 
@@ -47491,7 +48144,7 @@ webpackContext.id = "./resources/js/Pages sync recursive ^\\.\\/.*\\.vue$";
 /***/ ((module) => {
 
 "use strict";
-module.exports = JSON.parse('{"_from":"axios@^0.21","_id":"axios@0.21.4","_inBundle":false,"_integrity":"sha512-ut5vewkiu8jjGBdqpM44XxjuCjq9LAKeHVmoVfHVzy8eHgxxq8SbAVQNovDA8mVi05kP0Ea/n/UzcSHcTJQfNg==","_location":"/axios","_phantomChildren":{},"_requested":{"type":"range","registry":true,"raw":"axios@^0.21","name":"axios","escapedName":"axios","rawSpec":"^0.21","saveSpec":null,"fetchSpec":"^0.21"},"_requiredBy":["#DEV:/"],"_resolved":"https://registry.npmjs.org/axios/-/axios-0.21.4.tgz","_shasum":"c67b90dc0568e5c1cf2b0b858c43ba28e2eda575","_spec":"axios@^0.21","_where":"C:\\\\laragon\\\\www\\\\carwash","author":{"name":"Matt Zabriskie"},"browser":{"./lib/adapters/http.js":"./lib/adapters/xhr.js"},"bugs":{"url":"https://github.com/axios/axios/issues"},"bundleDependencies":false,"bundlesize":[{"path":"./dist/axios.min.js","threshold":"5kB"}],"dependencies":{"follow-redirects":"^1.14.0"},"deprecated":false,"description":"Promise based HTTP client for the browser and node.js","devDependencies":{"coveralls":"^3.0.0","es6-promise":"^4.2.4","grunt":"^1.3.0","grunt-banner":"^0.6.0","grunt-cli":"^1.2.0","grunt-contrib-clean":"^1.1.0","grunt-contrib-watch":"^1.0.0","grunt-eslint":"^23.0.0","grunt-karma":"^4.0.0","grunt-mocha-test":"^0.13.3","grunt-ts":"^6.0.0-beta.19","grunt-webpack":"^4.0.2","istanbul-instrumenter-loader":"^1.0.0","jasmine-core":"^2.4.1","karma":"^6.3.2","karma-chrome-launcher":"^3.1.0","karma-firefox-launcher":"^2.1.0","karma-jasmine":"^1.1.1","karma-jasmine-ajax":"^0.1.13","karma-safari-launcher":"^1.0.0","karma-sauce-launcher":"^4.3.6","karma-sinon":"^1.0.5","karma-sourcemap-loader":"^0.3.8","karma-webpack":"^4.0.2","load-grunt-tasks":"^3.5.2","minimist":"^1.2.0","mocha":"^8.2.1","sinon":"^4.5.0","terser-webpack-plugin":"^4.2.3","typescript":"^4.0.5","url-search-params":"^0.10.0","webpack":"^4.44.2","webpack-dev-server":"^3.11.0"},"homepage":"https://axios-http.com","jsdelivr":"dist/axios.min.js","keywords":["xhr","http","ajax","promise","node"],"license":"MIT","main":"index.js","name":"axios","repository":{"type":"git","url":"git+https://github.com/axios/axios.git"},"scripts":{"build":"NODE_ENV=production grunt build","coveralls":"cat coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js","examples":"node ./examples/server.js","fix":"eslint --fix lib/**/*.js","postversion":"git push && git push --tags","preversion":"npm test","start":"node ./sandbox/server.js","test":"grunt test","version":"npm run build && grunt version && git add -A dist && git add CHANGELOG.md bower.json package.json"},"typings":"./index.d.ts","unpkg":"dist/axios.min.js","version":"0.21.4"}');
+module.exports = JSON.parse('{"_args":[["axios@0.21.4","C:\\\\laragon\\\\www\\\\Book2Wash"]],"_from":"axios@0.21.4","_id":"axios@0.21.4","_inBundle":false,"_integrity":"sha512-ut5vewkiu8jjGBdqpM44XxjuCjq9LAKeHVmoVfHVzy8eHgxxq8SbAVQNovDA8mVi05kP0Ea/n/UzcSHcTJQfNg==","_location":"/axios","_phantomChildren":{},"_requested":{"type":"version","registry":true,"raw":"axios@0.21.4","name":"axios","escapedName":"axios","rawSpec":"0.21.4","saveSpec":null,"fetchSpec":"0.21.4"},"_requiredBy":["#DEV:/","/@inertiajs/inertia","/localtunnel"],"_resolved":"https://registry.npmjs.org/axios/-/axios-0.21.4.tgz","_spec":"0.21.4","_where":"C:\\\\laragon\\\\www\\\\Book2Wash","author":{"name":"Matt Zabriskie"},"browser":{"./lib/adapters/http.js":"./lib/adapters/xhr.js"},"bugs":{"url":"https://github.com/axios/axios/issues"},"bundlesize":[{"path":"./dist/axios.min.js","threshold":"5kB"}],"dependencies":{"follow-redirects":"^1.14.0"},"description":"Promise based HTTP client for the browser and node.js","devDependencies":{"coveralls":"^3.0.0","es6-promise":"^4.2.4","grunt":"^1.3.0","grunt-banner":"^0.6.0","grunt-cli":"^1.2.0","grunt-contrib-clean":"^1.1.0","grunt-contrib-watch":"^1.0.0","grunt-eslint":"^23.0.0","grunt-karma":"^4.0.0","grunt-mocha-test":"^0.13.3","grunt-ts":"^6.0.0-beta.19","grunt-webpack":"^4.0.2","istanbul-instrumenter-loader":"^1.0.0","jasmine-core":"^2.4.1","karma":"^6.3.2","karma-chrome-launcher":"^3.1.0","karma-firefox-launcher":"^2.1.0","karma-jasmine":"^1.1.1","karma-jasmine-ajax":"^0.1.13","karma-safari-launcher":"^1.0.0","karma-sauce-launcher":"^4.3.6","karma-sinon":"^1.0.5","karma-sourcemap-loader":"^0.3.8","karma-webpack":"^4.0.2","load-grunt-tasks":"^3.5.2","minimist":"^1.2.0","mocha":"^8.2.1","sinon":"^4.5.0","terser-webpack-plugin":"^4.2.3","typescript":"^4.0.5","url-search-params":"^0.10.0","webpack":"^4.44.2","webpack-dev-server":"^3.11.0"},"homepage":"https://axios-http.com","jsdelivr":"dist/axios.min.js","keywords":["xhr","http","ajax","promise","node"],"license":"MIT","main":"index.js","name":"axios","repository":{"type":"git","url":"git+https://github.com/axios/axios.git"},"scripts":{"build":"NODE_ENV=production grunt build","coveralls":"cat coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js","examples":"node ./examples/server.js","fix":"eslint --fix lib/**/*.js","postversion":"git push && git push --tags","preversion":"npm test","start":"node ./sandbox/server.js","test":"grunt test","version":"npm run build && grunt version && git add -A dist && git add CHANGELOG.md bower.json package.json"},"typings":"./index.d.ts","unpkg":"dist/axios.min.js","version":"0.21.4"}');
 
 /***/ })
 
