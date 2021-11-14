@@ -22225,6 +22225,29 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
 
 /***/ }),
 
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Carwash.vue?vue&type=template&id=313fef5a":
+/*!************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Carwash.vue?vue&type=template&id=313fef5a ***!
+  \************************************************************************************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* binding */ render)
+/* harmony export */ });
+/* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
+
+
+var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"flex items-center justify-center w-screen h-screen bg-blue-200\"><form class=\"md:w-1/2-screen m-0 p-5 bg-white w-full tw-h-full shadow md:rounded-lg\"><div class=\"flex items-center justify-center text-2xl text-indigo-900\">Book a Carwash! <small class=\"pl-2 text-gray-500\">Let Us Know You&#39;re Coming</small></div><div class=\"flex items-center justify-center mt-6\"><label class=\"pb-2 text-gray-700 font-semibold\">Date</label><label class=\"pb-2 text-gray-700 font-semibold\">Time</label></div><div class=\"flex items-center justify-center mt-6\"><input type=\"text\" class=\"p-2 shadow rounded-lg bg-gray-100 outline-none focus:bg-gray-200\"><input type=\"text\" class=\"p-2 shadow rounded-lg bg-gray-100 outline-none focus:bg-gray-200\"></div><div class=\"flex-col flex py-3\"><label class=\"pb-2 text-gray-700 font-semibold\">Car Number Plate </label><input type=\"text\" class=\"p-2 shadow rounded-lg bg-gray-100 outline-none focus:bg-gray-200\"></div><div class=\"flex-col flex py-3\"><label class=\"pb-2 text-gray-700 font-semibold\">Form of payment</label><input type=\"text\" class=\"p-2 shadow rounded-lg bg-gray-100 outline-none focus:bg-gray-200\"></div><div class=\"mt-2\"><button class=\"p-3 bg-indigo-400 text-white w-full hover:bg-indigo-300\">Book Carwash!</button></div></form></div>", 1);
+
+var _hoisted_2 = [_hoisted_1];
+function render(_ctx, _cache) {
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("html", null, _hoisted_2);
+}
+
+/***/ }),
+
 /***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Dashboard.vue?vue&type=template&id=097ba13b":
 /*!**************************************************************************************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Dashboard.vue?vue&type=template&id=097ba13b ***!
@@ -46430,6 +46453,32 @@ if (false) {}
 
 /***/ }),
 
+/***/ "./resources/js/Pages/Carwash.vue":
+/*!****************************************!*\
+  !*** ./resources/js/Pages/Carwash.vue ***!
+  \****************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _Carwash_vue_vue_type_template_id_313fef5a__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Carwash.vue?vue&type=template&id=313fef5a */ "./resources/js/Pages/Carwash.vue?vue&type=template&id=313fef5a");
+/* harmony import */ var C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+
+const script = {}
+
+;
+const __exports__ = /*#__PURE__*/(0,C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_1__["default"])(script, [['render',_Carwash_vue_vue_type_template_id_313fef5a__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Pages/Carwash.vue"]])
+/* hot reload */
+if (false) {}
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (__exports__);
+
+/***/ }),
+
 /***/ "./resources/js/Pages/Dashboard.vue":
 /*!******************************************!*\
   !*** ./resources/js/Pages/Dashboard.vue ***!
@@ -47213,6 +47262,22 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./resources/js/Pages/Carwash.vue?vue&type=template&id=313fef5a":
+/*!**********************************************************************!*\
+  !*** ./resources/js/Pages/Carwash.vue?vue&type=template&id=313fef5a ***!
+  \**********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "render": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Carwash_vue_vue_type_template_id_313fef5a__WEBPACK_IMPORTED_MODULE_0__.render)
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_templateLoader_js_ruleSet_1_rules_2_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Carwash_vue_vue_type_template_id_313fef5a__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./Carwash.vue?vue&type=template&id=313fef5a */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/templateLoader.js??ruleSet[1].rules[2]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Carwash.vue?vue&type=template&id=313fef5a");
+
+
+/***/ }),
+
 /***/ "./resources/js/Pages/Dashboard.vue?vue&type=template&id=097ba13b":
 /*!************************************************************************!*\
   !*** ./resources/js/Pages/Dashboard.vue?vue&type=template&id=097ba13b ***!
@@ -47548,6 +47613,7 @@ var map = {
 	"./Auth/Register.vue": "./resources/js/Pages/Auth/Register.vue",
 	"./Auth/ResetPassword.vue": "./resources/js/Pages/Auth/ResetPassword.vue",
 	"./Auth/VerifyEmail.vue": "./resources/js/Pages/Auth/VerifyEmail.vue",
+	"./Carwash.vue": "./resources/js/Pages/Carwash.vue",
 	"./Dashboard.vue": "./resources/js/Pages/Dashboard.vue",
 	"./Search.vue": "./resources/js/Pages/Search.vue",
 	"./VehicleList.vue": "./resources/js/Pages/VehicleList.vue",
