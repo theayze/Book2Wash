@@ -15,8 +15,8 @@
                 </div>
                 <p class="-mt-48 pb-4 italic text-sm align-middle md:align-top">Roses a red , violets are blue. you need to shower your car does too.</p>
                 <div v-if="canLogin" class="">
-                    <Link v-if="$page.props.auth.user" href="/dashboard" class="text-sm text-gray-700 underline">
-                        Dashboard
+                    <Link v-if="$page.props.auth.user" href="/dashboard" class="bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded-full">
+                        Profile
                     </Link>
 
                     <template v-else>
