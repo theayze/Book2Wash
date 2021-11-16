@@ -11,8 +11,8 @@
         <!-- component -->
 
 
-<div class="min-w-screen min-h-screen bg-b2w-300 flex items-center justify-center px-5 pb-10 pt-16">
-    <div class="w-full mx-auto rounded-lg bg-b2w-400 shadow-lg p-5 text-gray-700" style="max-width: 600px">
+<div class="bg-no-repeat bg-cover bg-center bg-fixed min-w-screen min-h-screen bg-b2w-300 flex items-center justify-center px-5 pb-10 pt-16" style="background-image: url('/svg/undraw_Mobile.svg')">
+    <div class="w-full mx-auto rounded-lg opacity-95 bg-b2w-400 shadow-lg p-5 text-gray-700" style="max-width: 600px">
         <div class="w-full pt-1 pb-5">
             <div class="bg-b2w-900 text-white overflow-hidden rounded-full w-20 h-20 -mt-16 mx-auto shadow-lg flex justify-center items-center">
                 <i class="mdi mdi-credit-card-outline text-3xl"></i>

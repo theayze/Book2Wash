@@ -9,9 +9,9 @@
         </template>
 
             <!-- component -->
-        <div class="min-h-screen bg-b2w-300 py-6 flex flex-col justify-center sm:py-12">
+        <div class="bg-no-repeat bg-cover bg-center bg-fixed min-h-screen bg-b2w-300 py-6 flex flex-col justify-center sm:py-12" style="background-image: url('/svg/undraw_fill_form.svg')">
         <div class="py-3 sm:max-w-xl sm:mx-auto">
-            <div class="bg-b2w-400 min-w-1xl flex flex-col rounded-xl shadow-md">
+            <div class="bg-b2w-500 min-w-1xl flex flex-col rounded-xl shadow-md opacity-90">
             <div class="px-12 py-5">
                 <h2 class="text-white text-3xl font-semibold text-center">Your opinion matters to us!</h2>
             </div>

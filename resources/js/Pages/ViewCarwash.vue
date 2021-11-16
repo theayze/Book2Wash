@@ -46,33 +46,7 @@
                     </div>
                     </div>
 
-                    <h1 class="text-gray-700 font-bold tracking-wider">Payment details</h1>
-                    <div class="my-10">
-                        <div class="flex justify-between items-center">
-                            <div class="flex justify-items-start gap-3 items-stretch">
-                                <div class="bg-gray-200 w-14"></div>
-                                <div>
-                                    <h1 class="font-bold text-gray-700">Credit card</h1>
-                                    <p class="text-sm text-gray-500">2344 xxxx xxxx xxxx 4444</p>
-                                </div>
-                            </div>
-                            <div>
-                                <input type="text" placeholder="cvc" class="w-20 border-2 border-gray-300 outline-none rounded-sm px-4 py-2 focus:border-blue-600"/>
-                            </div>
-                        </div>
-                        <div class="flex justify-between items-center mt-5">
-                            <div class="flex justify-items-start gap-3 items-stretch">
-                                <div class="bg-gray-200 w-14"></div>
-                                <div>
-                                    <h1 class="font-bold text-gray-700">Credit card</h1>
-                                    <p class="text-sm text-gray-500">2344 xxxx xxxx xxxx 4444</p>
-                                </div>
-                            </div>
-                            <div>
-                                <input type="text" placeholder="cvc" class="w-20 border-2 border-gray-300 outline-none rounded-sm px-4 py-2 focus:border-blue-600"/>
-                            </div>
-                        </div>
-                    </div>
+
 
                     <h1 class="uppercase font-bold tracking-widest text-b2w-50 text-sm">Add payment method</h1>
 
@@ -86,13 +60,13 @@
                             </button>
                     </div>
 
-                <a href="/bookingcomplete">
+                <a href="/payment">
                     <button class="w-full rounded-sm py-7 mt-7 text-center bg-b2w-900 text-white font-bold tracking-wider">Procced to Payment    &rarr;</button>
                 </a>
                 </div>
                 <div class="w-full lg:w-1/5 order-1 lg:order-last flex flex-col justify-start gap-7">
                     <div class="bg-b2w-500 bg-opacity-95 p-2 rounded-lg text-center filter drop-shadow-md">
-                        <img src="/images/carwashcyber.jpg" alt="" class="h-20 w-full object-cover content-center rounded-t-lg"/>
+                        <img src="/images/carwashcyber.jpg" alt="" class="h-40 w-full object-cover content-center rounded-t-lg"/>
                         <h1 class="text-center font-bold tracking-wider text-white mt-4">Carwash Cyberjaya</h1>
                         <p class="text-gray-500 mt-1 text-center">Jalan Teknorat Cyberjaya</p>
                         <br/>
@@ -107,29 +81,34 @@
                     </div>
                     <div class="bg-b2w-500 bg-opacity-95 rounded-lg p-6 filter drop-shadow-md">
                         <h1 class="font-bold tracking-wider text-white">Select Your Vehicle</h1>
-                        <p class="text-sm text-gray-500 mt-2">Please set up your hourly or fixed rate so that the client is aware of your pricing</p>
-                        <div class="my-4 flex justify-between gap-5">
-                            <div class="border-2 border-gray-200 rounded-lg py-2  w-full text-gray-700 text-center">
-                                Hourly
-                            </div>
-                            <div class="border-2 border-gray-200 rounded-lg py-2 w-full  text-gray-700 text-center">
-                                Fixed
-                            </div>
-                        </div>
 
-                        <span class="text-gray-400">$</span> <span class="text-2xl text-black">180</span><span class="text-gray-400"> / hour</span>
 
-                        <div class="mt-3 w-full border-t-4 border-gray-300 rounded-full relative">
-                            <div class="w-4/5 absolute left-0 -top-1 border-t-4 border-blue-600 rounded-full">
-                                <div class="absolute w-5 h-5 bg-blue-600 rounded-full top-0 bottom-0 my-auto -right-1 ring-1 ring-blue-600 ring-offset-2 ring-offset-white">
-                                </div>
-                            </div>
-                        </div>
-                        <div class="flex justify-between text-sm text-gray-500">
-                            <span>$20</span>
-                            <span>$300</span>
-                        </div>
+                        <select id="vehicle_id" name="vehicle_id" class="mt-4 block w-full py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-b2w-900 focus:border-b2w-900 sm:text-sm" @change="changeCategory">
+                            <option value="">-- select vehicle no --</option>
+                            <option value="1" data-val="1">VAE2483</option>
+                            <option value="2" data-val="2">PNU151</option>
+                            <option value="2" data-val="2">WWU2871</option>
+                        </select>
+
+                        <p class="text-sm text-gray-500 m-4">Or</p>
+
+                        <div class="md:flex md:flex-row md:space-x-4 w-full text-xs">
+								<div class="w-full flex flex-col mb-3">
+									<input placeholder="Insert Vehicle Plate Number" class="appearance-none block w-full border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-b2w-900 focus:border-b2w-900 sm:text-sm h-10 px-4" type="text" name="integration[street_address]" id="integration_street_address">
+                                    </div>
+                                        <div class="w-full flex flex-col mb-3">
+                                        <select class="block w-full border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-b2w-900 focus:border-b2w-900 sm:text-sm h-10 px-4 md:w-full " required="required" name="integration[city_id]" id="integration_city_id">
+                                        <option value="">Select Vehicle Type</option>
+                                        <option value="">Hatchback</option>
+                                        <option value="">Sedan</option>
+                                        <option value="">SUV</option>
+                                        <option value="">Motorcycle</option>
+                                        </select>
+									</div>
+								</div>
+
                     </div>
+
                 </div>
             </div>
         </div>

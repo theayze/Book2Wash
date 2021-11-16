@@ -9,8 +9,8 @@
         </template>
 
                 <!-- component -->
-        <div class="min-h-screen bg-b2w-300 flex justify-center items-center">
-            <div class="py-12 px-12 bg-b2w-400 rounded-2xl shadow-md z-20">
+        <div class="bg-no-repeat bg-cover bg-center bg-fixed min-h-screen bg-b2w-300 flex justify-center items-center" style="background-image: url('/svg/undraw_vehicle_sale.svg')">
+            <div class="py-12 px-12 bg-b2w-500 rounded-2xl shadow-md z-20 opacity-95">
                 <div>
                     <h1 class="text-3xl text-white font-bold text-center mb-4 cursor-pointer">Add a New Vehicle</h1>
                     <p class="w-80 text-center text-sm mb-8 font-semibold text-gray-200 tracking-wide cursor-pointer">Save a vehicle for your next booking appointments!</p>

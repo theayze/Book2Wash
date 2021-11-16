@@ -8,8 +8,8 @@
             </h2>
         </template>
 
-        <div class="bg-no-repeat bg-cover bg-center bg-fixed bg-b2w-300 flex flex-col shadow-md max-w-screen min-h-screen items-center justify-center" style="background-image: url('/svg/undraw_town_r6pc.svg')">
-            <div class="bg-b2w-400 shadow-md rounded-3xl">
+        <div class="bg-no-repeat bg-cover bg-center bg-fixed bg-b2w-300 flex flex-col shadow-md max-w-screen min-h-screen item-center pt-20 lg:p-52" style="background-image: url('/svg/undraw_town_r6pc.svg')">
+            <div class="bg-b2w-400 shadow-md rounded-3xl opacity-95">
 
 
 
@@ -17,9 +17,9 @@
 
 <!-- component -->
 <body class="antialiased font-sans">
-    <div class="container mx-auto px-4">
+    <div class="container mx-auto px-4 ">
         <div class="py-8">
-            <div class="my-2 flex sm:flex-row flex-col">
+            <div class="my-2 flex sm:flex-row flex-col w-full lg:w-1/3 ">
                 <div class="block relative">
                     <span class="h-full absolute inset-y-0 left-0 flex items-center pl-2">
                         <svg viewBox="0 0 24 24" class="h-4 w-4 fill-current text-gray-500">
