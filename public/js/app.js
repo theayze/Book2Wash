@@ -5272,7 +5272,7 @@ function stringifyDynamicPropNames(props) {
     return propsNamesString + `]`;
 }
 function isComponentTag(tag) {
-    return tag[0].toLowerCase() + tag.slice(1) === 'component';
+    return tag === 'component' || tag === 'Component';
 }
 
 ( true)
@@ -8067,6 +8067,7 @@ function emit(event, ...args) {
     }
 }
 function setDevtoolsHook(hook, target) {
+    var _a, _b;
     devtools = hook;
     if (devtools) {
         devtools.enabled = true;
@@ -8079,7 +8080,10 @@ function setDevtoolsHook(hook, target) {
     // (#4815)
     // eslint-disable-next-line no-restricted-globals
     typeof window !== 'undefined' &&
-        !navigator.userAgent.includes('jsdom')) {
+        // some envs mock window but not fully
+        window.HTMLElement &&
+        // also exclude jsdom
+        !((_b = (_a = window.navigator) === null || _a === void 0 ? void 0 : _a.userAgent) === null || _b === void 0 ? void 0 : _b.includes('jsdom'))) {
         const replay = (target.__VUE_DEVTOOLS_HOOK_REPLAY__ =
             target.__VUE_DEVTOOLS_HOOK_REPLAY__ || []);
         replay.push((newHook) => {
@@ -12842,8 +12846,8 @@ function invokeVNodeHook(hook, instance, vnode, prevVNode = null) {
  *
  * #2080
  * Inside keyed `template` fragment static children, if a fragment is moved,
- * the children will always moved so that need inherit el form previous nodes
- * to ensure correct moved position.
+ * the children will always be moved. Therefore, in order to ensure correct move
+ * position, el should be inherited from previous nodes.
  */
 function traverseStaticChildren(n1, n2, shallow = false) {
     const ch1 = n1.children;
@@ -13628,7 +13632,8 @@ function mergeProps(...args) {
             else if ((0,_vue_shared__WEBPACK_IMPORTED_MODULE_1__.isOn)(key)) {
                 const existing = ret[key];
                 const incoming = toMerge[key];
-                if (existing !== incoming) {
+                if (existing !== incoming &&
+                    !((0,_vue_shared__WEBPACK_IMPORTED_MODULE_1__.isArray)(existing) && existing.includes(incoming))) {
                     ret[key] = existing
                         ? [].concat(existing, incoming)
                         : incoming;
@@ -15527,7 +15532,7 @@ function isMemoSame(cached, memo) {
 }
 
 // Core API ------------------------------------------------------------------
-const version = "3.2.21";
+const version = "3.2.22";
 const _ssrUtils = {
     createComponentInstance,
     setupComponent,
@@ -19020,7 +19025,7 @@ module.exports = function transformData(data, headers, fns) {
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 "use strict";
-/* provided dependency */ var process = __webpack_require__(/*! process/browser */ "./node_modules/process/browser.js");
+/* provided dependency */ var process = __webpack_require__(/*! process/browser.js */ "./node_modules/process/browser.js");
 
 
 var utils = __webpack_require__(/*! ./utils */ "./node_modules/axios/lib/utils.js");
@@ -23080,7 +23085,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "\n*[data-v-317d1a6e] {\n\n/* background-color: #92BDCA; */\ntext-align:center;\n}\nbody[data-v-317d1a6e] {\n    background-color: #92BDCA;\n}\n.cont_principal[data-v-317d1a6e] {\n    position: absolute;\n    width: 100%;\n    height: 100%;\n    overflow: hidden;\n}\n.cont_error[data-v-317d1a6e] {\n    position: absolute;\n    width: 100%;\n    height: 300px;\n    top: 50%;\n    margin-top:-150px;\n}\n.cont_error > img[data-v-317d1a6e]  {\n    left:-100%;\n    transition: all 0.5s;\n}\n.cont_error > p[data-v-317d1a6e]  {\n    font-family: 'Lato', sans-serif;\n    font-weight: 300;\n    /* margin-top: -10vw; */\n    letter-spacing: 2px;\n    color:#9294AE;\n    position: relative;\n    left:100%;\n    transition: all 0.5s;\n    transition-delay: 0.5s;\n-webkit-transition: all 0.5s;\n-webkit-transition-delay: 0.5s;\n}\n.cont_aura_1[data-v-317d1a6e] {\n    position:absolute;\n    width:300px;\n    height: 120%;\n    top:25px;\n    right: -340px;\n    background-color: #325B68;\n    box-shadow: 0px 0px  60px  20px  rgba(27, 45, 78, 0.5);\n    transition: all 0.5s;\n}\n.cont_aura_2[data-v-317d1a6e] {\n    position:absolute;\n    width:100%;\n    height: 300px;\n    right:-10%;\n    bottom:-301px;\n    background-color: #325B68;\n    box-shadow: 0px 0px  60px  20px  rgba(27, 45, 78, 0.5);\n    z-index:5;\n    transition: all 0.5s;\n-webkit-transition: all 0.5s;\n}\n.cont_error_active > .cont_error > img[data-v-317d1a6e] {\n    left:0%;\n}\n.cont_error_active > .cont_error > p[data-v-317d1a6e] {\n    left:0%;\n}\n.cont_error_active > .cont_aura_2[data-v-317d1a6e] {\n    -webkit-animation-name: animation_error_2-317d1a6e;\n            animation-name: animation_error_2-317d1a6e;\n    -webkit-animation-duration: 4s;\n            animation-duration: 4s;\n    -webkit-animation-timing-function: linear;\n            animation-timing-function: linear;\n    -webkit-animation-iteration-count: infinite;\n            animation-iteration-count: infinite;\n    -webkit-animation-direction: alternate;\n            animation-direction: alternate;\ntransform: rotate(-20deg);\n}\n.cont_error_active > .cont_aura_1[data-v-317d1a6e] {\n    transform: rotate(20deg);\n    right:-170px;\n    -webkit-animation-name: animation_error_1-317d1a6e;\n            animation-name: animation_error_1-317d1a6e;\n    -webkit-animation-duration: 4s;\n            animation-duration: 4s;\n    -webkit-animation-timing-function: linear;\n            animation-timing-function: linear;\n    -webkit-animation-iteration-count: infinite;\n            animation-iteration-count: infinite;\n    -webkit-animation-direction: alternate;\n            animation-direction: alternate;\n}\n@-webkit-keyframes animation_error_1-317d1a6e {\nfrom {\n    transform: rotate(20deg);\n}\nto {\n    transform: rotate(25deg);\n}\n}\n@keyframes animation_error_1-317d1a6e {\nfrom {\n    transform: rotate(20deg);\n}\nto {\n    transform: rotate(25deg);\n}\n}\n@-webkit-keyframes animation_error_2-317d1a6e {\nfrom {\n    transform: rotate(-15deg);\n}\nto {\n    transform: rotate(-20deg);\n}\n}\n@keyframes animation_error_2-317d1a6e {\nfrom {\n    transform: rotate(-15deg);\n}\nto {\n    transform: rotate(-20deg);\n}\n}\n\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, "\n*[data-v-317d1a6e] {\r\n\r\n/* background-color: #92BDCA; */\r\ntext-align:center;\n}\nbody[data-v-317d1a6e] {\r\n    background-color: #92BDCA;\n}\n.cont_principal[data-v-317d1a6e] {\r\n    position: absolute;\r\n    width: 100%;\r\n    height: 100%;\r\n    overflow: hidden;\n}\n.cont_error[data-v-317d1a6e] {\r\n    position: absolute;\r\n    width: 100%;\r\n    height: 300px;\r\n    top: 50%;\r\n    margin-top:-150px;\n}\n.cont_error > img[data-v-317d1a6e]  {\r\n    left:-100%;\r\n    transition: all 0.5s;\n}\n.cont_error > p[data-v-317d1a6e]  {\r\n    font-family: 'Lato', sans-serif;\r\n    font-weight: 300;\r\n    /* margin-top: -10vw; */\r\n    letter-spacing: 2px;\r\n    color:#9294AE;\r\n    position: relative;\r\n    left:100%;\r\n    transition: all 0.5s;\r\n    transition-delay: 0.5s;\r\n-webkit-transition: all 0.5s;\r\n-webkit-transition-delay: 0.5s;\n}\n.cont_aura_1[data-v-317d1a6e] {\r\n    position:absolute;\r\n    width:300px;\r\n    height: 120%;\r\n    top:25px;\r\n    right: -340px;\r\n    background-color: #325B68;\r\n    box-shadow: 0px 0px  60px  20px  rgba(27, 45, 78, 0.5);\r\n    transition: all 0.5s;\n}\n.cont_aura_2[data-v-317d1a6e] {\r\n    position:absolute;\r\n    width:100%;\r\n    height: 300px;\r\n    right:-10%;\r\n    bottom:-301px;\r\n    background-color: #325B68;\r\n    box-shadow: 0px 0px  60px  20px  rgba(27, 45, 78, 0.5);\r\n    z-index:5;\r\n    transition: all 0.5s;\r\n-webkit-transition: all 0.5s;\n}\n.cont_error_active > .cont_error > img[data-v-317d1a6e] {\r\n    left:0%;\n}\n.cont_error_active > .cont_error > p[data-v-317d1a6e] {\r\n    left:0%;\n}\n.cont_error_active > .cont_aura_2[data-v-317d1a6e] {\r\n    -webkit-animation-name: animation_error_2-317d1a6e;\r\n            animation-name: animation_error_2-317d1a6e;\r\n    -webkit-animation-duration: 4s;\r\n            animation-duration: 4s;\r\n    -webkit-animation-timing-function: linear;\r\n            animation-timing-function: linear;\r\n    -webkit-animation-iteration-count: infinite;\r\n            animation-iteration-count: infinite;\r\n    -webkit-animation-direction: alternate;\r\n            animation-direction: alternate;\r\ntransform: rotate(-20deg);\n}\n.cont_error_active > .cont_aura_1[data-v-317d1a6e] {\r\n    transform: rotate(20deg);\r\n    right:-170px;\r\n    -webkit-animation-name: animation_error_1-317d1a6e;\r\n            animation-name: animation_error_1-317d1a6e;\r\n    -webkit-animation-duration: 4s;\r\n            animation-duration: 4s;\r\n    -webkit-animation-timing-function: linear;\r\n            animation-timing-function: linear;\r\n    -webkit-animation-iteration-count: infinite;\r\n            animation-iteration-count: infinite;\r\n    -webkit-animation-direction: alternate;\r\n            animation-direction: alternate;\n}\n@-webkit-keyframes animation_error_1-317d1a6e {\nfrom {\r\n    transform: rotate(20deg);\n}\nto {\r\n    transform: rotate(25deg);\n}\n}\n@keyframes animation_error_1-317d1a6e {\nfrom {\r\n    transform: rotate(20deg);\n}\nto {\r\n    transform: rotate(25deg);\n}\n}\n@-webkit-keyframes animation_error_2-317d1a6e {\nfrom {\r\n    transform: rotate(-15deg);\n}\nto {\r\n    transform: rotate(-20deg);\n}\n}\n@keyframes animation_error_2-317d1a6e {\nfrom {\r\n    transform: rotate(-15deg);\n}\nto {\r\n    transform: rotate(-20deg);\n}\n}\r\n\r\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -45187,7 +45192,7 @@ var gPO = (typeof Reflect === 'function' ? Reflect.getPrototypeOf : Object.getPr
         : null
 );
 
-var inspectCustom = __webpack_require__(/*! ./util.inspect */ "?4f7e").custom;
+var inspectCustom = (__webpack_require__(/*! ./util.inspect */ "?2128").custom);
 var inspectSymbol = inspectCustom && isSymbol(inspectCustom) ? inspectCustom : null;
 var toStringTag = typeof Symbol === 'function' && typeof Symbol.toStringTag !== 'undefined' ? Symbol.toStringTag : null;
 
@@ -46277,10 +46282,11 @@ Object.defineProperty(exports, "__esModule", ({ value: true }));
 // runtime helper for setting properties on components
 // in a tree-shakable way
 exports["default"] = (sfc, props) => {
+    const target = sfc.__vccOpts || sfc;
     for (const [key, val] of props) {
-        sfc[key] = val;
+        target[key] = val;
     }
-    return sfc;
+    return target;
 };
 
 
@@ -47874,7 +47880,7 @@ webpackContext.id = "./resources/js/Pages sync recursive ^\\.\\/.*\\.vue$";
 
 /***/ }),
 
-/***/ "?4f7e":
+/***/ "?2128":
 /*!********************************!*\
   !*** ./util.inspect (ignored) ***!
   \********************************/
