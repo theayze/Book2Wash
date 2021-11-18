@@ -3,7 +3,13 @@
 use App\Http\Controllers\PaymentController;
 use App\Http\Controllers\SearchController;
 use App\Http\Controllers\UserProfileController;
+use App\Http\Controllers\AdminController;
 use App\Http\Controllers\VehicleController;
+use App\Http\Controllers\ViewUsersController;
+use App\Http\Controllers\ViewAdminsController;
+use App\Http\Controllers\SuperAdminController;
+use App\Http\Controllers\BookingHistoryController;
+use App\Http\Controllers\ReviewsController;
 use Illuminate\Foundation\Application;
 use Illuminate\Support\Facades\Route;
 use Inertia\Inertia;
@@ -49,6 +55,9 @@ Route::middleware(['auth'])->group(function () {
 
 });
 
+
+
+
 Route::get('/dashboard', function () {
     return Inertia::render('Dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');
@@ -56,5 +65,33 @@ Route::get('/dashboard', function () {
 Route::get('/dashboard/editprofile', function () {
     return Inertia::render('UserEditProfile');
 })->middleware(['auth', 'verified'])->name('editprofile');
+Route::get('/SuperAdmin', function () {
+    return Inertia::render('SuperAdmin');
+})->middleware(['auth', 'verified'])->name('SuperAdmin');
+
+Route::get('/ViewAdmins', function () {
+    return Inertia::render('ViewAdmins');
+})->middleware(['auth', 'verified'])->name('ViewAdmins');
+
+Route::get('/ViewUsers', function () {
+    return Inertia::render('ViewUsers');
+})->middleware(['auth', 'verified'])->name('ViewUsers');
+
+Route::get('/Admin', function () {
+    return Inertia::render('Admin');
+})->middleware(['auth', 'verified'])->name('Admin');
+
+Route::get('/BookingHistory', function () {
+    return Inertia::render('BookingHistory');
+})->middleware(['auth', 'verified'])->name('BookingHistory');
+
+Route::get('/Reviews', function () {
+    return Inertia::render('Reviews');
+})->middleware(['auth', 'verified'])->name('Reviews');
+
+
+
+
+
 
 require __DIR__.'/auth.php';
