@@ -23436,13 +23436,16 @@ var _hoisted_2 = {
 };
 
 var _hoisted_3 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-  "class": "absolute bg-b2w-300 inset-0 z-0"
+  "class": "absolute bg-b2w-300 inset-0 z-0 bg-no-repeat bg-cover bg-center bg-fixed",
+  style: {
+    "background-image": "url('/svg/undraw_stars.svg')"
+  }
 }, null, -1
 /* HOISTED */
 );
 
 var _hoisted_4 = {
-  "class": "max-w-md w-full space-y-8 p-10 bg-b2w-400 rounded-xl shadow-md z-10"
+  "class": "max-w-md w-full space-y-8 p-10 bg-b2w-500 rounded-xl shadow-md z-10 opacity-95"
 };
 var _hoisted_5 = {
   "class": "grid gap-8 grid-cols-1"
@@ -23980,9 +23983,12 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
 
 
-var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h2", {
-  "class": "font-semibold text-xl text-b2w-900 leading-tight"
-}, " New Booking ", -1
+var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "/search"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
+  type: "button",
+  "class": "w-full bg-b2w-700 px-4 py-3 rounded text-white text-xs leading-tight font-semibold hover:bg-b2w-900 transition duration-200 each-in-out"
+}, "Back to Search")], -1
 /* HOISTED */
 );
 

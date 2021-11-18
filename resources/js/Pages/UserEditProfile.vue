@@ -10,8 +10,8 @@
 
                 <!-- component -->
 <div class="relative min-h-screen flex items-center justify-center bg-center bg-gray-50 py-12 px-4 sm:px-6 lg:px-8 bg-gray-500 bg-no-repeat bg-cover relative items-center">
-	<div class="absolute bg-b2w-300 inset-0 z-0"></div>
-	<div class="max-w-md w-full space-y-8 p-10 bg-b2w-400 rounded-xl shadow-md z-10">
+	<div class="absolute bg-b2w-300 inset-0 z-0 bg-no-repeat bg-cover bg-center bg-fixed" style="background-image: url('/svg/undraw_stars.svg')"></div>
+	<div class="max-w-md w-full space-y-8 p-10 bg-b2w-500 rounded-xl shadow-md z-10 opacity-95">
 <div class="grid  gap-8 grid-cols-1">
 	<div class="flex flex-col ">
 			<div class="flex flex-col sm:flex-row items-center">

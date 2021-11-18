@@ -3,9 +3,9 @@
 
     <BreezeAuthenticatedLayout>
         <template #header>
-            <h2 class="font-semibold text-xl text-b2w-900 leading-tight">
-                New Booking
-            </h2>
+            <a href="/search">
+                    <button type="button" class="w-full bg-b2w-700 px-4 py-3 rounded text-white text-xs leading-tight font-semibold hover:bg-b2w-900 transition duration-200 each-in-out">Back to Search</button>
+            </a>
         </template>
 
 
@@ -13,7 +13,9 @@
 <body>
         <!-- https://dribbble.com/shots/10977400-Freelance-Projects-Dashboard -->
         <div class="bg-no-repeat bg-cover bg-center bg-fixed bg-b2w-300 min-h-screen flex justify-center items-center shadow-xl" style="background-image: url('/svg/undraw_town_r6pc.svg')">
+
             <div class="flex flex-col lg:flex-row w-full justify-center gap-7">
+
                 <div class="bg-b2w-500 bg-opacity-95 w-full lg:w-1/3 p-10 rounded-lg order-2 lg:order-first filter drop-shadow-md">
                     <h1 class="text-white font-bold tracking-wider mb-4">Make a New Booking</h1>
 
@@ -64,6 +66,7 @@
                     <button class="w-full rounded-sm py-7 mt-7 text-center bg-b2w-900 text-white font-bold tracking-wider">Procced to Payment    &rarr;</button>
                 </a>
                 </div>
+
                 <div class="w-full lg:w-1/5 order-1 lg:order-last flex flex-col justify-start gap-7">
                     <div class="bg-b2w-500 bg-opacity-95 p-2 rounded-lg text-center filter drop-shadow-md">
                         <img src="/images/carwashcyber.jpg" alt="" class="h-40 w-full object-cover content-center rounded-t-lg"/>
