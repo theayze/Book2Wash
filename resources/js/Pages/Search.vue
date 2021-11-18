@@ -3,22 +3,20 @@
 
     <BreezeAuthenticatedLayout>
         <template #header>
-            <h2 class="font-semibold text-xl text-gray-800 leading-tight">
+            <h2 class="font-semibold text-xl text-b2w-900 leading-tight">
                 Search
             </h2>
         </template>
 
-        <div class="py-12">
-            <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
-                <div class="bg-white overflow-hidden shadow-sm sm:rounded-lg">
-                    <div class="p-6 bg-white border-b border-gray-200">
-                        <div class="max-w-3xl w-full mx-auto z-10">
+<body>
+    <div class="bg-no-repeat bg-cover bg-center bg-fixed pt-4 pb-8 bg-b2w-300 mx-auto sm:px-6 lg:px-40 min-h-screen shadow-md" style="background-image: url('/svg/undraw_town_r6pc.svg')">
+        <!-- component -->
+<!-- This is an example component -->
 
-                            <!-- image search box -->
-                            <div class="box pt-6">
+                            <div class="box">
                                 <div class="box-wrapper">
 
-                                    <div class=" bg-white rounded flex items-center w-full p-3 shadow-sm border border-gray-200">
+                                    <div class=" bg-white bg-opacity-95 rounded flex items-center w-full p-3 shadow-sm border border-gray-200">
                                     <button @click="getImages()" class="outline-none focus:outline-none"><svg class=" w-5 text-gray-600 h-5 cursor-pointer" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" stroke="currentColor" viewBox="0 0 24 24"><path d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path></svg></button>
                                     <input type="search" name="" id="" @keydown.enter="getImages()" placeholder="search for carwash" x-model="q" class="w-full pl-4 text-sm outline-none focus:outline-none bg-transparent">
                                     <div class="select">
@@ -34,8 +32,9 @@
                             </div>
 
 
-                        <div class="flex flex-col">
-                            <div class="bg-white border border-white shadow-lg  rounded-3xl p-4 m-4">
+                            <div class="flex flex-col">
+                            <a href="/search/newbooking">
+                            <div class="bg-b2w-500 shadow-md bg-opacity-95 rounded-3xl p-4 m-4">
                                 <div class="flex-none sm:flex">
                                     <div class=" relative h-32 w-32   sm:mb-0 mb-3">
                                         <img src="/images/carwashcyber.jpg" alt="aji" class=" w-32 h-32 object-cover rounded-2xl">
@@ -44,7 +43,7 @@
                                         <div class="flex items-center justify-between sm:mt-2">
                                             <div class="flex items-center">
                                                 <div class="flex flex-col">
-                                                    <div class="w-full flex-none text-lg text-gray-800 font-bold leading-none">Carwash Cyberjaya</div>
+                                                    <div class="w-full flex-none text-lg text-white font-bold leading-none">Carwash Cyberjaya</div>
                                                     <div class="flex-auto text-gray-500 my-1">
                                                         <span class="mr-3 ">Jalan Teknorat</span><span class="mr-3 border-r border-gray-200  max-h-0"></span><span>Cyberjaya, Selangor</span>
                                                     </div>
@@ -92,14 +91,18 @@
                                         </div>
                                     </div>
                                 </div>
+
+                            </a>
                             </div>
-                        </div>
+</div>
 
 
-                    </div>
-                </div>
-            </div>
-        </div>
+
+
+
+
+
+</body>
     </BreezeAuthenticatedLayout>
 </template>
 

@@ -1,7 +1,7 @@
 <template>
     <Head title="Book2Wash" />
 
-    <div class="container">
+    <div class="container bg-no-repeat bg-cover bg-center bg-fixed bg-b2w-300" >
     <div class="row">
 
         <div v-cloak class="cont_principal">
@@ -11,9 +11,9 @@
 
             <div class="cont_error">
                 <div>
-                <img src="/images/BOOK2WASHFIX.png" class="justify-center lg:w-1/4 -m-50 -mt-28 pb-8 mx-auto my-auto">
+                <img src="/images/BOOK2WASHFIX2.png" class="justify-center lg:w-1/4 -m-50 -mt-28 pb-8 mx-auto my-auto">
                 </div>
-                <p class="-mt-48 pb-4 italic text-sm align-middle md:align-top">Roses a red , violets are blue. you need to shower your car does too.</p>
+                <p class="pb-4 italic text-sm align-middle md:align-top">Roses a red , violets are blue. you need to shower your car does too.</p>
                 <div v-if="canLogin" class="">
                     <Link v-if="$page.props.auth.user" href="/dashboard" class="bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded-full">
                         Profile
