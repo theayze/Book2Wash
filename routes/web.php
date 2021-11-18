@@ -65,6 +65,7 @@ Route::get('/dashboard', function () {
 Route::get('/dashboard/editprofile', function () {
     return Inertia::render('UserEditProfile');
 })->middleware(['auth', 'verified'])->name('editprofile');
+
 Route::get('/SuperAdmin', function () {
     return Inertia::render('SuperAdmin');
 })->middleware(['auth', 'verified'])->name('SuperAdmin');
