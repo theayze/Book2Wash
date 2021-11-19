@@ -1,10 +1,15 @@
 <?php
+
+use App\Http\Controllers\PaymentController;
 use App\Http\Controllers\SearchController;
+use App\Http\Controllers\UserProfileController;
 use App\Http\Controllers\AdminController;
 use App\Http\Controllers\VehicleController;
 use App\Http\Controllers\ViewUsersController;
 use App\Http\Controllers\ViewAdminsController;
 use App\Http\Controllers\SuperAdminController;
+use App\Http\Controllers\BookingHistoryController;
+use App\Http\Controllers\ReviewsController;
 use Illuminate\Foundation\Application;
 use Illuminate\Support\Facades\Route;
 use Inertia\Inertia;
@@ -30,9 +35,23 @@ Route::get('/', function () {
 });
 
 Route::middleware(['auth'])->group(function () {
+
+    // vehicle routes
     Route::get('/vehicles',[VehicleController::class, 'index'])->name('vehicles');
+    Route::get('/vehicles/addvehicle',[VehicleController::class, 'create'])->name('addvehicle');
+
+    //search routes
     Route::get('/search',[SearchController::class, 'index'])->name('search');
-    Route::get('/viewcarwash',[ViewCarwashController::class, 'index']);
+    Route::get('/search/newbooking', [SearchController::class, 'create'])->name('newbooking');
+
+    //payment routes
+    Route::get('/bookingcomplete',[PaymentController::class, 'index'])->name('bookingcomplete');
+    Route::get('/payment',[PaymentController::class, 'card'])->name('card');
+
+    //profile routes
+    Route::get('/rate', [UserProfileController::class, 'index'])->name('rate');
+
+
 
 });
 
@@ -42,6 +61,10 @@ Route::middleware(['auth'])->group(function () {
 Route::get('/dashboard', function () {
     return Inertia::render('Dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');
+
+Route::get('/dashboard/editprofile', function () {
+    return Inertia::render('UserEditProfile');
+})->middleware(['auth', 'verified'])->name('editprofile');
 
 Route::get('/SuperAdmin', function () {
     return Inertia::render('SuperAdmin');
@@ -58,6 +81,15 @@ Route::get('/ViewUsers', function () {
 Route::get('/Admin', function () {
     return Inertia::render('Admin');
 })->middleware(['auth', 'verified'])->name('Admin');
+
+Route::get('/BookingHistory', function () {
+    return Inertia::render('BookingHistory');
+})->middleware(['auth', 'verified'])->name('BookingHistory');
+
+Route::get('/Reviews', function () {
+    return Inertia::render('Reviews');
+})->middleware(['auth', 'verified'])->name('Reviews');
+
 
 
 
