@@ -20435,6 +20435,29 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Admin.vue?vue&type=script&lang=js":
+/*!******************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Admin.vue?vue&type=script&lang=js ***!
+  \******************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _inertiajs_inertia_vue3__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @inertiajs/inertia-vue3 */ "./node_modules/@inertiajs/inertia-vue3/dist/index.js");
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
+  components: {
+    Link: _inertiajs_inertia_vue3__WEBPACK_IMPORTED_MODULE_0__.Link,
+    Head: _inertiajs_inertia_vue3__WEBPACK_IMPORTED_MODULE_0__.Head
+  }
+});
+
+/***/ }),
+
 /***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Auth/ConfirmPassword.vue?vue&type=script&lang=js":
 /*!*********************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Auth/ConfirmPassword.vue?vue&type=script&lang=js ***!
@@ -20770,6 +20793,29 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/BookingHistory.vue?vue&type=script&lang=js":
+/*!***************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/BookingHistory.vue?vue&type=script&lang=js ***!
+  \***************************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _inertiajs_inertia_vue3__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @inertiajs/inertia-vue3 */ "./node_modules/@inertiajs/inertia-vue3/dist/index.js");
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
+  components: {
+    Link: _inertiajs_inertia_vue3__WEBPACK_IMPORTED_MODULE_0__.Link,
+    Head: _inertiajs_inertia_vue3__WEBPACK_IMPORTED_MODULE_0__.Head
+  }
+});
+
+/***/ }),
+
 /***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Dashboard.vue?vue&type=script&lang=js":
 /*!**********************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Dashboard.vue?vue&type=script&lang=js ***!
@@ -20842,6 +20888,29 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Reviews.vue?vue&type=script&lang=js":
+/*!********************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Reviews.vue?vue&type=script&lang=js ***!
+  \********************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _inertiajs_inertia_vue3__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @inertiajs/inertia-vue3 */ "./node_modules/@inertiajs/inertia-vue3/dist/index.js");
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
+  components: {
+    Link: _inertiajs_inertia_vue3__WEBPACK_IMPORTED_MODULE_0__.Link,
+    Head: _inertiajs_inertia_vue3__WEBPACK_IMPORTED_MODULE_0__.Head
+  }
+});
+
+/***/ }),
+
 /***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Search.vue?vue&type=script&lang=js":
 /*!*******************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Search.vue?vue&type=script&lang=js ***!
@@ -20861,6 +20930,29 @@ __webpack_require__.r(__webpack_exports__);
   components: {
     BreezeAuthenticatedLayout: _Layouts_Authenticated_vue__WEBPACK_IMPORTED_MODULE_0__["default"],
     Head: _inertiajs_inertia_vue3__WEBPACK_IMPORTED_MODULE_1__.Head
+  }
+});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/SuperAdmin.vue?vue&type=script&lang=js":
+/*!***********************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/SuperAdmin.vue?vue&type=script&lang=js ***!
+  \***********************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _inertiajs_inertia_vue3__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @inertiajs/inertia-vue3 */ "./node_modules/@inertiajs/inertia-vue3/dist/index.js");
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
+  components: {
+    Link: _inertiajs_inertia_vue3__WEBPACK_IMPORTED_MODULE_0__.Link,
+    Head: _inertiajs_inertia_vue3__WEBPACK_IMPORTED_MODULE_0__.Head
   }
 });
 
@@ -20938,6 +21030,29 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/ViewAdmins.vue?vue&type=script&lang=js":
+/*!***********************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/ViewAdmins.vue?vue&type=script&lang=js ***!
+  \***********************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _inertiajs_inertia_vue3__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @inertiajs/inertia-vue3 */ "./node_modules/@inertiajs/inertia-vue3/dist/index.js");
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
+  components: {
+    Link: _inertiajs_inertia_vue3__WEBPACK_IMPORTED_MODULE_0__.Link,
+    Head: _inertiajs_inertia_vue3__WEBPACK_IMPORTED_MODULE_0__.Head
+  }
+});
+
+/***/ }),
+
 /***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/ViewCarwash.vue?vue&type=script&lang=js":
 /*!************************************************************************************************************************************************************************************************!*\
   !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/ViewCarwash.vue?vue&type=script&lang=js ***!
@@ -20963,6 +21078,29 @@ __webpack_require__.r(__webpack_exports__);
     Head: _inertiajs_inertia_vue3__WEBPACK_IMPORTED_MODULE_1__.Head,
     Button: _Components_Button_vue__WEBPACK_IMPORTED_MODULE_2__["default"],
     Input: _Components_Input_vue__WEBPACK_IMPORTED_MODULE_3__["default"]
+  }
+});
+
+/***/ }),
+
+/***/ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/ViewUsers.vue?vue&type=script&lang=js":
+/*!**********************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/ViewUsers.vue?vue&type=script&lang=js ***!
+  \**********************************************************************************************************************************************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
+/* harmony export */ });
+/* harmony import */ var _inertiajs_inertia_vue3__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @inertiajs/inertia-vue3 */ "./node_modules/@inertiajs/inertia-vue3/dist/index.js");
+
+
+/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({
+  components: {
+    Link: _inertiajs_inertia_vue3__WEBPACK_IMPORTED_MODULE_0__.Link,
+    Head: _inertiajs_inertia_vue3__WEBPACK_IMPORTED_MODULE_0__.Head
   }
 });
 
@@ -21854,17 +21992,23 @@ var _hoisted_9 = [_hoisted_8];
 
 var _hoisted_10 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"relative mx-4 lg:mx-0\"><span class=\"absolute inset-y-0 left-0 pl-3 flex items-center\"><svg class=\"h-5 w-5 text-gray-500\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M21 21L15 15M17 10C17 13.866 13.866 17 10 17C6.13401 17 3 13.866 3 10C3 6.13401 6.13401 3 10 3C13.866 3 17 6.13401 17 10Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></span><input class=\"form-input w-32 sm:w-64 rounded-md pl-10 pr-4 focus:border-indigo-600\" type=\"text\" placeholder=\"Search\"></div>", 1);
 
-var _hoisted_11 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
+var _hoisted_11 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
   type: "button",
   "class": "justify-right bg-b2w-900 text-sm px-4 py-1 shadow-md m-1 rounded text-gray-200 font-semibold hover:bg-b2wdark-900 transition duration-200 each-in-out"
-}, "Log Out")], -1
+}, "Log Out", -1
 /* HOISTED */
 );
 
 var _hoisted_12 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<main class=\"bg-no-repeat bg-cover bg-center bg-fixed flex-1 overflow-x-hidden overflow-y-auto bg-gray-300\" style=\"background-image:url(&#39;/svg/Rect Light.svg&#39;);\"><div class=\"container mx-auto px-6 py-8\"><!-- component --><div class=\"flex flex-wrap items-center justify-center\"><div class=\"container sm:rounded-lg bg-white shadow-md transform duration-200 easy-in-out\"><div class=\"h-40 overflow-hidden\"><img class=\"w-full\" src=\"/images/carwashcyber.jpg\" alt=\"\"></div><div class=\"\"><div class=\"text-center px-14\"><h2 class=\"text-gray-800 text-3xl font-bold mt-4\">Carwash Cyberjaya</h2><p class=\"text-gray-400 mt-2\">Jalan Teknorat Cyberjaya</p><p class=\"mt-2 text-gray-600\">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, </p><div class=\"my-4\"><a><button type=\"button\" class=\"w-1/2 bg-b2w-900 text-sm px-4 py-1 m-1 rounded text-gray-200 font-semibold hover:bg-b2wdark-900 transition duration-200 each-in-out\">Edit Profile</button></a></div></div><hr class=\"mt-6\"><div class=\"flex bg-gray-50\"><div class=\"text-center w-1/2 p-4 hover:bg-gray-100 cursor-pointer\"><p><span class=\"font-semibold\">4.5 </span> Rating</p></div><div class=\"border\"></div><div class=\"text-center w-1/2 p-4 hover:bg-gray-100 cursor-pointer\"><p><span class=\"font-semibold\">500 </span> Appointments</p></div></div></div></div></div><div class=\"mt-8\"></div><div class=\"flex flex-col mt-8\"><div class=\"-my-2 py-2 overflow-x-auto sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8\"><div class=\"align-middle inline-block min-w-full shadow overflow-hidden sm:rounded-lg border-b border-gray-200\"><table class=\"min-w-full\"><thead><tr><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Car No.Plate</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Car Type</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Status</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Date/Time</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50\"></th></tr></thead><tbody class=\"bg-white\"><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">PNU 151 </div><div class=\"text-sm leading-5 text-gray-500\">Nur Dheya</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Hatchback</div><div class=\"text-sm leading-5 text-gray-500\"></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Pending</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> 14-12 16:00</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-b2w-800 hover:text-b2wdark-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">WA 765 D </div><div class=\"text-sm leading-5 text-gray-500\">Mesut Ozil</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">SUV</div><div class=\"text-sm leading-5 text-gray-500\"></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Pending</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> 14-12 16:15</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-b2w-800 hover:text-b2wdark-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">BNU 7243 </div><div class=\"text-sm leading-5 text-gray-500\">Emile Smith Rowe</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Sedan</div><div class=\"text-sm leading-5 text-gray-500\"></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Paid</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> 14-12 17:00</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-b2w-800 hover:text-b2wdark-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">VAE 2483 </div><div class=\"text-sm leading-5 text-gray-500\">Fahmi Mikail</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Sedan</div><div class=\"text-sm leading-5 text-gray-500\"></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Paid</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> 14-12 17:20</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-b2w-800 hover:text-b2wdark-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">WWU 2871 </div><div class=\"text-sm leading-5 text-gray-500\">Mikel Arteta</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Hatchback</div><div class=\"text-sm leading-5 text-gray-500\"></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Pending</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> 14-12 17:30</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-b2w-800 hover:text-b2wdark-900\">Edit</a></td></tr></tbody></table></div></div></div></div></main>", 1);
 
-function render(_ctx, _cache) {
-  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("html", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+function render(_ctx, _cache, $props, $setup, $data, $options) {
+  var _component_Head = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("Head");
+
+  var _component_Link = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("Link");
+
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_Head, {
+    title: "Dashboard"
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)([_ctx.sidebarOpen ? 'block' : 'hidden', "fixed z-20 inset-0 bg-black opacity-50 transition-opacity lg:hidden"]),
     onClick: _cache[0] || (_cache[0] = function ($event) {
       return _ctx.sidebarOpen = false;
@@ -21880,7 +22024,22 @@ function render(_ctx, _cache) {
       return _ctx.sidebarOpen = true;
     }),
     "class": "text-gray-500 focus:outline-none lg:hidden"
-  }, _hoisted_9), _hoisted_10]), _hoisted_11]), _hoisted_12])])])]);
+  }, _hoisted_9), _hoisted_10]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_Link, {
+    href: _ctx.route('logout'),
+    method: "post",
+    as: "button"
+  }, {
+    "default": (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(function () {
+      return [_hoisted_11];
+    }),
+    _: 1
+    /* STABLE */
+
+  }, 8
+  /* PROPS */
+  , ["href"])]), _hoisted_12])])])], 64
+  /* STABLE_FRAGMENT */
+  );
 }
 
 /***/ }),
@@ -22592,17 +22751,23 @@ var _hoisted_9 = [_hoisted_8];
 
 var _hoisted_10 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"relative mx-4 lg:mx-0\"><span class=\"absolute inset-y-0 left-0 pl-3 flex items-center\"><svg class=\"h-5 w-5 text-gray-500\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M21 21L15 15M17 10C17 13.866 13.866 17 10 17C6.13401 17 3 13.866 3 10C3 6.13401 6.13401 3 10 3C13.866 3 17 6.13401 17 10Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></span><input class=\"form-input w-32 sm:w-64 rounded-md pl-10 pr-4 focus:border-indigo-600\" type=\"text\" placeholder=\"Search\"></div>", 1);
 
-var _hoisted_11 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
+var _hoisted_11 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
   type: "button",
   "class": "justify-right bg-b2w-900 text-sm px-4 py-1 shadow-md m-1 rounded text-gray-200 font-semibold hover:bg-b2wdark-900 transition duration-200 each-in-out"
-}, "Log Out")], -1
+}, "Log Out", -1
 /* HOISTED */
 );
 
 var _hoisted_12 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<main class=\"bg-no-repeat bg-cover bg-center bg-fixed flex-1 overflow-x-hidden overflow-y-auto bg-gray-300\" style=\"background-image:url(&#39;/svg/Rect Light.svg&#39;);\"><div class=\"container mx-auto px-6 py-8\"><h3 class=\"text-gray-700 text-3xl font-medium\">Booking History</h3><!-- &lt;div class=&quot;w-full h-screen bg-blue-200 flex justify-center items-center&quot;\n\t\t\t\t\t\t\t&gt;\n\t\t\t\t\t\t\t\t&lt;ul class=&quot;container flex flex-col gap-4 p-16&quot;&gt;\n\t\t\t\t\t\t\t\t\t&lt;li class=&quot;border-gray-400 flex flex-row&quot;&gt;\n\n        &lt;div class=&quot;bg-gray-100 rounded-lg w-full h-auto py-4 flex flex-row justify-between divide-x divide-solid divide-gray-400&quot;&gt;\n            &lt;div class=&quot;relative flex-1 flex flex-col gap-2 px-4&quot;&gt;\n                &lt;label class=&quot;text-gray-800 text-base font-semibold tracking-wider&quot;&gt;Car Plate Number&lt;/label&gt;\n                &lt;label class=&quot;text-gray-800 text-4xl font-bold&quot;&gt;VUE 1679&lt;/label&gt;\n\n            &lt;/div&gt;\n            &lt;div class=&quot;relative flex-1 flex flex-col gap-2 px-4&quot;&gt;\n                &lt;label class=&quot;text-gray-800 text-base font-semibold tracking-wider&quot;&gt;Date/Time&lt;/label&gt;\n                &lt;label class=&quot;text-gray-800 text-4xl font-bold&quot;&gt;29/10/2021 16:32&lt;/label&gt;\n\n            &lt;/div&gt;\n            &lt;div class=&quot;relative flex-1 flex flex-col gap-2 px-4&quot;&gt;\n                &lt;label class=&quot;text-gray-800 text-base font-semibold tracking-wider&quot;&gt;Payment Amount&lt;/label&gt;\n                &lt;label class=&quot;text-green-800 text-4xl font-bold&quot;&gt;RM12.38&lt;/label&gt;\n\n            &lt;/div&gt;\n        &lt;/div&gt;\n\n\t\t\t\t\t\t\t\t\t&lt;/li&gt;\n\t\t\t\t\t\t\t\t\t&lt;li class=&quot;border-gray-400 flex flex-row mb-2&quot;&gt;\n\t\t\t\t\t\t\t\t\t\t&lt;div class=&quot;bg-gray-100 rounded-lg w-full h-auto py-4 flex flex-row justify-between divide-x divide-solid divide-gray-400&quot;&gt;\n            &lt;div class=&quot;relative flex-1 flex flex-col gap-2 px-4&quot;&gt;\n                &lt;label class=&quot;text-gray-800 text-base font-semibold tracking-wider&quot;&gt;Car Plate Number&lt;/label&gt;\n                &lt;label class=&quot;text-gray-800 text-4xl font-bold&quot;&gt;VUE 1679&lt;/label&gt;\n\n            &lt;/div&gt;\n            &lt;div class=&quot;relative flex-1 flex flex-col gap-2 px-4&quot;&gt;\n                &lt;label class=&quot;text-gray-800 text-base font-semibold tracking-wider&quot;&gt;Date/Time&lt;/label&gt;\n                &lt;label class=&quot;text-gray-800 text-4xl font-bold&quot;&gt;29/10/2021 16:32&lt;/label&gt;\n\n            &lt;/div&gt;\n            &lt;div class=&quot;relative flex-1 flex flex-col gap-2 px-4&quot;&gt;\n                &lt;label class=&quot;text-gray-800 text-base font-semibold tracking-wider&quot;&gt;Payment Amount&lt;/label&gt;\n                &lt;label class=&quot;text-green-800 text-4xl font-bold&quot;&gt;RM12.38&lt;/label&gt;\n\n            &lt;/div&gt;\n        &lt;/div&gt;\n\t\t\t\t\t\t\t\t\t&lt;/li&gt;\n\t\t\t\t\t\t\t\t\t&lt;li class=&quot;border-gray-400 flex flex-row mb-2&quot;&gt;\n\t\t\t\t\t\t\t\t\t\t&lt;div class=&quot;bg-gray-100 rounded-lg w-full h-auto py-4 flex flex-row justify-between divide-x divide-solid divide-gray-400&quot;&gt;\n            &lt;div class=&quot;relative flex-1 flex flex-col gap-2 px-4&quot;&gt;\n                &lt;label class=&quot;text-gray-800 text-base font-semibold tracking-wider&quot;&gt;Car Plate Number&lt;/label&gt;\n                &lt;label class=&quot;text-gray-800 text-4xl font-bold&quot;&gt;VUE 1679&lt;/label&gt;\n\n            &lt;/div&gt;\n            &lt;div class=&quot;relative flex-1 flex flex-col gap-2 px-4&quot;&gt;\n                &lt;label class=&quot;text-gray-800 text-base font-semibold tracking-wider&quot;&gt;Date/Time&lt;/label&gt;\n                &lt;label class=&quot;text-gray-800 text-4xl font-bold&quot;&gt;29/10/2021 16:32&lt;/label&gt;\n\n            &lt;/div&gt;\n            &lt;div class=&quot;relative flex-1 flex flex-col gap-2 px-4&quot;&gt;\n                &lt;label class=&quot;text-gray-800 text-base font-semibold tracking-wider&quot;&gt;Payment Amount&lt;/label&gt;\n                &lt;label class=&quot;text-green-800 text-4xl font-bold&quot;&gt;RM12.38&lt;/label&gt;\n\n            &lt;/div&gt;\n        &lt;/div&gt;\n\t\t\t\t\t\t\t\t\t&lt;/li&gt;\n\t\t\t\t\t\t\t\t\t&lt;li class=&quot;border-gray-400 flex flex-row mb-2&quot;&gt;\n\t\t\t\t\t\t\t\t\t\t&lt;div class=&quot;bg-gray-100 rounded-lg w-full h-auto py-4 flex flex-row justify-between divide-x divide-solid divide-gray-400&quot;&gt;\n            &lt;div class=&quot;relative flex-1 flex flex-col gap-2 px-4&quot;&gt;\n                &lt;label class=&quot;text-gray-800 text-base font-semibold tracking-wider&quot;&gt;Car Plate Number&lt;/label&gt;\n                &lt;label class=&quot;text-gray-800 text-4xl font-bold&quot;&gt;VUE 1679&lt;/label&gt;\n\n            &lt;/div&gt;\n            &lt;div class=&quot;relative flex-1 flex flex-col gap-2 px-4&quot;&gt;\n                &lt;label class=&quot;text-gray-800 text-base font-semibold tracking-wider&quot;&gt;Date/Time&lt;/label&gt;\n                &lt;label class=&quot;text-gray-800 text-4xl font-bold&quot;&gt;29/10/2021 16:32&lt;/label&gt;\n\n            &lt;/div&gt;\n            &lt;div class=&quot;relative flex-1 flex flex-col gap-2 px-4&quot;&gt;\n                &lt;label class=&quot;text-gray-800 text-base font-semibold tracking-wider&quot;&gt;Payment Amount&lt;/label&gt;\n                &lt;label class=&quot;text-green-800 text-4xl font-bold&quot;&gt;RM12.38&lt;/label&gt;\n\n            &lt;/div&gt;\n        &lt;/div&gt;\n\t\t\t\t\t\t\t\t\t&lt;/li&gt;\n\t\t\t\t\t\t\t\t\t&lt;li class=&quot;border-gray-400 flex flex-row mb-2&quot;&gt;\n\t\t\t\t\t\t\t\t\t\t&lt;div class=&quot;bg-gray-100 rounded-lg w-full h-auto py-4 flex flex-row justify-between divide-x divide-solid divide-gray-400&quot;&gt;\n            &lt;div class=&quot;relative flex-1 flex flex-col gap-2 px-4&quot;&gt;\n                &lt;label class=&quot;text-gray-800 text-base font-semibold tracking-wider&quot;&gt;Car Plate Number&lt;/label&gt;\n                &lt;label class=&quot;text-gray-800 text-4xl font-bold&quot;&gt;VUE 1679&lt;/label&gt;\n\n            &lt;/div&gt;\n            &lt;div class=&quot;relative flex-1 flex flex-col gap-2 px-4&quot;&gt;\n                &lt;label class=&quot;text-gray-800 text-base font-semibold tracking-wider&quot;&gt;Date/Time&lt;/label&gt;\n                &lt;label class=&quot;text-gray-800 text-4xl font-bold&quot;&gt;29/10/2021 16:32&lt;/label&gt;\n\n            &lt;/div&gt;\n            &lt;div class=&quot;relative flex-1 flex flex-col gap-2 px-4&quot;&gt;\n                &lt;label class=&quot;text-gray-800 text-base font-semibold tracking-wider&quot;&gt;Payment Amount&lt;/label&gt;\n                &lt;label class=&quot;text-green-800 text-4xl font-bold&quot;&gt;RM12.38&lt;/label&gt;\n\n            &lt;/div&gt;\n        &lt;/div&gt;\n\t\t\t\t\t\t\t\t\t&lt;/li&gt;\n\t\t\t\t\t\t\t\t\t&lt;li class=&quot;border-gray-400 flex flex-row mb-2&quot;&gt;\n\t\t\t\t\t\t\t\t\t\t&lt;div class=&quot;bg-gray-100 rounded-lg w-full h-auto py-4 flex flex-row justify-between divide-x divide-solid divide-gray-400&quot;&gt;\n            &lt;div class=&quot;relative flex-1 flex flex-col gap-2 px-4&quot;&gt;\n                &lt;label class=&quot;text-gray-800 text-base font-semibold tracking-wider&quot;&gt;Car Plate Number&lt;/label&gt;\n                &lt;label class=&quot;text-gray-800 text-4xl font-bold&quot;&gt;VUE 1679&lt;/label&gt;\n\n            &lt;/div&gt;\n            &lt;div class=&quot;relative flex-1 flex flex-col gap-2 px-4&quot;&gt;\n                &lt;label class=&quot;text-gray-800 text-base font-semibold tracking-wider&quot;&gt;Date/Time&lt;/label&gt;\n                &lt;label class=&quot;text-gray-800 text-4xl font-bold&quot;&gt;29/10/2021 16:32&lt;/label&gt;\n\n            &lt;/div&gt;\n            &lt;div class=&quot;relative flex-1 flex flex-col gap-2 px-4&quot;&gt;\n                &lt;label class=&quot;text-gray-800 text-base font-semibold tracking-wider&quot;&gt;Payment Amount&lt;/label&gt;\n                &lt;label class=&quot;text-green-800 text-4xl font-bold&quot;&gt;RM12.38&lt;/label&gt;\n\n            &lt;/div&gt;\n        &lt;/div&gt;\n\t\t\t\t\t\t\t\t\t&lt;/li&gt;\n\t\t\t\t\t\t\t\t&lt;/ul&gt;\n\t\t\t\t\t\t\t&lt;/div&gt; --><div class=\"mt-8\"></div><div class=\"flex flex-col mt-8\"><div class=\"-my-2 py-2 overflow-x-auto sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8\"><div class=\"align-middle inline-block min-w-full shadow overflow-hidden sm:rounded-lg border-b border-gray-200\"><table class=\"min-w-full\"><thead><tr><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Car No.Plate</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Car Type</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Status</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Date/Time</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Total</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50\"></th></tr></thead><tbody class=\"bg-white\"><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">VTD 7263 </div><div class=\"text-sm leading-5 text-gray-500\">Cristiano Ronaldo</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Hatchback</div><div class=\"text-sm leading-5 text-gray-500\"></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Cash</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> 12-12 13:00</td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> RM 10.00</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-b2w-800 hover:text-b2wdark-900\">Info</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">VFA 9487 </div><div class=\"text-sm leading-5 text-gray-500\">Leonel Messi</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Sedan</div><div class=\"text-sm leading-5 text-gray-500\"></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Credit/Debit Card</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> 12-12 16:10</td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> RM 12.00</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-b2w-800 hover:text-b2wdark-900\">Info</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">BEA 6237 </div><div class=\"text-sm leading-5 text-gray-500\">Ahmad Ehsan</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Sedan</div><div class=\"text-sm leading-5 text-gray-500\"></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Cash</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> 13-12 13:00</td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> RM 12.00</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-b2w-800 hover:text-b2wdark-900\">Info</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">TAS 3678 </div><div class=\"text-sm leading-5 text-gray-500\">Fattah Amin</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">SUV</div><div class=\"text-sm leading-5 text-gray-500\"></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Credit/Debit Card</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> 13-12 18:00</td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> RM 16.00</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-b2w-800 hover:text-b2wdark-900\">Info</a></td></tr></tbody></table></div></div></div></div></main>", 1);
 
-function render(_ctx, _cache) {
-  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("div", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+function render(_ctx, _cache, $props, $setup, $data, $options) {
+  var _component_Head = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("Head");
+
+  var _component_Link = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("Link");
+
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_Head, {
+    title: "Reviews"
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)([_ctx.sidebarOpen ? 'block' : 'hidden', "fixed z-20 inset-0 bg-black opacity-50 transition-opacity lg:hidden"]),
     onClick: _cache[0] || (_cache[0] = function ($event) {
       return _ctx.sidebarOpen = false;
@@ -22618,7 +22783,22 @@ function render(_ctx, _cache) {
       return _ctx.sidebarOpen = true;
     }),
     "class": "text-gray-500 focus:outline-none lg:hidden"
-  }, _hoisted_9), _hoisted_10]), _hoisted_11]), _hoisted_12])])]);
+  }, _hoisted_9), _hoisted_10]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_Link, {
+    href: _ctx.route('logout'),
+    method: "post",
+    as: "button"
+  }, {
+    "default": (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(function () {
+      return [_hoisted_11];
+    }),
+    _: 1
+    /* STABLE */
+
+  }, 8
+  /* PROPS */
+  , ["href"])]), _hoisted_12])])])], 64
+  /* STABLE_FRAGMENT */
+  );
 }
 
 /***/ }),
@@ -23447,17 +23627,23 @@ var _hoisted_9 = [_hoisted_8];
 
 var _hoisted_10 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"relative mx-4 lg:mx-0\"><span class=\"absolute inset-y-0 left-0 pl-3 flex items-center\"><svg class=\"h-5 w-5 text-gray-500\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M21 21L15 15M17 10C17 13.866 13.866 17 10 17C6.13401 17 3 13.866 3 10C3 6.13401 6.13401 3 10 3C13.866 3 17 6.13401 17 10Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></span><input class=\"form-input w-32 sm:w-64 rounded-md pl-10 pr-4 focus:border-indigo-600\" type=\"text\" placeholder=\"Search\"></div>", 1);
 
-var _hoisted_11 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
+var _hoisted_11 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
   type: "button",
   "class": "justify-right bg-b2w-900 text-sm px-4 py-1 shadow-md m-1 rounded text-gray-200 font-semibold hover:bg-b2wdark-900 transition duration-200 each-in-out"
-}, "Log Out")], -1
+}, "Log Out", -1
 /* HOISTED */
 );
 
 var _hoisted_12 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<main class=\"bg-no-repeat bg-cover bg-center bg-fixed flex-1 overflow-x-hidden overflow-y-auto bg-gray-300\" style=\"background-image:url(&#39;/svg/Rect Light.svg&#39;);\"><div class=\"container mx-auto px-6 py-8\"><h3 class=\"text-gray-700 text-3xl font-medium\">Reviews</h3><div class=\"bg-white shadow-md rounded-lg my-4 px-4 py-4 w-full\"><div class=\"mb-1 tracking-wide px-4 py-4\"><h2 class=\"text-gray-800 font-semibold mt-1\">67 Users reviews</h2><div class=\"-mx-8 px-8 pb-3 w-1/2\"><div class=\"flex items-center mt-1\"><div class=\"w-1/5 text-b2w-900 tracking-tighter\"><span>5 star</span></div><div class=\"w-3/5\"><div class=\"bg-gray-300 w-full rounded-lg h-2\"><div class=\"w-7/12 bg-b2w-900 rounded-lg h-2\"></div></div></div><div class=\"w-1/5 text-gray-700 pl-3\"><span class=\"text-sm\">51%</span></div></div><!-- first --><div class=\"flex items-center mt-1\"><div class=\"w-1/5 text-b2w-900 tracking-tighter\"><span>4 star</span></div><div class=\"w-3/5\"><div class=\"bg-gray-300 w-full rounded-lg h-2\"><div class=\"w-1/5 bg-b2w-900 rounded-lg h-2\"></div></div></div><div class=\"w-1/5 text-gray-700 pl-3\"><span class=\"text-sm\">17%</span></div></div><!-- second --><div class=\"flex items-center mt-1\"><div class=\"w-1/5 text-b2w-900 tracking-tighter\"><span>3 star</span></div><div class=\"w-3/5\"><div class=\"bg-gray-300 w-full rounded-lg h-2\"><div class=\"w-3/12 bg-b2w-900 rounded-lg h-2\"></div></div></div><div class=\"w-1/5 text-gray-700 pl-3\"><span class=\"text-sm\">19%</span></div></div><!-- thierd --><div class=\"flex items-center mt-1\"><div class=\"w-1/5 text-b2w-900 tracking-tighter\"><span>2 star</span></div><div class=\"w-3/5\"><div class=\"bg-gray-300 w-full rounded-lg h-2\"><div class=\"w-1/5 bg-b2w-900 rounded-lg h-2\"></div></div></div><div class=\"w-1/5 text-gray-700 pl-3\"><span class=\"text-sm\">8%</span></div></div><!-- 4th --><div class=\"flex items-center mt-1\"><div class=\"w-1/5 text-b2w-900 tracking-tighter\"><span>1 star</span></div><div class=\"w-3/5\"><div class=\"bg-gray-300 w-full rounded-lg h-2\"><div class=\"w-2/12 bg-b2w-900 rounded-lg h-2\"></div></div></div><div class=\"w-1/5 text-gray-700 pl-3\"><span class=\"text-sm\">5%</span></div></div><!-- 5th --></div></div><div class=\"bg-white max-w-xl rounded-2xl px-10 py-8 border-b border-t transition duration-500\"><h1 class=\"text-lg text-gray-700 font-semibold hover:underline cursor-pointer\">Carwash Review</h1><div class=\"flex mt-2\"><svg xmlns=\"http://www.w3.org/2000/svg\" class=\"h-4 w-4 text-yellow-400\" viewBox=\"0 0 20 20\" fill=\"currentColor\"><path d=\"M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z\"></path></svg><svg xmlns=\"http://www.w3.org/2000/svg\" class=\"h-4 w-4 text-yellow-400\" viewBox=\"0 0 20 20\" fill=\"currentColor\"><path d=\"M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z\"></path></svg><svg xmlns=\"http://www.w3.org/2000/svg\" class=\"h-4 w-4 text-yellow-400\" viewBox=\"0 0 20 20\" fill=\"currentColor\"><path d=\"M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z\"></path></svg><svg xmlns=\"http://www.w3.org/2000/svg\" class=\"h-4 w-4 text-yellow-400\" viewBox=\"0 0 20 20\" fill=\"currentColor\"><path d=\"M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z\"></path></svg></div><p class=\"mt-4 text-md text-gray-600\">The manager was very kind and accommodating.</p></div><div class=\"bg-white max-w-xl rounded-2xl px-10 py-8 border-b border-t transition duration-500\"><h1 class=\"text-lg text-gray-700 font-semibold hover:underline cursor-pointer\">Excellent</h1><div class=\"flex mt-2\"><svg xmlns=\"http://www.w3.org/2000/svg\" class=\"h-4 w-4 text-yellow-400\" viewBox=\"0 0 20 20\" fill=\"currentColor\"><path d=\"M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z\"></path></svg><svg xmlns=\"http://www.w3.org/2000/svg\" class=\"h-4 w-4 text-yellow-400\" viewBox=\"0 0 20 20\" fill=\"currentColor\"><path d=\"M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z\"></path></svg><svg xmlns=\"http://www.w3.org/2000/svg\" class=\"h-4 w-4 text-yellow-400\" viewBox=\"0 0 20 20\" fill=\"currentColor\"><path d=\"M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z\"></path></svg><svg xmlns=\"http://www.w3.org/2000/svg\" class=\"h-4 w-4 text-yellow-400\" viewBox=\"0 0 20 20\" fill=\"currentColor\"><path d=\"M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z\"></path></svg><svg xmlns=\"http://www.w3.org/2000/svg\" class=\"h-4 w-4 text-yellow-400\" viewBox=\"0 0 20 20\" fill=\"currentColor\"><path d=\"M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z\"></path></svg></div><p class=\"mt-4 text-md text-gray-600\">Good Carwash and everything is perfectly fine.</p></div></div></div></main>", 1);
 
-function render(_ctx, _cache) {
-  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("div", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+function render(_ctx, _cache, $props, $setup, $data, $options) {
+  var _component_Head = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("Head");
+
+  var _component_Link = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("Link");
+
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_Head, {
+    title: "Reviews"
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)([_ctx.sidebarOpen ? 'block' : 'hidden', "fixed z-20 inset-0 bg-black opacity-50 transition-opacity lg:hidden"]),
     onClick: _cache[0] || (_cache[0] = function ($event) {
       return _ctx.sidebarOpen = false;
@@ -23473,7 +23659,22 @@ function render(_ctx, _cache) {
       return _ctx.sidebarOpen = true;
     }),
     "class": "text-gray-500 focus:outline-none lg:hidden"
-  }, _hoisted_9), _hoisted_10]), _hoisted_11]), _hoisted_12])])]);
+  }, _hoisted_9), _hoisted_10]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_Link, {
+    href: _ctx.route('logout'),
+    method: "post",
+    as: "button"
+  }, {
+    "default": (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(function () {
+      return [_hoisted_11];
+    }),
+    _: 1
+    /* STABLE */
+
+  }, 8
+  /* PROPS */
+  , ["href"])]), _hoisted_12])])])], 64
+  /* STABLE_FRAGMENT */
+  );
 }
 
 /***/ }),
@@ -23690,33 +23891,25 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
 
-
-var _hoisted_1 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("head", null, null, -1
-/* HOISTED */
-);
-
-var _hoisted_2 = {
-  "class": "bg-blue-200"
-};
-var _hoisted_3 = {
+var _hoisted_1 = {
   "x-data": "{ sidebarOpen: false }",
   "class": "flex h-screen bg-gray-200"
 };
 
-var _hoisted_4 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"flex items-center justify-center mt-8\"><div class=\"flex items-center\"><svg class=\"h-12 w-12\" viewBox=\"0 0 512 512\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M364.61 390.213C304.625 450.196 207.37 450.196 147.386 390.213C117.394 360.22 102.398 320.911 102.398 281.6C102.398 242.291 117.394 202.981 147.386 172.989C147.386 230.4 153.6 281.6 230.4 307.2C230.4 256 256 102.4 294.4 76.7999C320 128 334.618 142.997 364.608 172.989C394.601 202.981 409.597 242.291 409.597 281.6C409.597 320.911 394.601 360.22 364.61 390.213Z\" fill=\"#4C51BF\" stroke=\"#4C51BF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M201.694 387.105C231.686 417.098 280.312 417.098 310.305 387.105C325.301 372.109 332.8 352.456 332.8 332.8C332.8 313.144 325.301 293.491 310.305 278.495C295.309 263.498 288 256 275.2 230.4C256 243.2 243.201 320 243.201 345.6C201.694 345.6 179.2 332.8 179.2 332.8C179.2 352.456 186.698 372.109 201.694 387.105Z\" fill=\"white\"></path></svg><span class=\"text-white text-2xl mx-2 font-semibold\">Book2Wash</span></div></div><nav class=\"mt-10\"><a class=\"flex items-center mt-4 py-2 px-6 bg-gray-700 bg-opacity-25 text-gray-100\" href=\"/ViewUsers\"><span class=\"mx-3\">View All Users</span></a><a class=\"flex items-center mt-4 py-2 px-6 text-gray-500 hover:bg-gray-700 hover:bg-opacity-25 hover:text-gray-100\" href=\"/ViewAdmins\"><span class=\"mx-3\">View All Admins</span></a></nav>", 2);
+var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"flex items-center justify-center mt-8\"><div class=\"flex items-center\"><img src=\"/images/BOOK2WASHFIX2.png\"></div></div><nav class=\"mt-10\"><a class=\"flex items-center mt-4 py-2 px-6 bg-b2wdark-600 bg-opacity-25 text-gray-100\" href=\"/SuperAdmin\"><span class=\"mx-3\">Dashboard</span></a><a class=\"flex items-center mt-4 py-2 px-6 text-gray-500 hover:bg-b2wdark-600 hover:bg-opacity-25 hover:text-gray-100\" href=\"/ViewUsers\"><span class=\"mx-3\">View All Users</span></a><a class=\"flex items-center mt-4 py-2 px-6 text-gray-500 hover:bg-b2wdark-600 hover:bg-opacity-25 hover:text-gray-100\" href=\"/ViewAdmins\"><span class=\"mx-3\">View All Admins</span></a></nav>", 2);
 
-var _hoisted_6 = [_hoisted_4];
-var _hoisted_7 = {
+var _hoisted_4 = [_hoisted_2];
+var _hoisted_5 = {
   "class": "flex-1 flex flex-col overflow-hidden"
 };
-var _hoisted_8 = {
-  "class": "flex justify-between items-center py-4 px-6 bg-white border-b-4 border-indigo-600"
+var _hoisted_6 = {
+  "class": "flex justify-between items-center py-4 px-6 bg-white border-b-4 border-b2w-900"
 };
-var _hoisted_9 = {
+var _hoisted_7 = {
   "class": "flex items-center"
 };
 
-var _hoisted_10 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("svg", {
+var _hoisted_8 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("svg", {
   "class": "h-6 w-6",
   viewBox: "0 0 24 24",
   fill: "none",
@@ -23731,14 +23924,27 @@ var _hoisted_10 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElement
 /* HOISTED */
 );
 
-var _hoisted_11 = [_hoisted_10];
+var _hoisted_9 = [_hoisted_8];
 
-var _hoisted_12 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"relative mx-4 lg:mx-0\"><span class=\"absolute inset-y-0 left-0 pl-3 flex items-center\"><svg class=\"h-5 w-5 text-gray-500\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M21 21L15 15M17 10C17 13.866 13.866 17 10 17C6.13401 17 3 13.866 3 10C3 6.13401 6.13401 3 10 3C13.866 3 17 6.13401 17 10Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></span><input class=\"form-input w-32 sm:w-64 rounded-md pl-10 pr-4 focus:border-indigo-600\" type=\"text\" placeholder=\"Search\"></div>", 1);
+var _hoisted_10 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"relative mx-4 lg:mx-0\"><span class=\"absolute inset-y-0 left-0 pl-3 flex items-center\"><svg class=\"h-5 w-5 text-gray-500\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M21 21L15 15M17 10C17 13.866 13.866 17 10 17C6.13401 17 3 13.866 3 10C3 6.13401 6.13401 3 10 3C13.866 3 17 6.13401 17 10Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></span><input class=\"form-input w-32 sm:w-64 rounded-md pl-10 pr-4 focus:border-indigo-600\" type=\"text\" placeholder=\"Search\"></div>", 1);
 
-var _hoisted_13 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<main class=\"flex-1 overflow-x-hidden overflow-y-auto bg-gray-200\"><div class=\"container mx-auto px-6 py-8\"><h3 class=\"text-gray-700 text-3xl font-medium\">Super Administrator</h3><div class=\"mt-4\"><div class=\"flex flex-wrap -mx-6\"><div class=\"w-full px-6 sm:w-1/2 xl:w-1/2\"><div class=\"flex items-center px-5 py-6 shadow-sm rounded-md bg-white\"><div class=\"p-3 rounded-full bg-indigo-600 bg-opacity-75\"><svg class=\"h-8 w-8 text-white\" viewBox=\"0 0 28 30\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M18.2 9.08889C18.2 11.5373 16.3196 13.5222 14 13.5222C11.6804 13.5222 9.79999 11.5373 9.79999 9.08889C9.79999 6.64043 11.6804 4.65556 14 4.65556C16.3196 4.65556 18.2 6.64043 18.2 9.08889Z\" fill=\"currentColor\"></path><path d=\"M25.2 12.0444C25.2 13.6768 23.9464 15 22.4 15C20.8536 15 19.6 13.6768 19.6 12.0444C19.6 10.4121 20.8536 9.08889 22.4 9.08889C23.9464 9.08889 25.2 10.4121 25.2 12.0444Z\" fill=\"currentColor\"></path><path d=\"M19.6 22.3889C19.6 19.1243 17.0927 16.4778 14 16.4778C10.9072 16.4778 8.39999 19.1243 8.39999 22.3889V26.8222H19.6V22.3889Z\" fill=\"currentColor\"></path><path d=\"M8.39999 12.0444C8.39999 13.6768 7.14639 15 5.59999 15C4.05359 15 2.79999 13.6768 2.79999 12.0444C2.79999 10.4121 4.05359 9.08889 5.59999 9.08889C7.14639 9.08889 8.39999 10.4121 8.39999 12.0444Z\" fill=\"currentColor\"></path><path d=\"M22.4 26.8222V22.3889C22.4 20.8312 22.0195 19.3671 21.351 18.0949C21.6863 18.0039 22.0378 17.9556 22.4 17.9556C24.7197 17.9556 26.6 19.9404 26.6 22.3889V26.8222H22.4Z\" fill=\"currentColor\"></path><path d=\"M6.64896 18.0949C5.98058 19.3671 5.59999 20.8312 5.59999 22.3889V26.8222H1.39999V22.3889C1.39999 19.9404 3.2804 17.9556 5.59999 17.9556C5.96219 17.9556 6.31367 18.0039 6.64896 18.0949Z\" fill=\"currentColor\"></path></svg></div><div class=\"mx-5\"><h4 class=\"text-2xl font-semibold text-gray-700\">8,282</h4><div class=\"text-gray-500\">Total Users</div></div></div></div><div class=\"w-full px-6 sm:w-1/2 xl:w-1/2\"><div class=\"flex items-center px-5 py-6 shadow-sm rounded-md bg-white\"><div class=\"p-3 rounded-full bg-pink-600 bg-opacity-75\"><svg class=\"h-8 w-8 text-white\" viewBox=\"0 0 28 28\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6.99998 11.2H21L22.4 23.8H5.59998L6.99998 11.2Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linejoin=\"round\"></path><path d=\"M9.79999 8.4C9.79999 6.08041 11.6804 4.2 14 4.2C16.3196 4.2 18.2 6.08041 18.2 8.4V12.6C18.2 14.9197 16.3196 16.8 14 16.8C11.6804 16.8 9.79999 14.9197 9.79999 12.6V8.4Z\" stroke=\"currentColor\" stroke-width=\"2\"></path></svg></div><div class=\"mx-5\"><h4 class=\"text-2xl font-semibold text-gray-700\">542</h4><div class=\"text-gray-500\">Total Admins</div></div></div></div></div></div><div class=\"mt-8\"></div><div class=\"flex flex-col mt-8\"><div class=\"-my-2 py-2 overflow-x-auto sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8\"><div class=\"align-middle inline-block min-w-full shadow overflow-hidden sm:rounded-lg border-b border-gray-200\"><table class=\"min-w-full\"><thead><tr><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Name</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Title</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Status</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Role</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50\"></th></tr></thead><tbody class=\"bg-white\"><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr></tbody></table></div></div></div></div></main>", 1);
+var _hoisted_11 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
+  type: "button",
+  "class": "justify-right bg-b2w-900 text-sm px-4 py-1 shadow-md m-1 rounded text-gray-200 font-semibold hover:bg-b2wdark-900 transition duration-200 each-in-out"
+}, "Log Out", -1
+/* HOISTED */
+);
 
-function render(_ctx, _cache) {
-  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [_hoisted_1, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("body", _hoisted_2, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+var _hoisted_12 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<main class=\"bg-no-repeat bg-cover bg-center bg-fixed flex-1 overflow-x-hidden overflow-y-auto bg-gray-200\" style=\"background-image:url(&#39;/svg/Rect Light.svg&#39;);\"><div class=\"container mx-auto px-6 py-8\"><h3 class=\"text-gray-700 text-3xl font-medium\">Super Administrator</h3><div class=\"mt-4\"><div class=\"flex flex-wrap -mx-6\"><div class=\"w-full px-6 sm:w-1/2 xl:w-1/2\"><div class=\"flex items-center px-5 py-6 shadow-sm rounded-md bg-white\"><div class=\"p-3 rounded-full bg-indigo-600 bg-opacity-75\"><svg class=\"h-8 w-8 text-white\" viewBox=\"0 0 28 30\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M18.2 9.08889C18.2 11.5373 16.3196 13.5222 14 13.5222C11.6804 13.5222 9.79999 11.5373 9.79999 9.08889C9.79999 6.64043 11.6804 4.65556 14 4.65556C16.3196 4.65556 18.2 6.64043 18.2 9.08889Z\" fill=\"currentColor\"></path><path d=\"M25.2 12.0444C25.2 13.6768 23.9464 15 22.4 15C20.8536 15 19.6 13.6768 19.6 12.0444C19.6 10.4121 20.8536 9.08889 22.4 9.08889C23.9464 9.08889 25.2 10.4121 25.2 12.0444Z\" fill=\"currentColor\"></path><path d=\"M19.6 22.3889C19.6 19.1243 17.0927 16.4778 14 16.4778C10.9072 16.4778 8.39999 19.1243 8.39999 22.3889V26.8222H19.6V22.3889Z\" fill=\"currentColor\"></path><path d=\"M8.39999 12.0444C8.39999 13.6768 7.14639 15 5.59999 15C4.05359 15 2.79999 13.6768 2.79999 12.0444C2.79999 10.4121 4.05359 9.08889 5.59999 9.08889C7.14639 9.08889 8.39999 10.4121 8.39999 12.0444Z\" fill=\"currentColor\"></path><path d=\"M22.4 26.8222V22.3889C22.4 20.8312 22.0195 19.3671 21.351 18.0949C21.6863 18.0039 22.0378 17.9556 22.4 17.9556C24.7197 17.9556 26.6 19.9404 26.6 22.3889V26.8222H22.4Z\" fill=\"currentColor\"></path><path d=\"M6.64896 18.0949C5.98058 19.3671 5.59999 20.8312 5.59999 22.3889V26.8222H1.39999V22.3889C1.39999 19.9404 3.2804 17.9556 5.59999 17.9556C5.96219 17.9556 6.31367 18.0039 6.64896 18.0949Z\" fill=\"currentColor\"></path></svg></div><div class=\"mx-5\"><h4 class=\"text-2xl font-semibold text-gray-700\">8,282</h4><div class=\"text-gray-500\">Total Users</div></div></div></div><div class=\"w-full px-6 sm:w-1/2 xl:w-1/2\"><div class=\"flex items-center px-5 py-6 shadow-sm rounded-md bg-white\"><div class=\"p-3 rounded-full bg-pink-600 bg-opacity-75\"><svg class=\"h-8 w-8 text-white\" viewBox=\"0 0 28 28\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6.99998 11.2H21L22.4 23.8H5.59998L6.99998 11.2Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linejoin=\"round\"></path><path d=\"M9.79999 8.4C9.79999 6.08041 11.6804 4.2 14 4.2C16.3196 4.2 18.2 6.08041 18.2 8.4V12.6C18.2 14.9197 16.3196 16.8 14 16.8C11.6804 16.8 9.79999 14.9197 9.79999 12.6V8.4Z\" stroke=\"currentColor\" stroke-width=\"2\"></path></svg></div><div class=\"mx-5\"><h4 class=\"text-2xl font-semibold text-gray-700\">542</h4><div class=\"text-gray-500\">Total Admins</div></div></div></div></div></div><div class=\"mt-8\"></div><div class=\"flex flex-col mt-8\"><div class=\"-my-2 py-2 overflow-x-auto sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8\"><div class=\"align-middle inline-block min-w-full shadow overflow-hidden sm:rounded-lg border-b border-gray-200\"><table class=\"min-w-full\"><thead><tr><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Name</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Status</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Role</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50\"></th></tr></thead><tbody class=\"bg-white\"><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">Fahmi Mikail </div><div class=\"text-sm leading-5 text-gray-500\">fahmi@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> User</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"/images/carwashcyber.jpg\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">Carwash Cyberjaya </div><div class=\"text-sm leading-5 text-gray-500\">cyberwashi@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Admin</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://rairaksa.github.io/assets/img/rai.jpg\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">Rai Raksa Muhamad </div><div class=\"text-sm leading-5 text-gray-500\">test@test.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> User</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr></tbody></table></div></div></div></div></main>", 1);
+
+function render(_ctx, _cache, $props, $setup, $data, $options) {
+  var _component_Head = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("Head");
+
+  var _component_Link = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("Link");
+
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_Head, {
+    title: "Dashboard"
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)([_ctx.sidebarOpen ? 'block' : 'hidden', "fixed z-20 inset-0 bg-black opacity-50 transition-opacity lg:hidden"]),
     onClick: _cache[0] || (_cache[0] = function ($event) {
       return _ctx.sidebarOpen = false;
@@ -23746,15 +23952,28 @@ function render(_ctx, _cache) {
   }, null, 2
   /* CLASS */
   ), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)([_ctx.sidebarOpen ? 'translate-x-0 ease-out' : '-translate-x-full ease-in', "fixed z-30 inset-y-0 left-0 w-64 transition duration-300 transform bg-gray-900 overflow-y-auto lg:translate-x-0 lg:static lg:inset-0"])
-  }, _hoisted_6, 2
+    "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)([_ctx.sidebarOpen ? 'translate-x-0 ease-out' : '-translate-x-full ease-in', "fixed z-30 inset-y-0 left-0 w-64 transition duration-300 transform bg-b2wdark-900 overflow-y-auto lg:translate-x-0 lg:static lg:inset-0"])
+  }, _hoisted_4, 2
   /* CLASS */
-  ), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_7, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("header", _hoisted_8, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_9, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
+  ), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_5, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("header", _hoisted_6, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_7, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
     onClick: _cache[1] || (_cache[1] = function ($event) {
       return _ctx.sidebarOpen = true;
     }),
     "class": "text-gray-500 focus:outline-none lg:hidden"
-  }, _hoisted_11), _hoisted_12])]), _hoisted_13])])])])], 64
+  }, _hoisted_9), _hoisted_10]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_Link, {
+    href: _ctx.route('logout'),
+    method: "post",
+    as: "button"
+  }, {
+    "default": (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(function () {
+      return [_hoisted_11];
+    }),
+    _: 1
+    /* STABLE */
+
+  }, 8
+  /* PROPS */
+  , ["href"])]), _hoisted_12])])])], 64
   /* STABLE_FRAGMENT */
   );
 }
@@ -24333,35 +24552,24 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
 
 var _hoisted_1 = {
-  lang: "en"
-};
-
-var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("head", null, null, -1
-/* HOISTED */
-);
-
-var _hoisted_3 = {
-  "class": "bg-blue-200"
-};
-var _hoisted_4 = {
   "x-data": "{ sidebarOpen: false }",
   "class": "flex h-screen bg-gray-200"
 };
 
-var _hoisted_5 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"flex items-center justify-center mt-8\"><div class=\"flex items-center\"><svg class=\"h-12 w-12\" viewBox=\"0 0 512 512\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M364.61 390.213C304.625 450.196 207.37 450.196 147.386 390.213C117.394 360.22 102.398 320.911 102.398 281.6C102.398 242.291 117.394 202.981 147.386 172.989C147.386 230.4 153.6 281.6 230.4 307.2C230.4 256 256 102.4 294.4 76.7999C320 128 334.618 142.997 364.608 172.989C394.601 202.981 409.597 242.291 409.597 281.6C409.597 320.911 394.601 360.22 364.61 390.213Z\" fill=\"#4C51BF\" stroke=\"#4C51BF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M201.694 387.105C231.686 417.098 280.312 417.098 310.305 387.105C325.301 372.109 332.8 352.456 332.8 332.8C332.8 313.144 325.301 293.491 310.305 278.495C295.309 263.498 288 256 275.2 230.4C256 243.2 243.201 320 243.201 345.6C201.694 345.6 179.2 332.8 179.2 332.8C179.2 352.456 186.698 372.109 201.694 387.105Z\" fill=\"white\"></path></svg><span class=\"text-white text-2xl mx-2 font-semibold\">Book2Wash</span></div></div><nav class=\"mt-10\"><a class=\"flex items-center mt-4 py-2 px-6 bg-gray-700 bg-opacity-25 text-gray-100\" href=\"/SuperAdmin\"><svg class=\"h-6 w-6\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M11 3.055A9.001 9.001 0 1020.945 13H11V3.055z\"></path><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M20.488 9H15V3.512A9.025 9.025 0 0120.488 9z\"></path></svg><span class=\"mx-3\">Dashboard</span></a><a class=\"flex items-center mt-4 py-2 px-6 text-gray-500 hover:bg-gray-700 hover:bg-opacity-25 hover:text-gray-100\" href=\"/ViewUsers\"><span class=\"mx-3\">View Users</span></a></nav>", 2);
+var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"flex items-center justify-center mt-8\"><div class=\"flex items-center\"><img src=\"/images/BOOK2WASHFIX2.png\"></div></div><nav class=\"mt-10\"><a class=\"flex items-center mt-4 py-2 px-6 text-gray-500 hover:bg-b2wdark-600 hover:bg-opacity-25 hover:text-gray-100\" href=\"/SuperAdmin\"><span class=\"mx-3\">Dashboard</span></a><a class=\"flex items-center mt-4 py-2 px-6 text-gray-500 hover:bg-b2wdark-600 hover:bg-opacity-25 hover:text-gray-100\" href=\"/ViewUsers\"><span class=\"mx-3\">View All Users</span></a><a class=\"flex items-center mt-4 py-2 px-6 bg-b2wdark-600 bg-opacity-25 text-gray-100\" href=\"/ViewAdmins\"><span class=\"mx-3\">View All Admins</span></a></nav>", 2);
 
-var _hoisted_7 = [_hoisted_5];
-var _hoisted_8 = {
+var _hoisted_4 = [_hoisted_2];
+var _hoisted_5 = {
   "class": "flex-1 flex flex-col overflow-hidden"
 };
-var _hoisted_9 = {
-  "class": "flex justify-between items-center py-4 px-6 bg-white border-b-4 border-indigo-600"
+var _hoisted_6 = {
+  "class": "flex justify-between items-center py-4 px-6 bg-white border-b-4 border-b2w-900"
 };
-var _hoisted_10 = {
+var _hoisted_7 = {
   "class": "flex items-center"
 };
 
-var _hoisted_11 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("svg", {
+var _hoisted_8 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("svg", {
   "class": "h-6 w-6",
   viewBox: "0 0 24 24",
   fill: "none",
@@ -24376,14 +24584,27 @@ var _hoisted_11 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElement
 /* HOISTED */
 );
 
-var _hoisted_12 = [_hoisted_11];
+var _hoisted_9 = [_hoisted_8];
 
-var _hoisted_13 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"relative mx-4 lg:mx-0\"><span class=\"absolute inset-y-0 left-0 pl-3 flex items-center\"><svg class=\"h-5 w-5 text-gray-500\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M21 21L15 15M17 10C17 13.866 13.866 17 10 17C6.13401 17 3 13.866 3 10C3 6.13401 6.13401 3 10 3C13.866 3 17 6.13401 17 10Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></span><input class=\"form-input w-32 sm:w-64 rounded-md pl-10 pr-4 focus:border-indigo-600\" type=\"text\" placeholder=\"Search\"></div>", 1);
+var _hoisted_10 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"relative mx-4 lg:mx-0\"><span class=\"absolute inset-y-0 left-0 pl-3 flex items-center\"><svg class=\"h-5 w-5 text-gray-500\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M21 21L15 15M17 10C17 13.866 13.866 17 10 17C6.13401 17 3 13.866 3 10C3 6.13401 6.13401 3 10 3C13.866 3 17 6.13401 17 10Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></span><input class=\"form-input w-32 sm:w-64 rounded-md pl-10 pr-4 focus:border-indigo-600\" type=\"text\" placeholder=\"Search\"></div>", 1);
 
-var _hoisted_14 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<main class=\"flex-1 overflow-x-hidden overflow-y-auto bg-gray-200\"><div class=\"container mx-auto px-6 py-8\"><h3 class=\"text-gray-700 text-3xl font-medium\">Administrator</h3><div class=\"w-full mt-6 px-6 sm:w-1/2 xl:w-1/3 xl:mt-0\"><div class=\"flex items-center px-5 py-6 shadow-sm rounded-md bg-white\"><div class=\"p-3 rounded-full bg-pink-600 bg-opacity-75\"><svg class=\"h-8 w-8 text-white\" viewBox=\"0 0 28 28\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6.99998 11.2H21L22.4 23.8H5.59998L6.99998 11.2Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linejoin=\"round\"></path><path d=\"M9.79999 8.4C9.79999 6.08041 11.6804 4.2 14 4.2C16.3196 4.2 18.2 6.08041 18.2 8.4V12.6C18.2 14.9197 16.3196 16.8 14 16.8C11.6804 16.8 9.79999 14.9197 9.79999 12.6V8.4Z\" stroke=\"currentColor\" stroke-width=\"2\"></path></svg></div><div class=\"mx-5\"><h4 class=\"text-2xl font-semibold text-gray-700\">542</h4><div class=\"text-gray-500\">Total Admins</div></div></div></div><div class=\"mt-8\"></div><div class=\"flex flex-col mt-8\"><div class=\"-my-2 py-2 overflow-x-auto sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8\"><div class=\"align-middle inline-block min-w-full shadow overflow-hidden sm:rounded-lg border-b border-gray-200\"><table class=\"min-w-full\"><thead><tr><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Name</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Title</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Status</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Role</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50\"></th></tr></thead><tbody class=\"bg-white\"><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr></tbody></table></div></div></div></div></main>", 1);
+var _hoisted_11 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
+  type: "button",
+  "class": "justify-right bg-b2w-900 text-sm px-4 py-1 shadow-md m-1 rounded text-gray-200 font-semibold hover:bg-b2wdark-900 transition duration-200 each-in-out"
+}, "Log Out", -1
+/* HOISTED */
+);
 
-function render(_ctx, _cache) {
-  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("html", _hoisted_1, [_hoisted_2, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("body", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_4, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+var _hoisted_12 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<main class=\"bg-no-repeat bg-cover bg-center bg-fixed flex-1 overflow-x-hidden overflow-y-auto bg-gray-200\" style=\"background-image:url(&#39;/svg/Rect Light.svg&#39;);\"><div class=\"container mx-auto px-6 py-8\"><div class=\"w-full mt-6 px-6 sm:w-1/2 xl:w-1/3 xl:mt-0\"><div class=\"flex items-center px-5 py-6 shadow-sm rounded-md bg-white\"><div class=\"p-3 rounded-full bg-pink-600 bg-opacity-75\"><svg class=\"h-8 w-8 text-white\" viewBox=\"0 0 28 28\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M6.99998 11.2H21L22.4 23.8H5.59998L6.99998 11.2Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linejoin=\"round\"></path><path d=\"M9.79999 8.4C9.79999 6.08041 11.6804 4.2 14 4.2C16.3196 4.2 18.2 6.08041 18.2 8.4V12.6C18.2 14.9197 16.3196 16.8 14 16.8C11.6804 16.8 9.79999 14.9197 9.79999 12.6V8.4Z\" stroke=\"currentColor\" stroke-width=\"2\"></path></svg></div><div class=\"mx-5\"><h4 class=\"text-2xl font-semibold text-gray-700\">542</h4><div class=\"text-gray-500\">Total Admins</div></div></div><div class=\"mt-8\"></div></div><div class=\"mt-8\"></div><div class=\"flex flex-col mt-8\"><div class=\"-my-2 py-2 overflow-x-auto sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8\"><div class=\"align-middle inline-block min-w-full shadow overflow-hidden sm:rounded-lg border-b border-gray-200\"><table class=\"min-w-full\"><thead><tr><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Name</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Title</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Status</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50\"></th></tr></thead><tbody class=\"bg-white\"><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"/images/carwashcyber.jpg\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">Carwash Cyberjaya </div><div class=\"text-sm leading-5 text-gray-500\">cyberwashi@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Admin</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr></tbody></table></div></div></div></div></main>", 1);
+
+function render(_ctx, _cache, $props, $setup, $data, $options) {
+  var _component_Head = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("Head");
+
+  var _component_Link = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("Link");
+
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_Head, {
+    title: "View Admins"
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)([_ctx.sidebarOpen ? 'block' : 'hidden', "fixed z-20 inset-0 bg-black opacity-50 transition-opacity lg:hidden"]),
     onClick: _cache[0] || (_cache[0] = function ($event) {
       return _ctx.sidebarOpen = false;
@@ -24391,15 +24612,30 @@ function render(_ctx, _cache) {
   }, null, 2
   /* CLASS */
   ), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)([_ctx.sidebarOpen ? 'translate-x-0 ease-out' : '-translate-x-full ease-in', "fixed z-30 inset-y-0 left-0 w-64 transition duration-300 transform bg-gray-900 overflow-y-auto lg:translate-x-0 lg:static lg:inset-0"])
-  }, _hoisted_7, 2
+    "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)([_ctx.sidebarOpen ? 'translate-x-0 ease-out' : '-translate-x-full ease-in', "fixed z-30 inset-y-0 left-0 w-64 transition duration-300 transform bg-b2wdark-900 overflow-y-auto lg:translate-x-0 lg:static lg:inset-0"])
+  }, _hoisted_4, 2
   /* CLASS */
-  ), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_8, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("header", _hoisted_9, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_10, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
+  ), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_5, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("header", _hoisted_6, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_7, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
     onClick: _cache[1] || (_cache[1] = function ($event) {
       return _ctx.sidebarOpen = true;
     }),
     "class": "text-gray-500 focus:outline-none lg:hidden"
-  }, _hoisted_12), _hoisted_13])]), _hoisted_14])])])])]);
+  }, _hoisted_9), _hoisted_10]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_Link, {
+    href: _ctx.route('logout'),
+    method: "post",
+    as: "button"
+  }, {
+    "default": (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(function () {
+      return [_hoisted_11];
+    }),
+    _: 1
+    /* STABLE */
+
+  }, 8
+  /* PROPS */
+  , ["href"])]), _hoisted_12])])])], 64
+  /* STABLE_FRAGMENT */
+  );
 }
 
 /***/ }),
@@ -24642,35 +24878,24 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
 
 var _hoisted_1 = {
-  lang: "en"
-};
-
-var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("head", null, null, -1
-/* HOISTED */
-);
-
-var _hoisted_3 = {
-  "class": "bg-blue-200"
-};
-var _hoisted_4 = {
   "x-data": "{ sidebarOpen: false }",
   "class": "flex h-screen bg-gray-200"
 };
 
-var _hoisted_5 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"flex items-center justify-center mt-8\"><div class=\"flex items-center\"><svg class=\"h-12 w-12\" viewBox=\"0 0 512 512\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M364.61 390.213C304.625 450.196 207.37 450.196 147.386 390.213C117.394 360.22 102.398 320.911 102.398 281.6C102.398 242.291 117.394 202.981 147.386 172.989C147.386 230.4 153.6 281.6 230.4 307.2C230.4 256 256 102.4 294.4 76.7999C320 128 334.618 142.997 364.608 172.989C394.601 202.981 409.597 242.291 409.597 281.6C409.597 320.911 394.601 360.22 364.61 390.213Z\" fill=\"#4C51BF\" stroke=\"#4C51BF\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path><path d=\"M201.694 387.105C231.686 417.098 280.312 417.098 310.305 387.105C325.301 372.109 332.8 352.456 332.8 332.8C332.8 313.144 325.301 293.491 310.305 278.495C295.309 263.498 288 256 275.2 230.4C256 243.2 243.201 320 243.201 345.6C201.694 345.6 179.2 332.8 179.2 332.8C179.2 352.456 186.698 372.109 201.694 387.105Z\" fill=\"white\"></path></svg><span class=\"text-white text-2xl mx-2 font-semibold\">Book2Wash</span></div></div><nav class=\"mt-10\"><a class=\"flex items-center mt-4 py-2 px-6 bg-gray-700 bg-opacity-25 text-gray-100\" href=\"/SuperAdmin\"><svg class=\"h-6 w-6\" xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke=\"currentColor\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M11 3.055A9.001 9.001 0 1020.945 13H11V3.055z\"></path><path stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"2\" d=\"M20.488 9H15V3.512A9.025 9.025 0 0120.488 9z\"></path></svg><span class=\"mx-3\">Dashboard</span></a><a class=\"flex items-center mt-4 py-2 px-6 text-gray-500 hover:bg-gray-700 hover:bg-opacity-25 hover:text-gray-100\" href=\"/ViewAdmins\"><span class=\"mx-3\">View All Admins</span></a></nav>", 2);
+var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"flex items-center justify-center mt-8\"><div class=\"flex items-center\"><img src=\"/images/BOOK2WASHFIX2.png\"></div></div><nav class=\"mt-10\"><a class=\"flex items-center mt-4 py-2 px-6 text-gray-500 hover:bg-b2wdark-600 hover:bg-opacity-25 hover:text-gray-100\" href=\"/SuperAdmin\"><span class=\"mx-3\">Dashboard</span></a><a class=\"flex items-center mt-4 py-2 px-6 bg-b2wdark-600 bg-opacity-25 text-gray-100\" href=\"/ViewUsers\"><span class=\"mx-3\">View All Users</span></a><a class=\"flex items-center mt-4 py-2 px-6 text-gray-500 hover:bg-b2wdark-600 hover:bg-opacity-25 hover:text-gray-100\" href=\"/ViewAdmins\"><span class=\"mx-3\">View All Admins</span></a></nav>", 2);
 
-var _hoisted_7 = [_hoisted_5];
-var _hoisted_8 = {
+var _hoisted_4 = [_hoisted_2];
+var _hoisted_5 = {
   "class": "flex-1 flex flex-col overflow-hidden"
 };
-var _hoisted_9 = {
-  "class": "flex justify-between items-center py-4 px-6 bg-white border-b-4 border-indigo-600"
+var _hoisted_6 = {
+  "class": "flex justify-between items-center py-4 px-6 bg-white border-b-4 border-b2w-900"
 };
-var _hoisted_10 = {
+var _hoisted_7 = {
   "class": "flex items-center"
 };
 
-var _hoisted_11 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("svg", {
+var _hoisted_8 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("svg", {
   "class": "h-6 w-6",
   viewBox: "0 0 24 24",
   fill: "none",
@@ -24685,14 +24910,27 @@ var _hoisted_11 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElement
 /* HOISTED */
 );
 
-var _hoisted_12 = [_hoisted_11];
+var _hoisted_9 = [_hoisted_8];
 
-var _hoisted_13 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"relative mx-4 lg:mx-0\"><span class=\"absolute inset-y-0 left-0 pl-3 flex items-center\"><svg class=\"h-5 w-5 text-gray-500\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M21 21L15 15M17 10C17 13.866 13.866 17 10 17C6.13401 17 3 13.866 3 10C3 6.13401 6.13401 3 10 3C13.866 3 17 6.13401 17 10Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></span><input class=\"form-input w-32 sm:w-64 rounded-md pl-10 pr-4 focus:border-indigo-600\" type=\"text\" placeholder=\"Search\"></div>", 1);
+var _hoisted_10 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<div class=\"relative mx-4 lg:mx-0\"><span class=\"absolute inset-y-0 left-0 pl-3 flex items-center\"><svg class=\"h-5 w-5 text-gray-500\" viewBox=\"0 0 24 24\" fill=\"none\"><path d=\"M21 21L15 15M17 10C17 13.866 13.866 17 10 17C6.13401 17 3 13.866 3 10C3 6.13401 6.13401 3 10 3C13.866 3 17 6.13401 17 10Z\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path></svg></span><input class=\"form-input w-32 sm:w-64 rounded-md pl-10 pr-4 focus:border-indigo-600\" type=\"text\" placeholder=\"Search\"></div>", 1);
 
-var _hoisted_14 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<main class=\"flex-1 overflow-x-hidden overflow-y-auto bg-gray-200\"><div class=\"container mx-auto px-6 py-8\"><h3 class=\"text-gray-700 text-3xl font-medium\">Users</h3><div class=\"mt-4\"><div class=\"flex flex-wrap -mx-6\"><div class=\"w-full px-6 sm:w-1/2 xl:w-1/3\"><div class=\"flex items-center px-5 py-6 shadow-sm rounded-md bg-white\"><div class=\"p-3 rounded-full bg-indigo-600 bg-opacity-75\"><svg class=\"h-8 w-8 text-white\" viewBox=\"0 0 28 30\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M18.2 9.08889C18.2 11.5373 16.3196 13.5222 14 13.5222C11.6804 13.5222 9.79999 11.5373 9.79999 9.08889C9.79999 6.64043 11.6804 4.65556 14 4.65556C16.3196 4.65556 18.2 6.64043 18.2 9.08889Z\" fill=\"currentColor\"></path><path d=\"M25.2 12.0444C25.2 13.6768 23.9464 15 22.4 15C20.8536 15 19.6 13.6768 19.6 12.0444C19.6 10.4121 20.8536 9.08889 22.4 9.08889C23.9464 9.08889 25.2 10.4121 25.2 12.0444Z\" fill=\"currentColor\"></path><path d=\"M19.6 22.3889C19.6 19.1243 17.0927 16.4778 14 16.4778C10.9072 16.4778 8.39999 19.1243 8.39999 22.3889V26.8222H19.6V22.3889Z\" fill=\"currentColor\"></path><path d=\"M8.39999 12.0444C8.39999 13.6768 7.14639 15 5.59999 15C4.05359 15 2.79999 13.6768 2.79999 12.0444C2.79999 10.4121 4.05359 9.08889 5.59999 9.08889C7.14639 9.08889 8.39999 10.4121 8.39999 12.0444Z\" fill=\"currentColor\"></path><path d=\"M22.4 26.8222V22.3889C22.4 20.8312 22.0195 19.3671 21.351 18.0949C21.6863 18.0039 22.0378 17.9556 22.4 17.9556C24.7197 17.9556 26.6 19.9404 26.6 22.3889V26.8222H22.4Z\" fill=\"currentColor\"></path><path d=\"M6.64896 18.0949C5.98058 19.3671 5.59999 20.8312 5.59999 22.3889V26.8222H1.39999V22.3889C1.39999 19.9404 3.2804 17.9556 5.59999 17.9556C5.96219 17.9556 6.31367 18.0039 6.64896 18.0949Z\" fill=\"currentColor\"></path></svg></div><div class=\"mx-5\"><h4 class=\"text-2xl font-semibold text-gray-700\">8,282</h4><div class=\"text-gray-500\">Total Users</div></div></div></div></div></div><div class=\"mt-8\"></div><div class=\"flex flex-col mt-8\"><div class=\"-my-2 py-2 overflow-x-auto sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8\"><div class=\"align-middle inline-block min-w-full shadow overflow-hidden sm:rounded-lg border-b border-gray-200\"><table class=\"min-w-full\"><thead><tr><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Name</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Title</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Status</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Role</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50\"></th></tr></thead><tbody class=\"bg-white\"><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">John Doe </div><div class=\"text-sm leading-5 text-gray-500\">john@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"text-sm leading-5 text-gray-900\">Software Engineer</div><div class=\"text-sm leading-5 text-gray-500\">Web dev</div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> Owner</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr></tbody></table></div></div></div></div></main>", 1);
+var _hoisted_11 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
+  type: "button",
+  "class": "justify-right bg-b2w-900 text-sm px-4 py-1 shadow-md m-1 rounded text-gray-200 font-semibold hover:bg-b2wdark-900 transition duration-200 each-in-out"
+}, "Log Out", -1
+/* HOISTED */
+);
 
-function render(_ctx, _cache) {
-  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("html", _hoisted_1, [_hoisted_2, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("body", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_4, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+var _hoisted_12 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<main class=\"bg-no-repeat bg-cover bg-center bg-fixed flex-1 overflow-x-hidden overflow-y-auto bg-gray-200\" style=\"background-image:url(&#39;/svg/Rect Light.svg&#39;);\"><div class=\"container mx-auto px-6 py-8\"><h3 class=\"text-gray-700 text-3xl font-medium\">Users</h3><div class=\"mt-4\"><div class=\"flex flex-wrap -mx-6\"><div class=\"w-full px-6 sm:w-1/2 xl:w-1/3\"><div class=\"flex items-center px-5 py-6 shadow-sm rounded-md bg-white\"><div class=\"p-3 rounded-full bg-indigo-600 bg-opacity-75\"><svg class=\"h-8 w-8 text-white\" viewBox=\"0 0 28 30\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M18.2 9.08889C18.2 11.5373 16.3196 13.5222 14 13.5222C11.6804 13.5222 9.79999 11.5373 9.79999 9.08889C9.79999 6.64043 11.6804 4.65556 14 4.65556C16.3196 4.65556 18.2 6.64043 18.2 9.08889Z\" fill=\"currentColor\"></path><path d=\"M25.2 12.0444C25.2 13.6768 23.9464 15 22.4 15C20.8536 15 19.6 13.6768 19.6 12.0444C19.6 10.4121 20.8536 9.08889 22.4 9.08889C23.9464 9.08889 25.2 10.4121 25.2 12.0444Z\" fill=\"currentColor\"></path><path d=\"M19.6 22.3889C19.6 19.1243 17.0927 16.4778 14 16.4778C10.9072 16.4778 8.39999 19.1243 8.39999 22.3889V26.8222H19.6V22.3889Z\" fill=\"currentColor\"></path><path d=\"M8.39999 12.0444C8.39999 13.6768 7.14639 15 5.59999 15C4.05359 15 2.79999 13.6768 2.79999 12.0444C2.79999 10.4121 4.05359 9.08889 5.59999 9.08889C7.14639 9.08889 8.39999 10.4121 8.39999 12.0444Z\" fill=\"currentColor\"></path><path d=\"M22.4 26.8222V22.3889C22.4 20.8312 22.0195 19.3671 21.351 18.0949C21.6863 18.0039 22.0378 17.9556 22.4 17.9556C24.7197 17.9556 26.6 19.9404 26.6 22.3889V26.8222H22.4Z\" fill=\"currentColor\"></path><path d=\"M6.64896 18.0949C5.98058 19.3671 5.59999 20.8312 5.59999 22.3889V26.8222H1.39999V22.3889C1.39999 19.9404 3.2804 17.9556 5.59999 17.9556C5.96219 17.9556 6.31367 18.0039 6.64896 18.0949Z\" fill=\"currentColor\"></path></svg></div><div class=\"mx-5\"><h4 class=\"text-2xl font-semibold text-gray-700\">8,282</h4><div class=\"text-gray-500\">Total Users</div></div></div></div></div></div><div class=\"mt-8\"></div><div class=\"flex flex-col mt-8\"><div class=\"-my-2 py-2 overflow-x-auto sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8\"><div class=\"align-middle inline-block min-w-full shadow overflow-hidden sm:rounded-lg border-b border-gray-200\"><table class=\"min-w-full\"><thead><tr><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Name</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Status</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50 text-left text-xs leading-4 font-medium text-gray-500 uppercase tracking-wider\"> Contact</th><th class=\"px-6 py-3 border-b border-gray-200 bg-gray-50\"></th></tr></thead><tbody class=\"bg-white\"><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=facearea&amp;facepad=2&amp;w=256&amp;h=256&amp;q=80\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">Fahmi Mikail </div><div class=\"text-sm leading-5 text-gray-500\">fahmi@example.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> +60192273532</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr><tr><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><div class=\"flex items-center\"><div class=\"flex-shrink-0 h-10 w-10\"><img class=\"h-10 w-10 rounded-full\" src=\"https://rairaksa.github.io/assets/img/rai.jpg\" alt=\"\"></div><div class=\"ml-4\"><div class=\"text-sm leading-5 font-medium text-gray-900\">Rai Raksa Muhamad </div><div class=\"text-sm leading-5 text-gray-500\">test@test.com</div></div></div></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200\"><span class=\"px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800\">Active</span></td><td class=\"px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500\"> +60171234252</td><td class=\"px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium\"><a href=\"#\" class=\"text-indigo-600 hover:text-indigo-900\">Edit</a></td></tr></tbody></table></div></div></div></div></main>", 1);
+
+function render(_ctx, _cache, $props, $setup, $data, $options) {
+  var _component_Head = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("Head");
+
+  var _component_Link = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("Link");
+
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)(vue__WEBPACK_IMPORTED_MODULE_0__.Fragment, null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_Head, {
+    title: "View Users"
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", null, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)([_ctx.sidebarOpen ? 'block' : 'hidden', "fixed z-20 inset-0 bg-black opacity-50 transition-opacity lg:hidden"]),
     onClick: _cache[0] || (_cache[0] = function ($event) {
       return _ctx.sidebarOpen = false;
@@ -24700,15 +24938,30 @@ function render(_ctx, _cache) {
   }, null, 2
   /* CLASS */
   ), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-    "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)([_ctx.sidebarOpen ? 'translate-x-0 ease-out' : '-translate-x-full ease-in', "fixed z-30 inset-y-0 left-0 w-64 transition duration-300 transform bg-gray-900 overflow-y-auto lg:translate-x-0 lg:static lg:inset-0"])
-  }, _hoisted_7, 2
+    "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)([_ctx.sidebarOpen ? 'translate-x-0 ease-out' : '-translate-x-full ease-in', "fixed z-30 inset-y-0 left-0 w-64 transition duration-300 transform bg-b2wdark-900 overflow-y-auto lg:translate-x-0 lg:static lg:inset-0"])
+  }, _hoisted_4, 2
   /* CLASS */
-  ), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_8, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("header", _hoisted_9, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_10, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
+  ), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_5, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("header", _hoisted_6, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_7, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
     onClick: _cache[1] || (_cache[1] = function ($event) {
       return _ctx.sidebarOpen = true;
     }),
     "class": "text-gray-500 focus:outline-none lg:hidden"
-  }, _hoisted_12), _hoisted_13])]), _hoisted_14])])])])]);
+  }, _hoisted_9), _hoisted_10]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_Link, {
+    href: _ctx.route('logout'),
+    method: "post",
+    as: "button"
+  }, {
+    "default": (0,vue__WEBPACK_IMPORTED_MODULE_0__.withCtx)(function () {
+      return [_hoisted_11];
+    }),
+    _: 1
+    /* STABLE */
+
+  }, 8
+  /* PROPS */
+  , ["href"])]), _hoisted_12])])])], 64
+  /* STABLE_FRAGMENT */
+  );
 }
 
 /***/ }),
@@ -48767,12 +49020,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var _Admin_vue_vue_type_template_id_67c543f6__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Admin.vue?vue&type=template&id=67c543f6 */ "./resources/js/Pages/Admin.vue?vue&type=template&id=67c543f6");
-/* harmony import */ var C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var _Admin_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Admin.vue?vue&type=script&lang=js */ "./resources/js/Pages/Admin.vue?vue&type=script&lang=js");
+/* harmony import */ var C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
-const script = {}
+
+
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_1__["default"])(script, [['render',_Admin_vue_vue_type_template_id_67c543f6__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Pages/Admin.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_Admin_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Admin_vue_vue_type_template_id_67c543f6__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Pages/Admin.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -48961,12 +49216,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var _BookingHistory_vue_vue_type_template_id_02cb6338__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./BookingHistory.vue?vue&type=template&id=02cb6338 */ "./resources/js/Pages/BookingHistory.vue?vue&type=template&id=02cb6338");
-/* harmony import */ var C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var _BookingHistory_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./BookingHistory.vue?vue&type=script&lang=js */ "./resources/js/Pages/BookingHistory.vue?vue&type=script&lang=js");
+/* harmony import */ var C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
-const script = {}
+
+
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_1__["default"])(script, [['render',_BookingHistory_vue_vue_type_template_id_02cb6338__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Pages/BookingHistory.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_BookingHistory_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_BookingHistory_vue_vue_type_template_id_02cb6338__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Pages/BookingHistory.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -49102,12 +49359,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var _Reviews_vue_vue_type_template_id_3994c702__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Reviews.vue?vue&type=template&id=3994c702 */ "./resources/js/Pages/Reviews.vue?vue&type=template&id=3994c702");
-/* harmony import */ var C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var _Reviews_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Reviews.vue?vue&type=script&lang=js */ "./resources/js/Pages/Reviews.vue?vue&type=script&lang=js");
+/* harmony import */ var C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
-const script = {}
+
+
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_1__["default"])(script, [['render',_Reviews_vue_vue_type_template_id_3994c702__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Pages/Reviews.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_Reviews_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_Reviews_vue_vue_type_template_id_3994c702__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Pages/Reviews.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -49156,12 +49415,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var _SuperAdmin_vue_vue_type_template_id_09cdb4fd__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./SuperAdmin.vue?vue&type=template&id=09cdb4fd */ "./resources/js/Pages/SuperAdmin.vue?vue&type=template&id=09cdb4fd");
-/* harmony import */ var C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var _SuperAdmin_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./SuperAdmin.vue?vue&type=script&lang=js */ "./resources/js/Pages/SuperAdmin.vue?vue&type=script&lang=js");
+/* harmony import */ var C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
-const script = {}
+
+
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_1__["default"])(script, [['render',_SuperAdmin_vue_vue_type_template_id_09cdb4fd__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Pages/SuperAdmin.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_SuperAdmin_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_SuperAdmin_vue_vue_type_template_id_09cdb4fd__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Pages/SuperAdmin.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -49266,12 +49527,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var _ViewAdmins_vue_vue_type_template_id_042217f2__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./ViewAdmins.vue?vue&type=template&id=042217f2 */ "./resources/js/Pages/ViewAdmins.vue?vue&type=template&id=042217f2");
-/* harmony import */ var C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var _ViewAdmins_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./ViewAdmins.vue?vue&type=script&lang=js */ "./resources/js/Pages/ViewAdmins.vue?vue&type=script&lang=js");
+/* harmony import */ var C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
-const script = {}
+
+
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_1__["default"])(script, [['render',_ViewAdmins_vue_vue_type_template_id_042217f2__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Pages/ViewAdmins.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_ViewAdmins_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_ViewAdmins_vue_vue_type_template_id_042217f2__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Pages/ViewAdmins.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -49323,12 +49586,14 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 /* harmony import */ var _ViewUsers_vue_vue_type_template_id_2482798a__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./ViewUsers.vue?vue&type=template&id=2482798a */ "./resources/js/Pages/ViewUsers.vue?vue&type=template&id=2482798a");
-/* harmony import */ var C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
+/* harmony import */ var _ViewUsers_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./ViewUsers.vue?vue&type=script&lang=js */ "./resources/js/Pages/ViewUsers.vue?vue&type=script&lang=js");
+/* harmony import */ var C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/vue-loader/dist/exportHelper.js */ "./node_modules/vue-loader/dist/exportHelper.js");
 
-const script = {}
+
+
 
 ;
-const __exports__ = /*#__PURE__*/(0,C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_1__["default"])(script, [['render',_ViewUsers_vue_vue_type_template_id_2482798a__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Pages/ViewUsers.vue"]])
+const __exports__ = /*#__PURE__*/(0,C_laragon_www_carwash_node_modules_vue_loader_dist_exportHelper_js__WEBPACK_IMPORTED_MODULE_2__["default"])(_ViewUsers_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_1__["default"], [['render',_ViewUsers_vue_vue_type_template_id_2482798a__WEBPACK_IMPORTED_MODULE_0__.render],['__file',"resources/js/Pages/ViewUsers.vue"]])
 /* hot reload */
 if (false) {}
 
@@ -49560,6 +49825,22 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./resources/js/Pages/Admin.vue?vue&type=script&lang=js":
+/*!**************************************************************!*\
+  !*** ./resources/js/Pages/Admin.vue?vue&type=script&lang=js ***!
+  \**************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Admin_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__["default"])
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Admin_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./Admin.vue?vue&type=script&lang=js */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Admin.vue?vue&type=script&lang=js");
+ 
+
+/***/ }),
+
 /***/ "./resources/js/Pages/Auth/ConfirmPassword.vue?vue&type=script&lang=js":
 /*!*****************************************************************************!*\
   !*** ./resources/js/Pages/Auth/ConfirmPassword.vue?vue&type=script&lang=js ***!
@@ -49656,6 +49937,22 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./resources/js/Pages/BookingHistory.vue?vue&type=script&lang=js":
+/*!***********************************************************************!*\
+  !*** ./resources/js/Pages/BookingHistory.vue?vue&type=script&lang=js ***!
+  \***********************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_BookingHistory_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__["default"])
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_BookingHistory_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./BookingHistory.vue?vue&type=script&lang=js */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/BookingHistory.vue?vue&type=script&lang=js");
+ 
+
+/***/ }),
+
 /***/ "./resources/js/Pages/Dashboard.vue?vue&type=script&lang=js":
 /*!******************************************************************!*\
   !*** ./resources/js/Pages/Dashboard.vue?vue&type=script&lang=js ***!
@@ -49704,6 +50001,22 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./resources/js/Pages/Reviews.vue?vue&type=script&lang=js":
+/*!****************************************************************!*\
+  !*** ./resources/js/Pages/Reviews.vue?vue&type=script&lang=js ***!
+  \****************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Reviews_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__["default"])
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Reviews_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./Reviews.vue?vue&type=script&lang=js */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Reviews.vue?vue&type=script&lang=js");
+ 
+
+/***/ }),
+
 /***/ "./resources/js/Pages/Search.vue?vue&type=script&lang=js":
 /*!***************************************************************!*\
   !*** ./resources/js/Pages/Search.vue?vue&type=script&lang=js ***!
@@ -49716,6 +50029,22 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Search_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__["default"])
 /* harmony export */ });
 /* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_Search_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./Search.vue?vue&type=script&lang=js */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/Search.vue?vue&type=script&lang=js");
+ 
+
+/***/ }),
+
+/***/ "./resources/js/Pages/SuperAdmin.vue?vue&type=script&lang=js":
+/*!*******************************************************************!*\
+  !*** ./resources/js/Pages/SuperAdmin.vue?vue&type=script&lang=js ***!
+  \*******************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_SuperAdmin_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__["default"])
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_SuperAdmin_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./SuperAdmin.vue?vue&type=script&lang=js */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/SuperAdmin.vue?vue&type=script&lang=js");
  
 
 /***/ }),
@@ -49768,6 +50097,22 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
+/***/ "./resources/js/Pages/ViewAdmins.vue?vue&type=script&lang=js":
+/*!*******************************************************************!*\
+  !*** ./resources/js/Pages/ViewAdmins.vue?vue&type=script&lang=js ***!
+  \*******************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_ViewAdmins_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__["default"])
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_ViewAdmins_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./ViewAdmins.vue?vue&type=script&lang=js */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/ViewAdmins.vue?vue&type=script&lang=js");
+ 
+
+/***/ }),
+
 /***/ "./resources/js/Pages/ViewCarwash.vue?vue&type=script&lang=js":
 /*!********************************************************************!*\
   !*** ./resources/js/Pages/ViewCarwash.vue?vue&type=script&lang=js ***!
@@ -49780,6 +50125,22 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_ViewCarwash_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__["default"])
 /* harmony export */ });
 /* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_ViewCarwash_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./ViewCarwash.vue?vue&type=script&lang=js */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/ViewCarwash.vue?vue&type=script&lang=js");
+ 
+
+/***/ }),
+
+/***/ "./resources/js/Pages/ViewUsers.vue?vue&type=script&lang=js":
+/*!******************************************************************!*\
+  !*** ./resources/js/Pages/ViewUsers.vue?vue&type=script&lang=js ***!
+  \******************************************************************/
+/***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export */ __webpack_require__.d(__webpack_exports__, {
+/* harmony export */   "default": () => (/* reexport safe */ _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_ViewUsers_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__["default"])
+/* harmony export */ });
+/* harmony import */ var _node_modules_babel_loader_lib_index_js_clonedRuleSet_5_use_0_node_modules_vue_loader_dist_index_js_ruleSet_0_use_0_ViewUsers_vue_vue_type_script_lang_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! -!../../../node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!../../../node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./ViewUsers.vue?vue&type=script&lang=js */ "./node_modules/babel-loader/lib/index.js??clonedRuleSet-5.use[0]!./node_modules/vue-loader/dist/index.js??ruleSet[0].use[0]!./resources/js/Pages/ViewUsers.vue?vue&type=script&lang=js");
  
 
 /***/ }),

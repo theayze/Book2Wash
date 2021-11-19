@@ -1,5 +1,5 @@
 <template>
-    <html>
+<Head title="Dashboard" />
         <div>
 
 
@@ -62,9 +62,9 @@
                     </div>
 
                 </div>
-                <a>
-                            <button type="button" class="justify-right bg-b2w-900 text-sm px-4 py-1 shadow-md m-1 rounded text-gray-200 font-semibold hover:bg-b2wdark-900 transition duration-200 each-in-out">Log Out</button>
-                            </a>
+                <Link :href="route('logout')" method="post" as="button">
+                    <button type="button" class="justify-right bg-b2w-900 text-sm px-4 py-1 shadow-md m-1 rounded text-gray-200 font-semibold hover:bg-b2wdark-900 transition duration-200 each-in-out">Log Out</button>
+                </Link>
 
             </header>
             <main class="bg-no-repeat bg-cover bg-center bg-fixed flex-1 overflow-x-hidden overflow-y-auto bg-gray-300" style="background-image: url('/svg/Rect Light.svg')">
@@ -74,7 +74,7 @@
 
 
                     <!-- component -->
-<div class="flex flex-wrap items-center  justify-center  ">
+        <div class="flex flex-wrap items-center  justify-center  ">
             <div class="container sm:rounded-lg bg-white  shadow-md   transform   duration-200 easy-in-out">
                 <div class=" h-40 overflow-hidden" >
                     <img class="w-full" src="/images/carwashcyber.jpg" alt="" />
@@ -302,6 +302,16 @@
         </div>
     </div>
 </div>
-    </html>
 </template>
 
+<script>
+import { Link } from '@inertiajs/inertia-vue3';
+import { Head } from '@inertiajs/inertia-vue3';
+
+export default {
+    components: {
+        Link,
+        Head,
+    },
+}
+</script>
