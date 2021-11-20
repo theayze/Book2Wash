@@ -29,7 +29,7 @@
                             name="date"
                             placeholder=" "
                             onclick="this.setAttribute('type', 'date');"
-                            class="pt-3 pb-2 block w-full px-0 mt-0 bg-transparent border-0 border-b-2 appearance-none focus:outline-none focus:ring-0 focus:border-black border-gray-200"
+                            class="pt-3 pb-2 block w-full px-0 mt-0 bg-transparent border-0 border-b-2 appearance-none focus:outline-none focus:ring-0 focus:border-black border-gray-200 text-white"
                         />
                         <label for="date" class="absolute duration-300 top-3 -z-1 origin-0 text-gray-500">Date</label>
                         <span class="text-sm text-red-600 hidden" id="error">Date is required</span>
@@ -40,7 +40,7 @@
                             name="time"
                             placeholder=" "
                             onclick="this.setAttribute('type', 'time');"
-                            class="pt-3 pb-2 block w-full px-0 mt-0 bg-transparent border-0 border-b-2 appearance-none focus:outline-none focus:ring-0 focus:border-black border-gray-200"
+                            class="pt-3 pb-2 block w-full px-0 mt-0 bg-transparent border-0 border-b-2 appearance-none focus:outline-none focus:ring-0 focus:border-black border-gray-200 text-white"
                         />
                         <label for="time" class="absolute duration-300 top-3 -z-1 origin-0 text-gray-500">Time</label>
                         <span class="text-sm text-red-600 hidden" id="error">Time is required</span>
@@ -48,9 +48,16 @@
                     </div>
                     </div>
 
+                    <h1 class="uppercase font-bold tracking-widest text-b2w-50 text-sm mb-4">Total price</h1>
+                    <div class="text-white">
+                        <p>Selected Vehicle : {{ selected.plate}}</p>
+                        <p>Vehicle Type : {{ selected.value }}</p>
+                        <p>Type of Wash : Normal</p>
+                        <p>Total Price : {{ selected.price }}</p>
+                    </div>
 
 
-                    <h1 class="uppercase font-bold tracking-widest text-b2w-50 text-sm">Add payment method</h1>
+                    <h1 class="uppercase font-bold tracking-widest text-b2w-50 text-sm mt-4">Add payment method</h1>
 
 
                     <div class="my-4 flex justify-between gap-5">
@@ -76,7 +83,10 @@
                         <h1 class="text-center font-bold tracking-wider text-white mt-4">Carwash Cyberjaya</h1>
                         <p class="text-gray-500 mt-1 text-center">Jalan Teknorat Cyberjaya</p>
                         <br/>
+
+                        <a href="/viewratings">
                         <button class="bg-b2w-900 py-2 px-4 rounded-full text-white text-sm font-semibold">View Ratings</button>
+                        </a>
 
                         <div class="mt-5 flex justify-center mx-10 mb-5">
                             <div class="text-center">
@@ -89,11 +99,8 @@
                         <h1 class="font-bold tracking-wider text-white">Select Your Vehicle</h1>
 
 
-                        <select id="vehicle_id" name="vehicle_id" class="mt-4 block w-full py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-b2w-900 focus:border-b2w-900 sm:text-sm" @change="changeCategory">
-                            <option value="">-- select vehicle no --</option>
-                            <option value="1" data-val="1">VAE2483</option>
-                            <option value="2" data-val="2">PNU151</option>
-                            <option value="2" data-val="2">WWU2871</option>
+                        <select v-model="selectedVal" class="mt-4 block w-full py-2 px-3 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-b2w-900 focus:border-b2w-900 sm:text-sm">
+                            <option v-for="option in options" :key="option">{{option.plate}}</option>
                         </select>
 
                         <p class="text-sm text-gray-500 m-4">Or</p>
@@ -177,8 +184,35 @@ export default {
     },
 
     data:() => ({
-        paymentType:null
+        paymentType:null,
+        selectedVal: "VAE 2483",
+
+        options: [{
+        plate: 'VAE 2483',
+        value: 'Sedan',
+        price: 'RM12.00'
+        },
+        {
+        plate: 'PNU 151',
+        value: 'Hatchback',
+        price: 'RM10.00'
+        },
+        {
+        plate: 'WWU 2871',
+        value: 'SUV',
+        price: 'RM14.00'
+        },
+    ]
     }),
+
+    computed: {
+    selected() {
+
+        return this.options.find(op => {
+        return op.plate == this.selectedVal
+        })
+    }
+    },
 
     updated(){
         console.log(this.paymentType)
