@@ -14,3 +14,5 @@ yarn-error.log
 /.idea
 /.vscode
 webpack.mix.js
+public/css
+public/js

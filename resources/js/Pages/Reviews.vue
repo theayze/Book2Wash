@@ -1,4 +1,5 @@
 <template>
+<Head title="Reviews" />
 
         <div>
 
@@ -53,9 +54,9 @@
                     </div>
                 </div>
 
-                <a>
+                <Link :href="route('logout')" method="post" as="button">
                     <button type="button" class="justify-right bg-b2w-900 text-sm px-4 py-1 shadow-md m-1 rounded text-gray-200 font-semibold hover:bg-b2wdark-900 transition duration-200 each-in-out">Log Out</button>
-                </a>
+                </Link>
 
 
 
@@ -197,5 +198,16 @@
 
 </template>
 
+<script>
+import { Link } from '@inertiajs/inertia-vue3';
+import { Head } from '@inertiajs/inertia-vue3';
+
+export default {
+    components: {
+        Link,
+        Head,
+    },
+}
+</script>
 
 
