@@ -54,15 +54,18 @@
 
 
                     <div class="my-4 flex justify-between gap-5">
-                            <button class="border-2 focus:border-b2w-900 border-gray-200 rounded-lg py-2  w-full text-white text-center">
+                            <button @click="setPaymentType(1)" class="border-2 focus:border-b2w-900 border-gray-200 rounded-lg py-2  w-full text-white text-center">
                                 Cash
                             </button>
-                            <button class="border-2 focus:border-b2w-900 border-gray-200 rounded-lg py-2 w-full  text-white text-center">
+                            <button @click="setPaymentType(2)" class="border-2 focus:border-b2w-900 border-gray-200 rounded-lg py-2 w-full  text-white text-center">
                                 Debit/Credit Card
                             </button>
                     </div>
 
-                <a href="/payment">
+                <a v-if="this.paymentType==1" href="/bookingcomplete">
+                    <button class="w-full rounded-sm py-7 mt-7 text-center bg-b2w-900 text-white font-bold tracking-wider">Procced to Payment    &rarr;</button>
+                </a>
+                <a v-else href="/payment">
                     <button class="w-full rounded-sm py-7 mt-7 text-center bg-b2w-900 text-white font-bold tracking-wider">Procced to Payment    &rarr;</button>
                 </a>
                 </div>
@@ -171,6 +174,22 @@ export default {
         Head,
         Button,
         Input,
+    },
+
+    data:() => ({
+        paymentType:null
+    }),
+
+    updated(){
+        console.log(this.paymentType)
+    },
+
+    methods: {
+        setPaymentType(type)
+        {
+            this.paymentType=type
+            console.log("test"+this.paymentType)
+        }
     },
 }
 
