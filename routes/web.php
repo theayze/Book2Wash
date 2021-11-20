@@ -9,7 +9,9 @@ use App\Http\Controllers\ViewUsersController;
 use App\Http\Controllers\ViewAdminsController;
 use App\Http\Controllers\SuperAdminController;
 use App\Http\Controllers\BookingHistoryController;
+use App\Http\Controllers\DashboardController;
 use App\Http\Controllers\ReviewsController;
+use App\Http\Controllers\viewratings;
 use Illuminate\Foundation\Application;
 use Illuminate\Support\Facades\Route;
 use Inertia\Inertia;
@@ -51,6 +53,9 @@ Route::middleware(['auth'])->group(function () {
     //profile routes
     Route::get('/rate', [UserProfileController::class, 'index'])->name('rate');
 
+    //ratings routes
+    Route::get('/viewratings',[viewratings::class, 'index'])->name('viewratings');
+
 });
 
 Route::middleware(['role:admin'])->group(function () {
@@ -64,7 +69,7 @@ Route::middleware(['role:admin'])->group(function () {
     Route::get('/BookingHistory', function () {
         return Inertia::render('BookingHistory');
     })->middleware(['auth', 'verified'])->name('BookingHistory');
-    
+
     Route::get('/Reviews', function () {
         return Inertia::render('Reviews');
     })->middleware(['auth', 'verified'])->name('Reviews');
@@ -80,7 +85,7 @@ Route::middleware(['role:superadmin'])->group(function () {
     Route::get('/ViewAdmins', function () {
         return Inertia::render('ViewAdmins');
     })->middleware(['auth', 'verified'])->name('ViewAdmins');
-    
+
     Route::get('/ViewUsers', function () {
         return Inertia::render('ViewUsers');
     })->middleware(['auth', 'verified'])->name('ViewUsers');
@@ -88,10 +93,12 @@ Route::middleware(['role:superadmin'])->group(function () {
 
 
 
-
+// Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
+//     return Inertia::render('Dashboard', [DashboardController::class, 'index']);
+// });
 
 Route::get('/dashboard', function () {
-    return Inertia::render('Dashboard');
+    return Inertia::render('Dashboard',[DashboardController::class, 'index']);
 })->middleware(['auth', 'verified'])->name('dashboard');
 
 Route::get('/dashboard/editprofile', function () {

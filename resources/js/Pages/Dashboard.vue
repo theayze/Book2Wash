@@ -22,10 +22,10 @@
             </div>
         </div>
         <label class="font-bold text-gray-100 text-lg">
-            Rai Raksa Muhamad
+            {{ $page.props.auth.user.name }}
         </label>
         <p class="text-center text-gray-200 mt-2 leading-relaxed">
-            test@test.com
+            {{ $page.props.auth.user.email }}
         </p>
         <p class="text-center text-gray-200 mt-2 leading-relaxed">
             +60192273532
@@ -114,6 +114,9 @@ export default {
     components: {
         BreezeAuthenticatedLayout,
         Head,
+    },
+    props: {
+        users: Array,
     },
 }
 </script>
