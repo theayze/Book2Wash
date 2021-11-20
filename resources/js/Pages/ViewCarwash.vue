@@ -48,16 +48,22 @@
                     </div>
                     </div>
 
-                    <h1 class="uppercase font-bold tracking-widest text-b2w-50 text-sm mb-4">Total price</h1>
-                    <div class="text-white">
-                        <p>Selected Vehicle : {{ selected.plate}}</p>
+                    <h1 class="uppercase font-bold tracking-widest text-b2w-50 text-sm my-4">Total price</h1>
+                    <div v-if="!othervehicle" class="text-white">
+                        <p>Selected Vehicle : {{ selected.plate }}</p>
+                        <p>Vehicle Type : {{ selected.value }}</p>
+                        <p>Type of Wash : Normal</p>
+                        <p>Total Price : {{ selected.price }}</p>
+                    </div>
+                    <div v-else class="text-white">
+                        <p>Selected Vehicle : {{ othervehicle }}</p>
                         <p>Vehicle Type : {{ selected.value }}</p>
                         <p>Type of Wash : Normal</p>
                         <p>Total Price : {{ selected.price }}</p>
                     </div>
 
 
-                    <h1 class="uppercase font-bold tracking-widest text-b2w-50 text-sm mt-4">Add payment method</h1>
+                    <h1 class="uppercase font-bold tracking-widest text-b2w-50 text-sm my-4">Add payment method</h1>
 
 
                     <div class="my-4 flex justify-between gap-5">
@@ -107,15 +113,16 @@
 
                         <div class="md:flex md:flex-row md:space-x-4 w-full text-xs">
 								<div class="w-full flex flex-col mb-3">
-									<input placeholder="Insert Vehicle Plate Number" class="appearance-none block w-full border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-b2w-900 focus:border-b2w-900 sm:text-sm h-10 px-4" type="text" name="integration[street_address]" id="integration_street_address">
+									<input placeholder="Insert Vehicle Plate Number" v-model="othervehicle" class="appearance-none block w-full border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-b2w-900 focus:border-b2w-900 sm:text-sm h-10 px-4" type="text">
                                     </div>
                                         <div class="w-full flex flex-col mb-3">
-                                        <select class="block w-full border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-b2w-900 focus:border-b2w-900 sm:text-sm h-10 px-4 md:w-full " required="required" name="integration[city_id]" id="integration_city_id">
-                                        <option value="">Select Vehicle Type</option>
-                                        <option value="">Hatchback</option>
-                                        <option value="">Sedan</option>
-                                        <option value="">SUV</option>
-                                        <option value="">Motorcycle</option>
+                                        <select v-model="selectedVal" class="block w-full border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-b2w-900 focus:border-b2w-900 sm:text-sm h-10 px-4 md:w-full " >
+                                        <option disabled selected>Select Vehicle Type</option>
+                                        <!-- <option value="1">Hatchback</option>
+                                        <option value="2">Sedan</option>
+                                        <option value="3">SUV</option>
+                                        <option value="4">Motorcycle</option> -->
+                                        <option v-for="option in options" :key="option">{{option.value}}</option>
                                         </select>
 									</div>
 								</div>
@@ -185,6 +192,7 @@ export default {
 
     data:() => ({
         paymentType:null,
+
         selectedVal: "VAE 2483",
 
         options: [{
@@ -202,20 +210,25 @@ export default {
         value: 'SUV',
         price: 'RM14.00'
         },
-    ]
+
+        ],
+
     }),
 
     computed: {
     selected() {
 
         return this.options.find(op => {
-        return op.plate == this.selectedVal
+            return op.plate == this.selectedVal
+            return op.value == this.selectedVal
         })
+
     }
     },
 
     updated(){
         console.log(this.paymentType)
+        console.log(this.vehicleSelect)
     },
 
     methods: {
@@ -223,9 +236,10 @@ export default {
         {
             this.paymentType=type
             console.log("test"+this.paymentType)
-        }
+        },
     },
 }
+
 
 
 </script>
