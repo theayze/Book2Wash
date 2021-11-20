@@ -9,6 +9,7 @@ use App\Http\Controllers\ViewUsersController;
 use App\Http\Controllers\ViewAdminsController;
 use App\Http\Controllers\SuperAdminController;
 use App\Http\Controllers\BookingHistoryController;
+use App\Http\Controllers\DashboardController;
 use App\Http\Controllers\ReviewsController;
 use App\Http\Controllers\viewratings;
 use Illuminate\Foundation\Application;
@@ -92,10 +93,12 @@ Route::middleware(['role:superadmin'])->group(function () {
 
 
 
-
+// Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
+//     return Inertia::render('Dashboard', [DashboardController::class, 'index']);
+// });
 
 Route::get('/dashboard', function () {
-    return Inertia::render('Dashboard');
+    return Inertia::render('Dashboard',[DashboardController::class, 'index']);
 })->middleware(['auth', 'verified'])->name('dashboard');
 
 Route::get('/dashboard/editprofile', function () {
