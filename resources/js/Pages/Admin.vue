@@ -83,7 +83,6 @@
                     <div class="text-center px-14">
                         <h2 class="text-gray-800 text-3xl font-bold mt-4">Carwash Cyberjaya</h2>
                         <p class="text-gray-400 mt-2">Jalan Teknorat Cyberjaya</p>
-                        <p class="mt-2 text-gray-600">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, </p>
                         <div class="my-4">
                             <a>
                             <button type="button" class="w-1/2 bg-b2w-900 text-sm px-4 py-1  m-1 rounded text-gray-200 font-semibold hover:bg-b2wdark-900 transition duration-200 each-in-out">Edit Profile</button>
@@ -98,7 +97,7 @@
                         </div>
                         <div class="border"></div>
                         <div class="text-center w-1/2 p-4 hover:bg-gray-100 cursor-pointer">
-                            <p> <span class="font-semibold">500 </span> Appointments</p>
+                            <p> <span class="font-semibold">3 </span> Appointments</p>
                         </div>
 
                     </div>
@@ -141,102 +140,9 @@
                                                 <div class="flex items-center">
 
                                                     <div class="ml-4">
-                                                        <div class="text-sm leading-5 font-medium text-gray-900">PNU 151
-                                                        </div>
-                                                        <div class="text-sm leading-5 text-gray-500">Nur Dheya</div>
-                                                    </div>
-                                                </div>
-                                            </td>
-
-                                            <td class="px-6 py-4 whitespace-no-wrap border-b border-gray-200">
-                                                <div class="text-sm leading-5 text-gray-900">Hatchback</div>
-                                                <div class="text-sm leading-5 text-gray-500"></div>
-                                            </td>
-
-                                            <td class="px-6 py-4 whitespace-no-wrap border-b border-gray-200">
-                                                <span
-                                                    class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800">Pending</span>
-                                            </td>
-
-                                            <td
-                                                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500">
-                                                14-12 16:00</td>
-
-                                            <td
-                                                class="px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium">
-                                                <a href="#" class="text-b2w-800 hover:text-b2wdark-900">Edit</a>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="px-6 py-4 whitespace-no-wrap border-b border-gray-200">
-                                                <div class="flex items-center">
-
-                                                    <div class="ml-4">
-                                                        <div class="text-sm leading-5 font-medium text-gray-900">WA 765 D
-                                                        </div>
-                                                        <div class="text-sm leading-5 text-gray-500">Mesut Ozil</div>
-                                                    </div>
-                                                </div>
-                                            </td>
-
-                                            <td class="px-6 py-4 whitespace-no-wrap border-b border-gray-200">
-                                                <div class="text-sm leading-5 text-gray-900">SUV</div>
-                                                <div class="text-sm leading-5 text-gray-500"></div>
-                                            </td>
-
-                                            <td class="px-6 py-4 whitespace-no-wrap border-b border-gray-200">
-                                                <span
-                                                    class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800">Pending</span>
-                                            </td>
-
-                                            <td
-                                                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500">
-                                                14-12 16:15</td>
-
-                                            <td
-                                                class="px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium">
-                                                <a href="#" class="text-b2w-800 hover:text-b2wdark-900">Edit</a>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="px-6 py-4 whitespace-no-wrap border-b border-gray-200">
-                                                <div class="flex items-center">
-
-                                                    <div class="ml-4">
-                                                        <div class="text-sm leading-5 font-medium text-gray-900">BNU 7243
-                                                        </div>
-                                                        <div class="text-sm leading-5 text-gray-500">Emile Smith Rowe</div>
-                                                    </div>
-                                                </div>
-                                            </td>
-
-                                            <td class="px-6 py-4 whitespace-no-wrap border-b border-gray-200">
-                                                <div class="text-sm leading-5 text-gray-900">Sedan</div>
-                                                <div class="text-sm leading-5 text-gray-500"></div>
-                                            </td>
-
-                                            <td class="px-6 py-4 whitespace-no-wrap border-b border-gray-200">
-                                                <span
-                                                    class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800">Paid</span>
-                                            </td>
-
-                                            <td
-                                                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500">
-                                                14-12 17:00</td>
-
-                                            <td
-                                                class="px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium">
-                                                <a href="#" class="text-b2w-800 hover:text-b2wdark-900">Edit</a>
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td class="px-6 py-4 whitespace-no-wrap border-b border-gray-200">
-                                                <div class="flex items-center">
-
-                                                    <div class="ml-4">
                                                         <div class="text-sm leading-5 font-medium text-gray-900">VAE 2483
                                                         </div>
-                                                        <div class="text-sm leading-5 text-gray-500">Fahmi Mikail</div>
+                                                        <div class="text-sm leading-5 text-gray-500">Gabe Carter</div>
                                                     </div>
                                                 </div>
                                             </td>
@@ -248,16 +154,23 @@
 
                                             <td class="px-6 py-4 whitespace-no-wrap border-b border-gray-200">
                                                 <span
-                                                    class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800">Paid</span>
+                                                    class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800">Pending</span>
                                             </td>
 
                                             <td
                                                 class="px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500">
-                                                14-12 17:20</td>
+                                                21-11 17:00</td>
 
                                             <td
                                                 class="px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium">
-                                                <a href="#" class="text-b2w-800 hover:text-b2wdark-900">Edit</a>
+                                                <div class="relative inline-flex">
+                                                    <svg class="w-2 h-2 absolute top-0 right-0 m-4 pointer-events-none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 232"><path d="M206 171.144L42.678 7.822c-9.763-9.763-25.592-9.763-35.355 0-9.763 9.764-9.763 25.592 0 35.355l181 181c4.88 4.882 11.279 7.323 17.677 7.323s12.796-2.441 17.678-7.322l181-181c9.763-9.764 9.763-25.592 0-35.355-9.763-9.763-25.592-9.763-35.355 0L206 171.144z" fill="#648299" fill-rule="nonzero"/></svg>
+                                                    <select class="border border-gray-300 rounded-full text-gray-600 h-10 pl-5 pr-10 bg-white hover:border-gray-400 focus:outline-none appearance-none">
+                                                        <option>Edit</option>
+                                                        <option>Mark as Done</option>
+                                                        <option class="text-red">Cancel</option>
+                                                    </select>
+                                                    </div>
                                             </td>
                                         </tr>
                                         <tr>
@@ -265,9 +178,9 @@
                                                 <div class="flex items-center">
 
                                                     <div class="ml-4">
-                                                        <div class="text-sm leading-5 font-medium text-gray-900">WWU 2871
+                                                        <div class="text-sm leading-5 font-medium text-gray-900">PNU 151
                                                         </div>
-                                                        <div class="text-sm leading-5 text-gray-500">Mikel Arteta</div>
+                                                        <div class="text-sm leading-5 text-gray-500">Gabe Carter</div>
                                                     </div>
                                                 </div>
                                             </td>
@@ -284,12 +197,20 @@
 
                                             <td
                                                 class="px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500">
-                                                14-12 17:30</td>
+                                                21-11 17:00</td>
 
                                             <td
                                                 class="px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium">
-                                                <a href="#" class="text-b2w-800 hover:text-b2wdark-900">Edit</a>
+                                                <div class="relative inline-flex">
+                                                    <svg class="w-2 h-2 absolute top-0 right-0 m-4 pointer-events-none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 412 232"><path d="M206 171.144L42.678 7.822c-9.763-9.763-25.592-9.763-35.355 0-9.763 9.764-9.763 25.592 0 35.355l181 181c4.88 4.882 11.279 7.323 17.677 7.323s12.796-2.441 17.678-7.322l181-181c9.763-9.764 9.763-25.592 0-35.355-9.763-9.763-25.592-9.763-35.355 0L206 171.144z" fill="#648299" fill-rule="nonzero"/></svg>
+                                                    <select class="border border-gray-300 rounded-full text-gray-600 h-10 pl-5 pr-10 bg-white hover:border-gray-400 focus:outline-none appearance-none">
+                                                        <option>Edit</option>
+                                                        <option>Mark as Done</option>
+                                                        <option class="text-red">Cancel</option>
+                                                    </select>
+                                                    </div>
                                             </td>
+
                                         </tr>
 
                                     </tbody>

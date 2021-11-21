@@ -24,7 +24,7 @@
 						<label class="text-sm font-semibold text-gray-100 py-2">Avatar<abbr class="hidden" title="required">*</abbr></label>
 						<div class="flex items-center py-6">
 							<div class="w-12 h-12 mr-4 flex-none rounded-xl border overflow-hidden">
-								<img class="w-12 h-12 mr-4 object-cover" src="https://rairaksa.github.io/assets/img/rai.jpg" alt="Avatar Upload">
+								<img class="w-12 h-12 mr-4 object-cover" src="/images/blank_profile.png" alt="Avatar Upload">
                 </div>
 								<label class="cursor-pointer ">
                 <span class="focus:outline-none text-white text-sm py-2 px-4 rounded-full bg-b2w-900 hover:bg-b2w-700 hover:shadow-lg">Browse</span>

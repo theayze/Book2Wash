@@ -12,13 +12,11 @@
 <body>
 
     <div class="bg-no-repeat bg-cover bg-center bg-fixed pt-24 pb-8 bg-b2w-300 max-w-screen mx-auto sm:px-6 lg:px-8 min-h-screen shadow-md" style="background-image: url('/svg/undraw_town_r6pc.svg')">
-        <!-- component -->
-<!-- This is an example component -->
 
     <div class="relative w-96 h-auto bg-opacity-95 bg-b2w-500 rounded-md pt-24 pb-8 px-4 shadow-md flex flex-col items-center flex w-8/12 bg-white shadow-md rounded-lg mx-auto">
         <div class="absolute rounded-full bg-gray-100 w-28 h-28 p-2 z-10 -top-8 shadow-lg">
             <div class="rounded-full bg-black w-full h-full overflow-auto">
-                <img src="https://rairaksa.github.io/assets/img/rai.jpg">
+                <img src="/images/blank_profile.png">
             </div>
         </div>
         <label class="font-bold text-gray-100 text-lg">
@@ -41,8 +39,7 @@
         </a>
 
     </div>
-<!-- component -->
-                        <!-- This is an example component -->
+
                             <div class="w-full">
                                 <div class='my-4 flex w-8/12 bg-b2w-500 bg-opacity-95 shadow-md rounded-lg overflow-hidden mx-auto'>
                                     <div class="flex flex-col w-full">
@@ -55,7 +52,7 @@
                                                     carwash cyberjaya
                                                 </span>
                                                 <span class="text-xs text-gray-500 uppercase font-medium ">
-                                                    Oct 20, 2021 17:00
+                                                    Nov 21, 2021 17:00
                                                 </span>
                                                 <div class="flex justify-end">
                                                     <a href="/rate">
@@ -77,21 +74,11 @@
                                                     Carwash Putrajaya
                                                     </span>
                                                     <span class="text-xs text-gray-500 uppercase font-medium ">
-                                                        Oct 19, 2021 17:00
+                                                        Nov 20, 2021 17:00
                                                     </span>
                                                 </div>
                                             </div>
-                                            <div class="flex border-b py-3 cursor-pointer hover:shadow-md px-2 ">
-                                                <div class="flex flex-col px-2 w-full">
 
-                                                    <span class="text-sm text-white capitalize font-semibold pt-1">
-                                                    Kedai Samad
-                                                    </span>
-                                                    <span class="text-xs text-gray-500 uppercase font-medium ">
-                                                        Oct 15, 2021 16:00
-                                                    </span>
-                                                </div>
-                                            </div>
                                         </div>
                                     </div>
                                 </div>

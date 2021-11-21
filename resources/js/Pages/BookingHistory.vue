@@ -224,15 +224,15 @@
                                                 <div class="flex items-center">
 
                                                     <div class="ml-4">
-                                                        <div class="text-sm leading-5 font-medium text-gray-900">VTD 7263
+                                                        <div class="text-sm leading-5 font-medium text-gray-900">VAE 2483
                                                         </div>
-                                                        <div class="text-sm leading-5 text-gray-500">Cristiano Ronaldo</div>
+                                                        <div class="text-sm leading-5 text-gray-500">Gabe Carter</div>
                                                     </div>
                                                 </div>
                                             </td>
 
                                             <td class="px-6 py-4 whitespace-no-wrap border-b border-gray-200">
-                                                <div class="text-sm leading-5 text-gray-900">Hatchback</div>
+                                                <div class="text-sm leading-5 text-gray-900">Sedan</div>
                                                 <div class="text-sm leading-5 text-gray-500"></div>
                                             </td>
 
@@ -243,119 +243,11 @@
 
                                             <td
                                                 class="px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500">
-                                                12-12 13:00</td>
+                                                20-11 17:00</td>
 
                                             <td
                                                 class="px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500">
                                                 RM 10.00</td>
-
-                                            <td
-                                                class="px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium">
-                                                <a href="#" class="text-b2w-800 hover:text-b2wdark-900">Info</a>
-                                            </td>
-                                        </tr>
-
-                                        <tr>
-                                            <td class="px-6 py-4 whitespace-no-wrap border-b border-gray-200">
-                                                <div class="flex items-center">
-
-                                                    <div class="ml-4">
-                                                        <div class="text-sm leading-5 font-medium text-gray-900">VFA 9487
-                                                        </div>
-                                                        <div class="text-sm leading-5 text-gray-500">Leonel Messi</div>
-                                                    </div>
-                                                </div>
-                                            </td>
-
-                                            <td class="px-6 py-4 whitespace-no-wrap border-b border-gray-200">
-                                                <div class="text-sm leading-5 text-gray-900">Sedan</div>
-                                                <div class="text-sm leading-5 text-gray-500"></div>
-                                            </td>
-
-                                            <td class="px-6 py-4 whitespace-no-wrap border-b border-gray-200">
-                                                <span
-                                                    class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800">Credit/Debit Card</span>
-                                            </td>
-
-                                            <td
-                                                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500">
-                                                12-12 16:10</td>
-
-                                            <td
-                                                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500">
-                                                RM 12.00</td>
-
-                                            <td
-                                                class="px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium">
-                                                <a href="#" class="text-b2w-800 hover:text-b2wdark-900">Info</a>
-                                            </td>
-                                        </tr>
-
-                                        <tr>
-                                            <td class="px-6 py-4 whitespace-no-wrap border-b border-gray-200">
-                                                <div class="flex items-center">
-
-                                                    <div class="ml-4">
-                                                        <div class="text-sm leading-5 font-medium text-gray-900">BEA 6237
-                                                        </div>
-                                                        <div class="text-sm leading-5 text-gray-500">Ahmad Ehsan</div>
-                                                    </div>
-                                                </div>
-                                            </td>
-
-                                            <td class="px-6 py-4 whitespace-no-wrap border-b border-gray-200">
-                                                <div class="text-sm leading-5 text-gray-900">Sedan</div>
-                                                <div class="text-sm leading-5 text-gray-500"></div>
-                                            </td>
-
-                                            <td class="px-6 py-4 whitespace-no-wrap border-b border-gray-200">
-                                                <span
-                                                    class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800">Cash</span>
-                                            </td>
-
-                                            <td
-                                                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500">
-                                                13-12 13:00</td>
-
-                                            <td
-                                                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500">
-                                                RM 12.00</td>
-
-                                            <td
-                                                class="px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium">
-                                                <a href="#" class="text-b2w-800 hover:text-b2wdark-900">Info</a>
-                                            </td>
-                                        </tr>
-
-                                        <tr>
-                                            <td class="px-6 py-4 whitespace-no-wrap border-b border-gray-200">
-                                                <div class="flex items-center">
-
-                                                    <div class="ml-4">
-                                                        <div class="text-sm leading-5 font-medium text-gray-900">TAS 3678
-                                                        </div>
-                                                        <div class="text-sm leading-5 text-gray-500">Fattah Amin</div>
-                                                    </div>
-                                                </div>
-                                            </td>
-
-                                            <td class="px-6 py-4 whitespace-no-wrap border-b border-gray-200">
-                                                <div class="text-sm leading-5 text-gray-900">SUV</div>
-                                                <div class="text-sm leading-5 text-gray-500"></div>
-                                            </td>
-
-                                            <td class="px-6 py-4 whitespace-no-wrap border-b border-gray-200">
-                                                <span
-                                                    class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-green-100 text-green-800">Credit/Debit Card</span>
-                                            </td>
-
-                                            <td
-                                                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500">
-                                                13-12 18:00</td>
-
-                                            <td
-                                                class="px-6 py-4 whitespace-no-wrap border-b border-gray-200 text-sm leading-5 text-gray-500">
-                                                RM 16.00</td>
 
                                             <td
                                                 class="px-6 py-4 whitespace-no-wrap text-right border-b border-gray-200 text-sm leading-5 font-medium">
